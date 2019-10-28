@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="coda",
-    version="0.0.1",
+    name="coda-docs",
+    version="0.0.2",
     author="Vitalik",
     author_email="2vitalik@gmail.com",
     description="Coda data for different projects",
