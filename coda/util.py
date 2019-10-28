@@ -1,4 +1,8 @@
+import os
+
 import yaml
+
+root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 def read_yaml(filename):
