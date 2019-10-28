@@ -2,7 +2,7 @@ from coda.util import read_yaml, root_dir
 
 
 class Coda:
-    def __init__(self, doc_name, token):
+    def __init__(self, doc_name, token=None):
         self.doc_name = doc_name
         self.token = token
         self._data = read_yaml(f'{root_dir}/data/{self.doc_name}.yaml')
