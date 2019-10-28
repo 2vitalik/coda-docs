@@ -11,7 +11,7 @@ setuptools.setup(
     description="Coda data for different projects",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/2vitalik/coda",
+    url="https://github.com/2vitalik/coda-docs",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
