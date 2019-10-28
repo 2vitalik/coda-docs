@@ -1,0 +1,11 @@
+telegram_chat: -384149815
+doc_id: 5DlaDcDzwt
+tables:
+  choose:
+    table_id: grid-CFO2a5O8Ky
+    columns:
+      Студент: c-Kw-cCf5y_F
+      Тема проекта по геометрии: c-trs2g1-Gvs
+      Тема проекта по python: c-BVvS_LwOug
+    title:
+      - Студент

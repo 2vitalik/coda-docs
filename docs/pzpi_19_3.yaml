@@ -1,0 +1,23 @@
+telegram_chat: -366133931
+doc_id: -kWLGyqcpP
+tables:
+  students:
+    table_id: grid-OPeI6MFkeY
+    columns:
+      Фамилия: c-Zh1zaDw7DF
+      Имя: c-JmeNs-X4C3
+      Отчество: c-ATTEIfwNjR
+      День рождения: c-6iQNfWqZIv
+      Nure-почта: c-Sc0xu2d4CS
+      Gmail-почта: c-149GBbqIdF
+      Телефон: c-hPh1FOjS74
+      Instagram: c-zFaqS2JVIP
+      Контракт/бюджет: c-j9Hg4gNwMm
+      Вид проживания: c-lXOfdquy5z
+      Интересы: c-a_Ts3FlzMo
+      ok: c-jTdBSFsf_Z
+      ±: c-jwE2mnKeZs
+      ∓: c-kGt6LEuh98
+      ?: c-Mph5DVUKXn
+    title:
+      - Фамилия

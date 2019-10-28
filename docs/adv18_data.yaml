@@ -1,0 +1,69 @@
+#telegram_chat: -388687653  # debugging chat
+telegram_chat: -358956865
+doc_id: sVij7J4OPx
+tables:
+  blocks:
+    table_id: grid-bFxfyfKiu1
+    columns:
+      Название блока: c-VzcimOe5E3
+      Описание (todo): c-z2E9UH0ngP
+      Темы: c-vAntI3O1gU
+
+  themes:
+    table_id: grid-9SE9Qn8GGa
+    columns:
+      Название темы: c-inbiFFbn8p
+      Блок: c-QCsGpJeQos
+      URL: c-txB1ST_8vU
+      ID: c-GGv0JQzwOk
+      Примечание: c-IvZefcAm5v
+      num: c-SVF4GvkwFO
+
+  materials:
+    table_id: grid-CTaMKSn6ji
+    columns:
+      Тип: c-dL1Nczy2q_
+      Источник (ссылка или описание): c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто добавил: c-_15tGPeKHD
+      Комментарий об источнике: c-cCn1-xPtMd
+      Баллы: c-B05T3Ukf_E
+      Added: c-bOoN7FXSl-
+
+  examples:
+    table_id: grid-qdeH7nkooR
+    columns:
+      Текст примера и/или описание: c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто добавил: c-_15tGPeKHD
+      Картинки или фотографии: c-g3Q7S46Fwz
+      Преимущества примера: c-FO3pGv1Qpp
+
+  codes:
+    table_id: grid-INKjGKzpUg
+    columns:
+      Язык: c-dL1Nczy2q_
+      Код: c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто добавил: c-_15tGPeKHD
+      Описание / комментарий: c--546OBWKSi
+
+  additions:
+    table_id: grid-SpI4sDJUHK
+    columns:
+      Описание дополнения (идея, улучшение, упрощение, другой подход и т.п.): c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто предложил: c-_15tGPeKHD
+      Баллы: c-ybji4xtI-V
+      Added: c-POl8lLkibs
+
+  mistakes:
+    table_id: grid-6yAusjS-4A
+    columns:
+      Слайд(ы): c-dL1Nczy2q_
+      Описание ошибки: c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто нашёл: c-_15tGPeKHD
+      Fixed: c-KIOSnJKtDw
+      Баллы: c-6qiJEbMt7C
+      Added: c-OYIwg5UISG
