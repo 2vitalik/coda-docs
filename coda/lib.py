@@ -42,11 +42,11 @@ class Table:
                                      self.info)
 
     def update(self, row_id, changes):
-        return update_row_by_yaml(self.coda.coda_token, self.coda.doc_id,
+        return update_row_by_yaml(self.coda.token, self.coda.doc_id,
                                   self.info, row_id, changes)
 
     def append(self, row_data):
-        return append_row_by_yaml(self.coda.coda_token, self.coda.doc_id,
+        return append_row_by_yaml(self.coda.token, self.coda.doc_id,
                                   self.info, row_data)
 
 
