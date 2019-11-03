@@ -1,1 +1,1 @@
-include coda/data/*.yaml
+include coda/yaml/*.yaml
