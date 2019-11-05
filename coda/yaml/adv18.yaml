@@ -7,7 +7,7 @@ tables:
     title:
       - surname
     columns:
-      Студент: c-JWp1DUbKdT
+      student: c-JWp1DUbKdT
       surname: c-yhu4A9Rl_c
       name: c-HcR00YYWuP
       parentname: c-d_7pFYAo59
@@ -212,9 +212,13 @@ tables:
       🔎3?: c-c9a90NZkVo
       has_review_repo: c-3BNy7ihB6P
       🔎1.3?: c-NIol_qpvpk
-      Telegram ID: c-TFD5d6_2PN
+      telegram_id: c-TFD5d6_2PN
       tg: c-6236PHw-KS
-      idea: c-Y1uwuwOPY6
+      hint: c-Y1uwuwOPY6
+      move: c-7WqMxnNxXu
+      K1-A: c-Dc-QgeAaZi
+      K1-B: c-v5BJ8-PI-F
+      K1-C: c-cxv7sNossn
 
   presence_types:
     table_id: grid-FJLqonPvHw
@@ -243,6 +247,8 @@ tables:
       link_video: c-AXmx0r3FtE
       Time-метки: c-vdSQTUtH3L
       📽Видео: c-3ps4laCa3r
+    tg5: c-a7K1UEoxYC
+    tg1: c-jEkDRTVmGE
 
   contests:
     table_id: grid-mskk_ijYm7
@@ -277,6 +283,7 @@ tables:
       link-video: c-HsqUt5GStX
       Разбор: c-0i3f5A6SE2
       Видео разбора: c-Cv0-tYU2Ir
+      Тип: c-0Z7wh4A8Ko
 
   results_changes:
     table_id: grid-oCRSd-kD2g
@@ -285,3 +292,25 @@ tables:
       Итог: c-dLH39tkcu0
       Date: c-DBD4nV7SyY
 #      Текущий итог: c-EOboJsWWFe
+
+  project_themes:
+    table_id: grid-476c-E55G5
+    columns:
+      Тема: c-xaZ8yxCShU
+      Категория: c-uuLEUASzc_
+      В лекциях: c-gVN3U2guMm
+      Алгоритм (сложн.): c-jXCObkc_c4
+      Визуализация: c-xH9Ft0ga6M
+      student: c-1tuoVf2opC
+      key: c-wNkTGAi-l7
+      Рейтинг: c-Jaz5uVpFLh
+      Очередь: c-pKz3pI0WeQ
+      Староста: c-MAzT_U6mN3
+      Wanted: c-NRf9uSC28z
+      telegram_id: c-9TzjJF3S_H
+      NoProject: c-3SrDFx3-ON
+      telegram_username: c-GsiYvndqBw
+      project github: c-mH9MaXbviA
+      Paper-документ: c-KRrSQc7T5s
+      Рецензент 1: c-8DoUSLgKbj
+      Рецензент 2: c-3qQ2q5RtLy
