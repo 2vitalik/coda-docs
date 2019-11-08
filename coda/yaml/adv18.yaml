@@ -31,7 +31,7 @@ tables:
       lect3: c-_1utn7OnO7
       kw1: c-GKkml73aDE
       lect4: c-MO1qNRgCpH
-      lect5: c-kKihVpVyRe
+      '5: N/9': c-kKihVpVyRe
       lect6: c-xgEkELHvQ2
       lect7: c-cZgck8ui-5
       lect8: c-YLC8ynjG4T
@@ -236,19 +236,20 @@ tables:
       Attendees: c-pa03qeBE4b
       Title: c-8vBbJQKm3m
       num: c-Vpq5JPNoOl
-      Вид занятия: c-2Ch4HK2uJ6
+      type: c-2Ch4HK2uJ6
       Слайды: c--A3wcX_03Z
-      Дата: c-7wdRI8sDIb
-      Time: c-FxlWEZUwm1
+      date: c-7wdRI8sDIb
+      time: c-FxlWEZUwm1
 #      📽Видео (old): c-dpuz4pjgfI
-      To: c-eJMXEfPRCJ
-      Ауд.: c-rj2cRChjEs
+      to: c-eJMXEfPRCJ
+      room: c-rj2cRChjEs
       Bot for Video: c-BbCGkZ6XS4
       link_video: c-AXmx0r3FtE
       Time-метки: c-vdSQTUtH3L
       📽Видео: c-3ps4laCa3r
-    tg5: c-a7K1UEoxYC
-    tg1: c-jEkDRTVmGE
+      tg5: c-a7K1UEoxYC
+      tg1: c-jEkDRTVmGE
+      Посещение: c-swrnn6uiMK
 
   contests:
     table_id: grid-mskk_ijYm7

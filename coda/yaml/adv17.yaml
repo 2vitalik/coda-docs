@@ -23,7 +23,7 @@ tables:
 
       Активный: c-8C5EEZJiBj
       base: c-CngBAI2xlJ
-      Яндекс-аккаунт: c-Xe_VWfWkfc
+      yandex_account: c-Xe_VWfWkfc
       ДЗ 1: c-ipqjLCH_7g
       ДЗ 2: c-HMFP5yKsl-
       ДЗ 3: c-fJRXc4jUr3
@@ -33,7 +33,7 @@ tables:
 
       lect7: c-cZgck8ui-5
       lect8: c-YLC8ynjG4T
-      lect9: c-Vgv7wX4RPb
+      '9: N/9': c-Vgv7wX4RPb
       lect10: c-hbW0mY_Czw
       kr2: c-SVtlEn3acm
       lect2: c-0ubwtJbujQ
@@ -194,6 +194,17 @@ tables:
       hide 📐: c-3OG-1H4Po6
       hide 🐍: c-GCdcV1o9F_
       github: c-W8sk65huqm
+      '11:  D/7': c-IVR6Ul7D91
+      '12:  D/28': c-uEKcrbGAoh
+      '4: N/2': c-z5UdwP1We_
+      '5: N/7': c-QHPciB2O0a
+      '6: N/16': c-n_WTFiOjBm
+      '7: N/30': c-rKDHeJcLVx
+      '3: O/23': c-LY0eK96Ond
+      '8: D/21': c-R2awk1Wy-V
+      telegram_id: c-h8HKMergXo
+      tg: c-Z1WRGj0yh_
+      ДЗ 1.1: c-R5GcRQQ0e6
     title:
       - Студент
 
@@ -212,20 +223,21 @@ tables:
       End: c-In_cCInW96
       Attendees: c-pa03qeBE4b
       Title: c-8vBbJQKm3m
-      #: c-Vpq5JPNoOl
-      Вид занятия: c-2Ch4HK2uJ6
+      num: c-Vpq5JPNoOl
+      type: c-2Ch4HK2uJ6
       Слайды: c--A3wcX_03Z
-      Дата: c-7wdRI8sDIb
-      Time: c-FxlWEZUwm1
+      date: c-7wdRI8sDIb
+      time: c-FxlWEZUwm1
       📽Видео (old): c-dpuz4pjgfI
-      To: c-eJMXEfPRCJ
-      Ауд.: c-rj2cRChjEs
+      to: c-eJMXEfPRCJ
+      room: c-rj2cRChjEs
       Bot for Video: c-BbCGkZ6XS4
       link_video: c-AXmx0r3FtE
       Time-метки: c-vdSQTUtH3L
-      Предмет: c-FK9IyRDaKK
+      discipline: c-FK9IyRDaKK
       Column 20: c-V5FTA5p3FD
       📽Видео: c-yPRbnMoJnI
+      Посещение: c-T9Ur78cDy-
 
   project_themes:
     table_id: grid-LqSXqZZa8x
