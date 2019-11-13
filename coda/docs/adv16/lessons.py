@@ -8,8 +8,8 @@ class Lessons(IndexerMixin):
         self.table = self.coda.lessons
         self.data = self.table.rows_dict()
 
-    def get(self, type, num):
+    def get(self, num):
         for row_id, row_data in self.data.items():
-            if row_data['type'] == type and row_data['num'] == num:
+            if row_data['num'] == num:
                 return row_id
         return None
