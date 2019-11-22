@@ -2,6 +2,10 @@
 
 ## Changes History
 
+### v.0.0.10
+* Updated `adv17.yaml`:
+    * renamed fields: `'10: N/23'`, `'11: D/7'`, `'12: D/28'`
+
 ### v.0.0.9
 * Updated `adv18.yaml`:
     * renamed fields: `'6: N/23'`, `'7: D/7'`, `'8: D/28'`
