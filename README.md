@@ -2,6 +2,10 @@
 
 ## Changes History
 
+### v.0.0.12
+* Updated `adv16.yaml`:
+    * add field: `'12-d3'`
+
 ### v.0.0.11
 * Updated `adv16.yaml`:
     * renamed fields: `'10-n26'`, `'11-n29'`
