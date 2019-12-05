@@ -2,6 +2,10 @@
 
 ## Changes History
 
+### v.0.0.13
+* Updated `adv16.yaml`:
+    * add fields: `'14-d10'`, `'15-d13'`, `'16-d17'`, etc.
+
 ### v.0.0.12
 * Updated `adv16.yaml`:
     * add field: `'12-d3'`
