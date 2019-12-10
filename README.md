@@ -2,6 +2,10 @@
 
 ## Changes History
 
+### v.0.0.14
+* Updated `adv17.yaml` and `adv18.yaml`:
+    * add fields: `'кр: D/14'`
+
 ### v.0.0.13
 * Updated `adv16.yaml`:
     * add fields: `'14-d10'`, `'15-d13'`, `'16-d17'`, etc.
