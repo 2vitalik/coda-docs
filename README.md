@@ -2,6 +2,10 @@
 
 ## Changes History
 
+### v.0.0.15
+* Updated `adv17.yaml`:
+    * remove a lot of redundant fields
+
 ### v.0.0.14
 * Updated `adv17.yaml` and `adv18.yaml`:
     * add fields: `'кр: D/14'`
