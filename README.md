@@ -2,6 +2,10 @@
 
 ## Changes History
 
+### v.0.0.19
+* Updated `adv18.yaml`:
+    * added fields '9: J/11', '≈', 'Ведомость', 'src', 'v+', 'Project'
+
 ### v.0.0.18
 * Updated `adv17.yaml`:
     * renamed fields '7: D/21' and '8: J/18'
