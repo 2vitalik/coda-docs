@@ -2,9 +2,13 @@
 
 ## Changes History
 
+### v.0.0.17
+* Updated `adv16.yaml`:
+    * renamed fields '19-j14', '20-j17', '21-j21', etc.
+
 ### v.0.0.16
 * Updated `adv16.yaml`:
-    * remove a lot of redundant fields
+    * renamed fields '17-d24' and '18-j10'
 
 ### v.0.0.15
 * Updated `adv17.yaml`:
