@@ -2,6 +2,10 @@
 
 ## Changes History
 
+### v.0.0.18
+* Updated `adv17.yaml`:
+    * renamed fields '7: D/21' and '8: J/18'
+
 ### v.0.0.17
 * Updated `adv16.yaml`:
     * renamed fields '19-j14', '20-j17', '21-j21', etc.
