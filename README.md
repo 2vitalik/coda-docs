@@ -2,6 +2,10 @@
 
 ## Changes History
 
+### v.0.0.16
+* Updated `adv16.yaml`:
+    * remove a lot of redundant fields
+
 ### v.0.0.15
 * Updated `adv17.yaml`:
     * remove a lot of redundant fields
