@@ -2,6 +2,10 @@
 
 ## Changes History
 
+### v.0.0.20
+* Add argument `semester`
+* Regroup yaml files by semesters
+
 ### v.0.0.19
 * Updated `adv18.yaml`:
     * added fields '9: J/11', '≈', 'Ведомость', 'src', 'v+', 'Project'

@@ -5,10 +5,11 @@ from coda.util import read_yaml, root_dir
 
 
 class Coda:
-    def __init__(self, doc_name, token=None):
+    def __init__(self, doc_name, semester='default', token=None):
         self.doc_name = doc_name
         self.token = token
-        self._data = read_yaml(f'{root_dir}/yaml/{self.doc_name}.yaml')
+        path = f'{root_dir}/yaml/{semester}/{self.doc_name}.yaml'
+        self._data = read_yaml(path)
         self.doc_id = self._data['doc_id']
         self.telegram_chat = self._data['telegram_chat']
         self._tables = self._data['tables']
@@ -51,7 +52,7 @@ class Table:
 
 
 if __name__ == '__main__':
-    coda = Coda('adv18')
+    coda = Coda('adv18', '2019-2')
     print(coda.doc_name)
     print(coda.students)
     print(coda.unknown)

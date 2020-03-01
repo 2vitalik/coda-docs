@@ -3,8 +3,8 @@ from coda.lib import Coda
 
 
 class Lessons(IndexerMixin):
-    def __init__(self, coda_token):
-        self.coda = Coda('adv16', coda_token)
+    def __init__(self, semester, coda_token):
+        self.coda = Coda('adv16', semester, coda_token)
         self.table = self.coda.lessons
         self.data = self.table.rows_dict()
 

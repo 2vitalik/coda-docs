@@ -3,8 +3,8 @@ from coda.lib import Coda
 
 
 class Students(IndexerMixin):  # todo: some common base class?
-    def __init__(self, coda_token, skip_load_data=False):  # todo: default: True?
-        self.coda = Coda('adv17', coda_token)
+    def __init__(self, semester, coda_token, skip_load_data=False):  # todo: default: True?
+        self.coda = Coda('adv17', semester, coda_token)
         self.table = self.coda.students
         self.data = self.load_data() if not skip_load_data else None
         self.indexes = {}  # todo: move to indexer mixin
