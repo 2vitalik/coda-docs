@@ -15,3 +15,8 @@ yaml.reader.Reader.NON_PRINTABLE = re.compile(
 
 def read_yaml(filename):
     return yaml.load(open(filename, encoding='utf-8'), Loader=yaml.BaseLoader)
+
+
+def write_yaml(filename, data):
+    return yaml.dump(data, open(filename, 'w', encoding='utf-8'),
+                     allow_unicode=True, sort_keys=False)
