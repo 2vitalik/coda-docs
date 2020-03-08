@@ -1,3 +1,4 @@
 PyYAML
 requests
-git+https://github.com/2vitalik/shared_utils
+
+git+ssh://git@github.com/2vitalik/shared_utils.git
