@@ -1,4 +1,4 @@
-telegram_chat: -291308716
+telegram_chat: '-291308716'
 doc_id: zqT1QhwbTC
 tables:
   students:
@@ -14,10 +14,10 @@ tables:
       Яндекс-почта: c-yq52Fv-Fv1
       '1: F/22': c-E2HwtxwoTV
       '2: F/29': c-GDZD5_qPHv
-      '3: S/12': c-_1utn7OnO7
-      '7:  O/19': c-GKkml73aDE
-      '4: S/21': c-MO1qNRgCpH
-      '5: O/5': c-kKihVpVyRe
+      '3: M/07': c-_1utn7OnO7
+      '7: A/11': c-GKkml73aDE
+      '4: M/14': c-MO1qNRgCpH
+      '5: M/21': c-kKihVpVyRe
       '1: F/29': c-xgEkELHvQ2
       Активный: c-8C5EEZJiBj
       base: c-CngBAI2xlJ
@@ -28,12 +28,12 @@ tables:
       ДЗ 4: c-Jgyzo4qNXJ
       ДЗ *: c-CIDyO0wCq5
       ДЗ ∑: c-JrrXptBOmY
-      '6:  O/11': c-cZgck8ui-5
-      '8:  O/25': c-YLC8ynjG4T
-      '9: N/9': c-Vgv7wX4RPb
-      '10: N/23': c-hbW0mY_Czw
-      'кр: D/14': c-SVtlEn3acm
-      '2: O/12': c-0ubwtJbujQ
+      '6:  A/04': c-cZgck8ui-5
+      '8: A/18': c-YLC8ynjG4T
+      '9: A/25': c-Vgv7wX4RPb
+      '10: M/2': c-hbW0mY_Czw
+      ⌛️ M/28: c-SVtlEn3acm
+      '2: M/14': c-0ubwtJbujQ
       'Review #1 Repo': c-mL5HJn9Ds1
       'Review #1': c-8IBxlzETUW
       'Review #2 Repo': c-SAb9ITQSZS
@@ -85,7 +85,7 @@ tables:
       кр.2 C↓: c-Mg3YACOziU
       ✅ Зачёт: c-ujL9K692ko
       pz3: c-YSgl7bJOsn
-      '12': c-HITi9OElp2
+      '2: M/6': c-HITi9OElp2
       кр.3 A#: c-KakrYDlA4U
       кр.3 B#: c--cGGled3eb
       кр.3 C#: c--h7k50RSFg
@@ -162,14 +162,14 @@ tables:
       hide 🤖: c-3OG-1H4Po6
       hide 🕸: c-GCdcV1o9F_
       github: c-W8sk65huqm
-      '11: D/7': c-IVR6Ul7D91
-      '12: D/28': c-uEKcrbGAoh
-      '4: N/2': c-z5UdwP1We_
-      '5: N/7': c-QHPciB2O0a
-      '6: N/16': c-n_WTFiOjBm
+      ⌛️ M/16: c-IVR6Ul7D91
+      '3: M/20': c-uEKcrbGAoh
+      '4: A/11': c-z5UdwP1We_
+      '5: A/18': c-QHPciB2O0a
+      '6: A/25': c-n_WTFiOjBm
       '1: F/21': c-rKDHeJcLVx
-      '3: O/23': c-LY0eK96Ond
-      '7: D/21': c-R2awk1Wy-V
+      '3: M/28': c-LY0eK96Ond
+      '7: M/2': c-R2awk1Wy-V
       telegram: c-h8HKMergXo
       tg: c-Z1WRGj0yh_
       КДЗ 1: c-R5GcRQQ0e6
@@ -181,6 +181,10 @@ tables:
       Общий итог: c-nq9e19TbvH
       next: c-2wsScxeORk
       Итог ⚖️: c-mOcEmYZ6nE
+      '4: A/3': c-QbW5laAuoU
+      '5: A/17': c-z_oHYnYYQX
+      '6: M/8': c-cZMhhA7mx0
+      '7: M/15': c-Nx7mw8GlH2
   presence_types:
     table_id: grid-FJLqonPvHw
     columns:
