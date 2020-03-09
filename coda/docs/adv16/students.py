@@ -8,7 +8,7 @@ class Students(IndexerMixin):  # todo: some common base class?
         self.table = self.coda.students
         self.data = self.load_data() if not skip_load_data else None
         self.indexes = {}  # todo: move to indexer mixin
-        self.add_index('telegram_id')
+        self.add_index('Telegram ID')
 
     def load_data(self):
         return self.table.rows_dict()
@@ -20,7 +20,7 @@ class Students(IndexerMixin):  # todo: some common base class?
         return self.data.get(row_id, {}).get(field)
 
     def by_telegram_id(self, telegram_id):
-        return self.find('telegram_id', telegram_id)
+        return self.find('Telegram ID', telegram_id)
 
     def update(self, row_id, changes):  # todo: move to common base class
         self.table.update(row_id, changes)
