@@ -2,6 +2,13 @@
 
 ## Changes History
 
+### v.0.1.0
+* Initialization and updating mechanism for yaml-files
+* Create `adv17.yaml` and `adv18.yaml` for new semester (`2020-1`)
+* Fix column names to native values
+* Fix manifest to the new path for yamls
+* Added classes Contests and ResultsChanges
+
 ### v.0.0.20
 * Add argument `semester`
 * Regroup yaml files by semesters
