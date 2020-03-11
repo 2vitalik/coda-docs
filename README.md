@@ -2,6 +2,10 @@
 
 ## Changes History
 
+### v.0.1.3
+* Updated `adv16.yaml`:
+    * renamed field 'Посещ.' -> 'Посещение'
+
 ### v.0.1.2
 * Fix column names to native values _(in `Lessons` classes)_
 
