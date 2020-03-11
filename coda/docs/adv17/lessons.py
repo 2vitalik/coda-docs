@@ -10,8 +10,8 @@ class Lessons(IndexerMixin):
 
     def get(self, discipline, type, num):
         for row_id, row_data in self.data.items():
-            if row_data['discipline'] == discipline \
-                    and row_data['type'] == type \
-                    and row_data['num'] == num:
+            if row_data['Предмет'] == discipline \
+                    and row_data['Вид занятия'] == type \
+                    and row_data['#'] == num:
                 return row_id
         return None

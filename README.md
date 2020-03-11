@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.1.2
+* Fix column names to native values _(in `Lessons` classes)_
+
 ### v.0.1.1
 * Create `adv16.yaml` for new semester (`2020-1`)
 
