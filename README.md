@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.1.1
+* Create `adv16.yaml` for new semester (`2020-1`)
+
 ### v.0.1.0
 * Initialization and updating mechanism for yaml-files
 * Create `adv17.yaml` and `adv18.yaml` for new semester (`2020-1`)

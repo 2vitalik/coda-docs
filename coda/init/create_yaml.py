@@ -47,6 +47,11 @@ if __name__ == '__main__':
             'doc_id': 'zqT1QhwbTC',
             'telegram_chat': -291308716,
         },
+        {
+            'doc_name': 'adv16',
+            'doc_id': 'aazaYSoRBc',
+            'telegram_chat': -357420276,
+        },
     ]
 
     for doc in docs:

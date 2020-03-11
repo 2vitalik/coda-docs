@@ -1,0 +1,93 @@
+telegram_chat: '-357420276'
+doc_id: aazaYSoRBc
+tables:
+  students:
+    table_id: grid-V4KlRzOvEg
+    columns:
+      Студент: c-JWp1DUbKdT
+      Фамилия: c-yhu4A9Rl_c
+      Имя: c-HcR00YYWuP
+      Отчество: c-d_7pFYAo59
+      Группа: c-5ZQ58_YHLN
+      Телефон: c-2ZPJjFeHBD
+      Google-почта: c-a4WkqNaINr
+      1-o18: c-E2HwtxwoTV
+      '1: M/5': c-GDZD5_qPHv
+      '2: M/12': c-_1utn7OnO7
+      'кр: M/23': c-GKkml73aDE
+      4-n1: c-MO1qNRgCpH
+      '3: M/19': c-kKihVpVyRe
+      '4: M/26': c-xgEkELHvQ2
+      Активный: c-8C5EEZJiBj
+      base: c-CngBAI2xlJ
+      ДЗ 1: c-ipqjLCH_7g
+      ДЗ 2: c-HMFP5yKsl-
+      ДЗ 3: c-fJRXc4jUr3
+      ДЗ 4: c-Jgyzo4qNXJ
+      ДЗ 5: c-CIDyO0wCq5
+      ДЗ ∑: c-JrrXptBOmY
+      7-n12: c-cZgck8ui-5
+      '5: A/2': c-YLC8ynjG4T
+      '6: A/9': c-Vgv7wX4RPb
+      '7: A/16': c-hbW0mY_Czw
+      'кр: D/1': c-SVtlEn3acm
+      '8: A/23': c-0ubwtJbujQ
+      кр.1 A#: c-S8D9hK7NPf
+      кр.1 B#: c-VwBD14GPjT
+      кр.1 C#: c-55ajYWGZlt
+      кр.1 ∑: c-7m_b2cIEzB
+      Итог: c-sfsc5al_Qc
+      кр ∑∑: c-zLf2_V5Uws
+      Посещений: c-fLqpLk15HU
+      Lines: c-owJGB0vBxd
+      ДЗ ∑∑: c-B31VVBMDGR
+      Тесты  ∑: c-X81lUZQ30E
+      Проект ∑: c-MYuW_AdHLt
+      Медалька за баллы: c-AIoQZKlMQT
+      Ладошка посещения: c-odpiirdr6T
+      ✅ Зачёт: c-ujL9K692ko
+      '2: M/11': c-HITi9OElp2
+      ФИ: c-bNbLNX8iqZ
+      КТ (эл. журнал): c-soh7fdurxj
+      ✅ Зачёт!: c-_IM6KAxJRV
+      approve: c-djgPyJhVbH
+      hide 📐: c-3OG-1H4Po6
+      Второе мыло: c-DZZQOffYU7
+      Telegram: c-Uto0jOngNF
+      tg: c-mvm_Ck-g1E
+      '1: M/4': c-aAa-SmOehy
+      '3: M/18': c-0MCT9nHdhA
+      '4: M/25': c-q_61WWCffv
+      '5: A/1': c-UisaPMdSK5
+      '7: A/15': c-h2cdpBxPRC
+      '6: A/8': c-h7ZHr_VDiv
+      '8: A/22': c--MYzVo9IOZ
+      20-j17: c-PQFUAMlMcw
+      21-j21: c-TepDpKkGT5
+      22-j24: c-UiZXV1boZo
+      23-j28: c-5OtEhVWnkQ
+      24-j31: c-8ZeHwXRiCf
+  lessons:
+    table_id: grid-sync-1003-Event
+    columns:
+      Event: value
+      Synced: synced
+      Sync account: connection
+      Start: c-D_dPBanFGK
+      End: c-qHyFPCWWcd
+      Attendees: c-hIixBv_gYL
+      Дата: c-s4AHm2Q5QM
+      Time: c-NSGvA-4S-A
+      To: c-bFCg5WF5I5
+      Предмет: c-tRbUy7Pw5m
+      '#': c-pJj0MpwvhX
+      Тема лекции: c-0B6SLG_tzZ
+      Видео-ссылка: c-0fhgU10qgj
+      Слайды: c-CMW5vUlYMV
+      Посещ.: c-GDfFA8CTkY
+      Видео: c-evXr0yXLkU
+  presence_types:
+    table_id: grid-FJLqonPvHw
+    columns:
+      Значение: c-xxOPzml3II
+      Описание: c-mDoCAJUfDi
