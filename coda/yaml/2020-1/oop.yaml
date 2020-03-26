@@ -1,0 +1,85 @@
+telegram_chat: '-436357091'
+doc_id: TdQAh6nS1P
+tables:
+  students:
+    table_id: grid-MlfXPnqibB
+    columns:
+      Фамилия: c-T0CNpVN2WP
+      Группа: c-LWOfqIWAhf
+      Почта: c-HXuFXClZad
+      Coda: c-Vn1LcuuQjq
+      Имя: c-4dRv6UAnfv
+      Отчество: c-49SQE5qY_e
+      Вариант игры: c-p7BPIlPsuR
+      Telegram: c-UpGvv2iEug
+      telegram-nickname: c-yTtlYUtcv0
+      Студент: c-9Z2A-9TIgs
+      ✔️1: c-6uIf0vYP8L
+      ✔️2: c-G1jDXSIFZh
+      ✔️3: c-NlvwKnmr9r
+      📆 1: c-d2qfgQnztV
+      📆 2: c-VbNlx2P3gu
+      📆 3: c-6xO46njYXT
+      ✏️1: c-runy6riSK0
+      ✏️2: c-9Nrihlyu9s
+      ✏️3: c-BvLDyLWMDK
+      ☁️1: c-TkO3PEf8cy
+      ☁️2: c-qTtPrpQgCA
+      ☁️3: c-xFmI7iAowF
+      ⏱1: c-oqkQIRgAp5
+      ⏱2: c-66H9Sw984-
+      ⏱3: c-zDM1Ahf0fl
+      Почта для coda: c-bWAcMVHuXU
+      Почта для dropbox: c-P72Zwxj3kV
+      Github1: c-HkxIey8XHA
+      '...': c-lzvGCoeen2
+      voted: c-95E1iVu6cv
+  games:
+    table_id: grid-Rxx0TTww4-
+    columns:
+      Название: c-iSUao0_Rpz
+      Краткое описание: c-N_XmB8MARX
+      Ссылки: c-eM7y9cFshs
+      notion-link: c-CZnRewIQAd
+      Подробнее: c-6NliPCEEv8
+  dates:
+    table_id: grid-_mLk7G2p-U
+    columns:
+      Date: c-YN1q5l54dh
+      Группа: c-uDi8pL1kEb
+      Лабораторная: c-3HyToH_eJ0
+      Delta: c-Ad1WdKwHLs
+      Repr: c-07ijJ1h1bM
+      Column 6: c-7U-10blINc
+  tasks:
+    table_id: grid-xFar8HGtPc
+    columns:
+      Название: c-04z2n_RCCL
+      Монета: c-iohFbTqJJt
+      Категория: c-35qqzOu8YV
+      '#': c-xJZZtUXBOK
+      Описание: c-tSzCEYXd6m
+      Игры из которых взяты идеи: c-JUi5i83h1G
+      Text: c-Noo7r_4iB2
+  reports:
+    table_id: grid-L-tQs5bJlt
+    columns:
+      Лаба: c-euikzr1AcR
+      Задание: c--4jjiiBMyk
+      Ваш отчёт по заданию: c-W6ZjY2BcRD
+      Студент: c-bn0Pve6Hui
+      Статус проверки: c-e7tsBwGQsG
+      Скриншоты или GIFки: c-vxjR3eIVXX
+      coin: c-jrOx86rJ5W
+      ok: c-OBdZGjB2XU
+      q?: c-6XODHQg8ag
+  video:
+    table_id: grid-MHr0cxz3hH
+    columns:
+      Студент: c-MQT87C0lO8
+      Лаба: c-X_cjyGGBCU
+      YouTube URL: c-11LR4ROwEp
+      or GIF-animation: c-fhDvQMf3z6
+      Video: c-8PEt4-BS71
+      Статус проверки: c-8ohrM-ZCCX
+      Ваш комментарий: c--g9bgvP8WX
