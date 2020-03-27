@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.1.5
+* Hide some fields in `adv*.yaml` files
+
 ### v.0.1.4
 * Added `oop.yaml`:
 

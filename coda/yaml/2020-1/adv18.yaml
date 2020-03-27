@@ -183,7 +183,7 @@ tables:
       calend: c-XXO__qo8cF
       coda2: c-ElkVhpkzEL
       hide: c-qypv-A0YFB
-      Modified on: c-alHjec5ggE
+      # Modified on: c-alHjec5ggE
       Яндекс-префикс: c-fC9eidIATp
       🔎1.2: c-HHxG_0edUj
       🔎1.3: c-AGtenFmcc3
@@ -283,7 +283,7 @@ tables:
       Студент: c-y1WEcr2A9D
       Итог: c-dLH39tkcu0
       Date: c-DBD4nV7SyY
-      Текущий итог: c-EOboJsWWFe
+      # Текущий итог: c-EOboJsWWFe
   plans:
     table_id: grid-ISwxg-XmnH
     columns:

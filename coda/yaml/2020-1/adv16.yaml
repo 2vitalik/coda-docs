@@ -85,7 +85,7 @@ tables:
       Видео-ссылка: c-0fhgU10qgj
       Слайды: c-CMW5vUlYMV
       Посещение: c-GDfFA8CTkY
-      Видео: c-evXr0yXLkU
+      # Видео: c-evXr0yXLkU
   presence_types:
     table_id: grid-FJLqonPvHw
     columns:
