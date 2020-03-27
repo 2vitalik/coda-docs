@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.1.6
+* Added `title` values for several `yaml` files
+
 ### v.0.1.5
 * Hide some fields in `adv*.yaml` files
 

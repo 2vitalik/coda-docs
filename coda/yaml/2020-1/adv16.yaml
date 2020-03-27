@@ -3,6 +3,8 @@ doc_id: aazaYSoRBc
 tables:
   students:
     table_id: grid-V4KlRzOvEg
+    title:
+      - Студент
     columns:
       Студент: c-JWp1DUbKdT
       Фамилия: c-yhu4A9Rl_c
@@ -69,6 +71,9 @@ tables:
       24-j31: c-8ZeHwXRiCf
   lessons:
     table_id: grid-sync-1003-Event
+    title:
+      - Предмет
+      - Дата
     columns:
       Event: value
       Synced: synced

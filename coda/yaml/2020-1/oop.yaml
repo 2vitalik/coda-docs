@@ -3,6 +3,8 @@ doc_id: TdQAh6nS1P
 tables:
   students:
     table_id: grid-MlfXPnqibB
+    title:
+      - Студент
     columns:
       Фамилия: c-T0CNpVN2WP
       Группа: c-LWOfqIWAhf
@@ -36,6 +38,8 @@ tables:
       voted: c-95E1iVu6cv
   games:
     table_id: grid-Rxx0TTww4-
+    title:
+      - Название
     columns:
       Название: c-iSUao0_Rpz
       Краткое описание: c-N_XmB8MARX
@@ -53,6 +57,8 @@ tables:
       Column 6: c-7U-10blINc
   tasks:
     table_id: grid-xFar8HGtPc
+    title:
+      - Название
     columns:
       Название: c-04z2n_RCCL
       Монета: c-iohFbTqJJt
@@ -62,6 +68,10 @@ tables:
       Игры из которых взяты идеи: c-JUi5i83h1G
       Text: c-Noo7r_4iB2
   reports:
+    title:
+      - Студент
+      - Лаба
+      - Задание
     table_id: grid-L-tQs5bJlt
     columns:
       Лаба: c-euikzr1AcR
@@ -75,6 +85,9 @@ tables:
       q?: c-6XODHQg8ag
   video:
     table_id: grid-MHr0cxz3hH
+    title:
+      - Студент
+      - Лаба
     columns:
       Студент: c-MQT87C0lO8
       Лаба: c-X_cjyGGBCU
