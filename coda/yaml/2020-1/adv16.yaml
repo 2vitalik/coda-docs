@@ -4,7 +4,7 @@ tables:
   students:
     table_id: grid-V4KlRzOvEg
     title:
-      - Студент
+    - Студент
     columns:
       Студент: c-JWp1DUbKdT
       Фамилия: c-yhu4A9Rl_c
@@ -69,11 +69,14 @@ tables:
       22-j24: c-UiZXV1boZo
       23-j28: c-5OtEhVWnkQ
       24-j31: c-8ZeHwXRiCf
+      nlp: c--NGDiPWUxz
+      cv: c-G3ZJLmnR8h
+      pm: c-HIHahaFUoK
   lessons:
     table_id: grid-sync-1003-Event
     title:
-      - Предмет
-      - Дата
+    - Предмет
+    - Дата
     columns:
       Event: value
       Synced: synced

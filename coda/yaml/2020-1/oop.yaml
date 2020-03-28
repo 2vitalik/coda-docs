@@ -4,7 +4,7 @@ tables:
   students:
     table_id: grid-MlfXPnqibB
     title:
-      - Студент
+    - Студент
     columns:
       Фамилия: c-T0CNpVN2WP
       Группа: c-LWOfqIWAhf
@@ -15,7 +15,7 @@ tables:
       Вариант игры: c-p7BPIlPsuR
       Telegram: c-UpGvv2iEug
       telegram-nickname: c-yTtlYUtcv0
-      Студент: c-9Z2A-9TIgs
+      Фамилия И.: c-9Z2A-9TIgs
       ✔️1: c-6uIf0vYP8L
       ✔️2: c-G1jDXSIFZh
       ✔️3: c-NlvwKnmr9r
@@ -36,10 +36,11 @@ tables:
       Github1: c-HkxIey8XHA
       '...': c-lzvGCoeen2
       voted: c-95E1iVu6cv
+      Студент: c-jr3lYqeVOY
   games:
     table_id: grid-Rxx0TTww4-
     title:
-      - Название
+    - Название
     columns:
       Название: c-iSUao0_Rpz
       Краткое описание: c-N_XmB8MARX
@@ -58,7 +59,7 @@ tables:
   tasks:
     table_id: grid-xFar8HGtPc
     title:
-      - Название
+    - Название
     columns:
       Название: c-04z2n_RCCL
       Монета: c-iohFbTqJJt
@@ -69,9 +70,9 @@ tables:
       Text: c-Noo7r_4iB2
   reports:
     title:
-      - Лаба
-      - Студент
-      - Задание
+    - Лаба
+    - Студент
+    - Задание
     table_id: grid-L-tQs5bJlt
     columns:
       Лаба: c-euikzr1AcR
@@ -86,8 +87,8 @@ tables:
   video:
     table_id: grid-MHr0cxz3hH
     title:
-      - Студент
-      - Лаба
+    - Студент
+    - Лаба
     columns:
       Студент: c-MQT87C0lO8
       Лаба: c-X_cjyGGBCU

@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.1.7
+* 
+
 ### v.0.1.6
 * Added `title` values for several `yaml` files
 

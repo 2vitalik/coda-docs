@@ -4,7 +4,7 @@ tables:
   students:
     table_id: grid-wdQQx8blYb
     title:
-      - Студент
+    - Студент
     columns:
       Студент: c-JWp1DUbKdT
       Фамилия: c-yhu4A9Rl_c
@@ -194,8 +194,8 @@ tables:
   lessons:
     table_id: grid-sync-1003-Event
     title:
-      - Предмет
-      - Дата
+    - Предмет
+    - Дата
     columns:
       Event: value
       Synced: synced
@@ -206,7 +206,7 @@ tables:
       Title: c-8vBbJQKm3m
       '#': c-Vpq5JPNoOl
       Вид занятия: c-2Ch4HK2uJ6
-      Темы и/или слайды: c--A3wcX_03Z
+      Темы: c--A3wcX_03Z
       Дата: c-7wdRI8sDIb
       Time: c-FxlWEZUwm1
       # 📽Видео (old): c-dpuz4pjgfI
@@ -219,6 +219,8 @@ tables:
       Column 20: c-V5FTA5p3FD
       # 📽Видео: c-yPRbnMoJnI
       Посещение: c-T9Ur78cDy-
+      Ссылка на слайды: c-uxTQDH66CC
+      finished: c-19fABhR-0P
   contests:
     table_id: grid-mskk_ijYm7
     columns:

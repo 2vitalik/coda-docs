@@ -4,7 +4,7 @@ tables:
   students:
     table_id: grid-6oWoNzcQNn
     title:
-      - Студент
+    - Студент
     columns:
       Студент: c-JWp1DUbKdT
       Фамилия: c-yhu4A9Rl_c
@@ -17,7 +17,7 @@ tables:
       '1: F/22': c-E2HwtxwoTV
       '2: F/29': c-GDZD5_qPHv
       '3: M/7': c-_1utn7OnO7
-      ⏰ M/28: c-GKkml73aDE
+      '6: M/28': c-GKkml73aDE
       '4: M/14': c-MO1qNRgCpH
       '5: M/21': c-kKihVpVyRe
       '6: A/4': c-xgEkELHvQ2
@@ -223,7 +223,7 @@ tables:
   lessons:
     table_id: grid-sync-1003-Event
     title:
-      - Дата
+    - Дата
     columns:
       Event: value
       Synced: synced
@@ -247,6 +247,7 @@ tables:
       tg5: c-a7K1UEoxYC
       tg1: c-jEkDRTVmGE
       Посещение: c-swrnn6uiMK
+      finished: c-RaRwjA1E83
   contests:
     table_id: grid-mskk_ijYm7
     columns:
