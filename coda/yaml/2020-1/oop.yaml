@@ -87,8 +87,8 @@ tables:
   video:
     table_id: grid-MHr0cxz3hH
     title:
-    - Студент
     - Лаба
+    - Студент
     columns:
       Студент: c-MQT87C0lO8
       Лаба: c-X_cjyGGBCU
