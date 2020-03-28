@@ -69,8 +69,8 @@ tables:
       Text: c-Noo7r_4iB2
   reports:
     title:
-      - Студент
       - Лаба
+      - Студент
       - Задание
     table_id: grid-L-tQs5bJlt
     columns:
