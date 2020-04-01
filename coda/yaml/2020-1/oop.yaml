@@ -8,7 +8,7 @@ tables:
     columns:
       Фамилия: c-T0CNpVN2WP
       Группа: c-LWOfqIWAhf
-      Почта: c-HXuFXClZad
+      Nure-почта: c-HXuFXClZad
       Coda: c-Vn1LcuuQjq
       Имя: c-4dRv6UAnfv
       Отчество: c-49SQE5qY_e
@@ -33,10 +33,16 @@ tables:
       ⏱3: c-zDM1Ahf0fl
       Почта для coda: c-bWAcMVHuXU
       Почта для dropbox: c-P72Zwxj3kV
-      Github1: c-HkxIey8XHA
+      'Github #1': c-HkxIey8XHA
       '...': c-lzvGCoeen2
       voted: c-95E1iVu6cv
       Студент: c-jr3lYqeVOY
+      db: c-fJ4cchvABi
+      📝1: c-Xy2Elvagvy
+      📝2: c-5OePSiPOS9
+      📝3: c-yRLO9hByU_
+      Report-link: c-oMlPWrVEu9
+      Rpt: c-4fzVE7-kgC
   games:
     table_id: grid-Rxx0TTww4-
     title:
@@ -65,9 +71,13 @@ tables:
       Монета: c-iohFbTqJJt
       Категория: c-35qqzOu8YV
       '#': c-xJZZtUXBOK
-      Описание: c-tSzCEYXd6m
+      Описание задания: c-tSzCEYXd6m
       Игры из которых взяты идеи: c-JUi5i83h1G
-      Text: c-Noo7r_4iB2
+      Title: c-Noo7r_4iB2
+      Used: c-wjXpKprJKW
+      index: c-4Kt2suAiIX
+      order: c-_coEak7R7j
+      Баллы: c-_7cQVuBcSg
   reports:
     title:
     - Лаба
@@ -84,6 +94,13 @@ tables:
       coin: c-jrOx86rJ5W
       ok: c-OBdZGjB2XU
       q?: c-6XODHQg8ag
+      Rpt: c-keRwNDcgqF
+      2x: c-Y-vZl87sKZ
+      'no': c-lxG-CRgAK5
+      '0.5': c-NsQNByX6Ax
+      Баллы: c-9ShOwAcoQy
+      Errors: c-mW2qq6slsC
+      todo: c-tLKPde0Sgk
   video:
     table_id: grid-MHr0cxz3hH
     title:

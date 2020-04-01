@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.1.9
+* Update columns for `oop.yaml` _(loaded latest from coda)_
+
 ### v.0.1.8
 * Change `title` order for `video` in `oop.yaml`
 
