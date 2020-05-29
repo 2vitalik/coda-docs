@@ -20,7 +20,7 @@ tables:
       '6: M/28': c-GKkml73aDE
       '4: M/14': c-MO1qNRgCpH
       '5: M/21': c-kKihVpVyRe
-      '6: A/4': c-xgEkELHvQ2
+      '7: A/4': c-xgEkELHvQ2
       Активный: c-8C5EEZJiBj
       base: c-CngBAI2xlJ
       Яндекс-аккаунт: c-Xe_VWfWkfc
@@ -30,12 +30,12 @@ tables:
       ДЗ 4: c-Jgyzo4qNXJ
       ДЗ 5: c-CIDyO0wCq5
       ДЗ ∑: c-JrrXptBOmY
-      '7: A/11': c-cZgck8ui-5
-      '8: A/18': c-YLC8ynjG4T
-      '10: M/2': c-Vgv7wX4RPb
-      '11: M/23': c-hbW0mY_Czw
-      ⏰ M/16: c-SVtlEn3acm
-      '12: M/30': c-0ubwtJbujQ
+      '8: A/11': c-cZgck8ui-5
+      '9: A/18': c-YLC8ynjG4T
+      '11: M/16': c-Vgv7wX4RPb
+      '12: M/23': c-hbW0mY_Czw
+      ⏰ M/2: c-SVtlEn3acm
+      '13: M/30': c-0ubwtJbujQ
       Review Repo: c-mL5HJn9Ds1
       🔎1.1: c-8IBxlzETUW
       'Review #2 Repo': c-SAb9ITQSZS
@@ -213,7 +213,7 @@ tables:
       v+: c-yVHQc7fpIt
       src: c-U3ZcoWylFQ
       Ведомость: c-XSj9o6-oJe
-      '9: A/25': c-yYOfUeeT8f
+      '10: A/25': c-yYOfUeeT8f
       next: c-PppJjalR5G
       lists: c-sjsx1j8V7v
   presence_types:

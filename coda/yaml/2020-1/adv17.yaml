@@ -53,8 +53,6 @@ tables:
       кр (by-3) ∑∑: c-zLf2_V5Uws
       Посещений: c-fLqpLk15HU
       Lines: c-owJGB0vBxd
-      Др 1: c-Stm1AMzcLq
-      Др 2: c-zx__DBdLfy
       КДЗ 2: c-g7Gb4nLBs0
       ДЗ **: c-jdrFMJB6oD
       ДЗ ***: c-qrSM_HM0Cg
@@ -187,6 +185,14 @@ tables:
       '5: A/17': c-z_oHYnYYQX
       '6: M/8': c-cZMhhA7mx0
       '7: M/15': c-Nx7mw8GlH2
+      'ДЗ #1': c-IGV4Qz87Li
+      'ДЗ #2': c-gyaS3Qt9NV
+      'ДЗ #3': c-3yRLOzmUY0
+      'ДЗ #4': c-epj4E8BiTp
+      'ДЗ #5': c-0TiYW3ffnI
+      hide ⚖️: c-nT3YAUvK-D
+      ДЗ ∑ ⚖️: c-6qqMj1NXmE
+      Итог Ведомость 🤖: c-uS7wDKizLH
   presence_types:
     table_id: grid-FJLqonPvHw
     columns:

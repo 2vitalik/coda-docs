@@ -43,6 +43,66 @@ tables:
       📝3: c-yRLO9hByU_
       Report-link: c-oMlPWrVEu9
       Rpt: c-4fzVE7-kgC
+      💰1*: c-zfdhtDqmpU
+      ❔1: c-a4SygU2y3N
+      💰2*: c-YDBtuGfXcY
+      ❔2: c-RDU3CO_S3A
+      💰3*: c-nFcMqUfArY
+      ❔3: c-IJYlzauqX3
+      📝1*: c-7kMG8lTvmC
+      📝2*: c-de45zYyqtk
+      📝3*: c-Cbx7dZd9Xa
+      💰1: c--iBPDcMWph
+      💰2: c-iw4ROoMTMT
+      💰3: c-88FSo9tAPQ
+      ❔1*: c-6ZInGzU98u
+      ❔2*: c-SDmoeB2Rp4
+      ❔3*: c--m5k9XNTSB
+      Защита: c-FbyYl-bMLi
+      '60': c-V0jX0e7Nam
+      '2244': c-eJHMYIrv4Q
+      '2245': c-Ga8j3cUZaC
+      '2254': c-k7UAbefJW3
+      '2255': c-XmQil0W7DU
+      '2256': c-bqNVS4yvFH
+      '2267': c-9IlVOij1Ws
+      '2265': c-R7kZg98kYL
+      '2304': c-0GPn69SRwy
+      '2305': c-lByvVu-0m2
+      '2306': c-6brkZXNhkD
+      '2330': c-HfIvojZReL
+      '2336': c-frhl1oNEiO
+      '2286': c-UB4VvkcIBE
+      '2284': c-in5mRvQkyX
+      '2285': c-fcMUMT7nb0
+      2255*: c-G0sBXc4519
+      2306*: c-QLXX3BJhNh
+      '2327': c-mX2cHnWqNl
+      '2328': c-Qc0w8kft6h
+      '2329': c-qIY9XyiAlO
+      '2331': c-2aLvuRXMSx
+      '2334': c-KWPmUU95Jw
+      '2335': c-LQmuRAVPOc
+      '75': c-5ZIxNMu83E
+      '90': c-15F3h_l2X_
+      2284*: c-WPWWH4XSkQ
+      '2266': c-Gj_qrS0Kpc
+      A/14: c-w1s1j0JW0J
+      A/21: c-etgt0xeJ1-
+      M/06: c-1CbjXXTV99
+      M/27: c-56XAeIptZo
+      A/07: c-Z6TliD5B3h
+      A/30: c-RXebdVIn-P
+      M/11: c-8zRWets-HX
+      M/14: c-P8Q4686Yx2
+      M/21: c-b5Y78lfM88
+      M/28: c-RCUcJIijcl
+      60+: c-RBaxjUdCo0
+      75+: c-X19wXSrlXs
+      90+: c-MAdUu6kpke
+      KT: c-GrUSq-Z0Rr
+      H+: c-LzX_NzOeak
+      b+: c-vWnBwoNSm-
   games:
     table_id: grid-Rxx0TTww4-
     title:
@@ -78,6 +138,7 @@ tables:
       index: c-4Kt2suAiIX
       order: c-_coEak7R7j
       Баллы: c-_7cQVuBcSg
+      new: c-sZkjzhBNW6
   reports:
     title:
     - Лаба
@@ -101,6 +162,10 @@ tables:
       Баллы: c-9ShOwAcoQy
       Errors: c-mW2qq6slsC
       todo: c-tLKPde0Sgk
+      viewed: c-8Q3B5b-PYb
+      Категория: c-P8zpAkLAg2
+      Название: c-lBgdl_2DM_
+      order: c-MLr1UPlVLU
   video:
     table_id: grid-MHr0cxz3hH
     title:
