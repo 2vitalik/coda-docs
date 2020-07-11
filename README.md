@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.2.4
+* Update `diary.yaml` _(table names)_
+
 ### v.0.2.3
 * Added `diary.yaml`
 
