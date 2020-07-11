@@ -1,0 +1,37 @@
+telegram_chat: None
+doc_id: zjzcA2QDFg
+tables:
+  Дневник:
+    table_id: grid-Iw-U7951L4
+    columns:
+      Дата: c-BV2Iac9gi-
+      Время: c-r5PmvHRHrT
+      Теги: c-Ku8FHAKTE5
+      Теги (путь): c-uqJh7oWvJb
+      Value: c-fCs2thAf4P
+      Описание: c-hyAN1_GStL
+      День (old): c-9EdrfoNmcj
+      Value2: c-wm9bkzJP-g
+      Когда: c-Ruii1mXl6a
+      Modified on: c-4GsvkyVmcR
+      Temp: c-b7SHt9gRef
+      Make Active: c-32_CLGrI77
+      W: c-SeKrgZYEzG
+      Time: c-yHH-rTG1Nr
+      To: c-5IuMm20UKk
+      Column: c-AK3sIIq3pp
+      Date and time: c-jsYoUxXBhl
+  Selected Date:
+    table_id: grid-uPGzxYIKYO
+    columns:
+      date: c-6xP1lRcMNd
+  Все теги:
+    table_id: grid-Rl026-tb00
+    columns:
+      Тег: c-OPj6rOVNXb
+      Родитель: c-Nfl8JWTMs6
+      lvl: c-v67L39l_iU
+      Путь: c-p4l6DK8vQw
+      Text: c-bSL9X_29-Q
+      Tg: c-L39orsY2Qv
+      Дедушка: c--ys10x8Dkx

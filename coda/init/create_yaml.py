@@ -65,9 +65,15 @@ if __name__ == '__main__':
             'doc_id': 'xEcFwErxgY',
             'telegram_chat': -436357091,
         },
+        {
+            'semester': 'default',
+            'doc_name': 'diary',
+            'doc_id': 'zjzcA2QDFg',
+            'telegram_chat': None,
+        },
     ]
 
     for doc in docs:
         semester, doc_name, doc_id, telegram_chat = doc.values()
-        # create_tables(semester, doc_name, doc_id, telegram_chat)
+        create_tables(semester, doc_name, doc_id, telegram_chat)
         update_tables(semester, doc_name)
