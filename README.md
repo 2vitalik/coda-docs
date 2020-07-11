@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.2.2
+* Update columns for `oop.yaml`, `adv18.yaml`, `adv18_data.yaml` _(loaded latest from coda)_
+
 ### v.0.2.1
 * Added `adv18_data.yaml`
 

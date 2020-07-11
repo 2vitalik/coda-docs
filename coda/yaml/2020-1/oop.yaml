@@ -44,11 +44,11 @@ tables:
       Report-link: c-oMlPWrVEu9
       Rpt: c-4fzVE7-kgC
       💰1*: c-zfdhtDqmpU
-      ❔1: c-a4SygU2y3N
+      Coins 1: c-a4SygU2y3N
       💰2*: c-YDBtuGfXcY
-      ❔2: c-RDU3CO_S3A
+      Coins 2: c-RDU3CO_S3A
       💰3*: c-nFcMqUfArY
-      ❔3: c-IJYlzauqX3
+      Coins 3: c-IJYlzauqX3
       📝1*: c-7kMG8lTvmC
       📝2*: c-de45zYyqtk
       📝3*: c-Cbx7dZd9Xa
@@ -103,6 +103,35 @@ tables:
       KT: c-GrUSq-Z0Rr
       H+: c-LzX_NzOeak
       b+: c-vWnBwoNSm-
+      Защита F: c-jYynJ21KAH
+      Z-1: c-p4CfXqg0pD
+      Хочу:): c-C8ZZsp6dkE
+      ❔avg: c-9vPRlDox5N
+      Coins ∑: c-NjRR90CfGk
+      Статус (old): c-D1PXlSSDnl
+      1-я защита: c-oGl1iBtMK9
+      G: c-DEoFywtg22
+      J/04: c-RbOqvxLr50
+      '2349': c-nnLTdrTmhv
+      Итог лаб: c-FR02mFtDJ5
+      хочу (опрос): c-dHJhf306qD
+      Статус (new): c-E-ri3JhN99
+      Записку посмотреть: c-6yPXFCYTvV
+      Хочу К: c-OTEJw5hBC4
+      📝 K*: c-hXLZOfQxMg
+      📝 K: c-B2VY1D28S2
+      💰 K: c-3IF4G_dVN_
+      Coins K: c-mvKsM2u8nn
+      Защита К: c-j04W1FsCnl
+      Зап. v1: c-eRIl3v8BFS
+      Зап. v2: c-WE5aHbjffh
+      Защита K*: c-CA6hes9A3V
+      З-1: c-HWlK5A6RRb
+      время: c-wnDAzwiJ7W
+      Зап. v3: c-lY1qoils0Z
+      order: c--N6tOeD_M2
+      dropbox K: c-FySJG2gjqu
+      Column 19: c-KuBNSysVRA
   games:
     table_id: grid-Rxx0TTww4-
     title:
@@ -166,6 +195,7 @@ tables:
       Категория: c-P8zpAkLAg2
       Название: c-lBgdl_2DM_
       order: c-MLr1UPlVLU
+      Исх. код: c-Rm_9nLzrJD
   video:
     table_id: grid-MHr0cxz3hH
     title:

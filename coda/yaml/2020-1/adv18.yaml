@@ -82,7 +82,7 @@ tables:
       pz1: c-biXkb2crVl
       err: c-fHMKKiiajZ
       pz2: c-4S7LVyqPkU
-      upsolving: c--BFdYFiA8m
+      upsolve: c--BFdYFiA8m
       кр.2 A#: c-a_whspKc_o
       кр.2 B#: c-O2UmPxSBOi
       кр.2 C#: c-1hE9kzPdy1
@@ -163,7 +163,7 @@ tables:
       BSUIR: c-x-btxfbDJz
       CodeJam: c-ABwB-1SW_b
       HashCode: c-9YwU9zlafs
-      ✅Зачёт: c-_IM6KAxJRV
+      ✅ Зачёт: c-_IM6KAxJRV
       Stage 1: c-ItOsG15BMI
       Stage 2: c-b6Uj0sbE42
       Stage 3: c-HtpPht-lG6
@@ -216,6 +216,11 @@ tables:
       '10: A/25': c-yYOfUeeT8f
       next: c-PppJjalR5G
       lists: c-sjsx1j8V7v
+      ⏰ J/13: c-CJJm2ShtPd
+      'КР #': c-u-NwPPkba0
+      'ДЗ #': c-JNOrmulA_F
+      Бонусы?: c-K51UjJK2PL
+      Итог?: c-fLNkUfpfUT
   presence_types:
     table_id: grid-FJLqonPvHw
     columns:
@@ -298,6 +303,7 @@ tables:
       Дз: c-2IfqOjcLAW
       Рз: c-yyjWHmvzBq
       Темы: c-z7HiFVkT2Y
+      '#': c-2GQ7C71aq8
   project_themes:
     table_id: grid-476c-E55G5
     columns:
