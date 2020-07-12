@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.2.6
+* Update `diary.yaml`: add new table `food`
+
 ### v.0.2.5
 * Update `diary.yaml`: add new columns
 

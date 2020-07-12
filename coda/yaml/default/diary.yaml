@@ -37,3 +37,8 @@ tables:
       tg: c-L39orsY2Qv
       Дедушка: c--ys10x8Dkx
       br: c-MQxi88m6RI
+  food:
+    table_id: grid-QuZi9xosB2
+    columns:
+      Название: c-s9zZUdAIQA
+      Column 3: c-qx7ThSSm2T
