@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.2.5
+* Update `diary.yaml`: add new columns
+
 ### v.0.2.4
 * Update `diary.yaml` _(table names)_
 

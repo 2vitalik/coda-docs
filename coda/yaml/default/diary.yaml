@@ -21,6 +21,7 @@ tables:
       To: c-5IuMm20UKk
       Column: c-AK3sIIq3pp
       Date and time: c-jsYoUxXBhl
+      Еда: c-BViT9dxpAR
   selected_date:
     table_id: grid-uPGzxYIKYO
     columns:
@@ -33,5 +34,6 @@ tables:
       lvl: c-v67L39l_iU
       Путь: c-p4l6DK8vQw
       Text: c-bSL9X_29-Q
-      Tg: c-L39orsY2Qv
+      tg: c-L39orsY2Qv
       Дедушка: c--ys10x8Dkx
+      br: c-MQxi88m6RI

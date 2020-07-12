@@ -35,36 +35,36 @@ def update_tables(semester, doc_name):
 
 if __name__ == '__main__':
     docs = [
-        {
-            'semester': '2020-1',
-            'doc_name': 'adv18',
-            'doc_id': 'PlGYEhaEib',
-            'telegram_chat': -399927652,
-        },
-        {
-            'semester': '2020-1',
-            'doc_name': 'adv17',
-            'doc_id': 'zqT1QhwbTC',
-            'telegram_chat': -291308716,
-        },
-        {
-            'semester': '2020-1',
-            'doc_name': 'adv16',
-            'doc_id': 'aazaYSoRBc',
-            'telegram_chat': -357420276,
-        },
-        {
-            'semester': '2020-1',
-            'doc_name': 'oop',
-            'doc_id': 'TdQAh6nS1P',
-            'telegram_chat': -436357091,
-        },
-        {
-            'semester': '2020-1',
-            'doc_name': 'adv18_data',
-            'doc_id': 'xEcFwErxgY',
-            'telegram_chat': -436357091,
-        },
+        # {
+        #     'semester': '2020-1',
+        #     'doc_name': 'adv18',
+        #     'doc_id': 'PlGYEhaEib',
+        #     'telegram_chat': -399927652,
+        # },
+        # {
+        #     'semester': '2020-1',
+        #     'doc_name': 'adv17',
+        #     'doc_id': 'zqT1QhwbTC',
+        #     'telegram_chat': -291308716,
+        # },
+        # {
+        #     'semester': '2020-1',
+        #     'doc_name': 'adv16',
+        #     'doc_id': 'aazaYSoRBc',
+        #     'telegram_chat': -357420276,
+        # },
+        # {
+        #     'semester': '2020-1',
+        #     'doc_name': 'oop',
+        #     'doc_id': 'TdQAh6nS1P',
+        #     'telegram_chat': -436357091,
+        # },
+        # {
+        #     'semester': '2020-1',
+        #     'doc_name': 'adv18_data',
+        #     'doc_id': 'xEcFwErxgY',
+        #     'telegram_chat': -436357091,
+        # },
         {
             'semester': 'default',
             'doc_name': 'diary',
@@ -75,5 +75,5 @@ if __name__ == '__main__':
 
     for doc in docs:
         semester, doc_name, doc_id, telegram_chat = doc.values()
-        create_tables(semester, doc_name, doc_id, telegram_chat)
+        # create_tables(semester, doc_name, doc_id, telegram_chat)
         update_tables(semester, doc_name)
