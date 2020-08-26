@@ -1,5 +1,6 @@
 from shared_utils.api.coda.coda_utils import get_rows_dict_by_yaml, \
-    get_rows_data_by_yaml, update_row_by_yaml, append_row_by_yaml
+    get_rows_data_by_yaml, update_row_by_yaml, append_row_by_yaml, \
+    is_request_completed
 
 from coda.util import read_yaml, root_dir
 
@@ -27,6 +28,9 @@ class Coda:
     def tables(self):
         return self.tables_dict.values()
 
+    def is_completed(self, request_id):
+        is_request_completed(self.token, request_id)
+
 
 class Table:
     def __init__(self, coda, name, info):
@@ -34,13 +38,13 @@ class Table:
         self.name = name
         self.info = info
 
-    def rows_list(self):
+    def rows_list(self, query=None):
         return get_rows_data_by_yaml(self.coda.token, self.coda.doc_id,
-                                     self.info)
+                                     self.info, query)
 
-    def rows_dict(self):
+    def rows_dict(self, query=None):
         return get_rows_dict_by_yaml(self.coda.token, self.coda.doc_id,
-                                     self.info)
+                                     self.info, query)
 
     def update(self, row_id, changes):
         return update_row_by_yaml(self.coda.token, self.coda.doc_id,

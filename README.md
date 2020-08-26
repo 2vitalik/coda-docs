@@ -2,6 +2,10 @@
 
 ## Changes History
 
+### v.0.2.8
+* **New Feature:** is request completed
+* **New Feature:** search rows by query
+
 ### v.0.2.7
 * Update `diary.yaml`: add column '#'
 
