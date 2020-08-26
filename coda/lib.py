@@ -29,7 +29,7 @@ class Coda:
         return self.tables_dict.values()
 
     def is_completed(self, request_id):
-        is_request_completed(self.token, request_id)
+        return is_request_completed(self.token, request_id)
 
 
 class Table:

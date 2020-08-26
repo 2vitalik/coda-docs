@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.2.9
+* Bug-fix in feature: is request completed
+
 ### v.0.2.8
 * **New Feature:** is request completed
 * **New Feature:** search rows by query
