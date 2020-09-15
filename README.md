@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.1
+* Bug-fix in classes
+
 ### v.0.3.0
 * Add new semester `2020-2`
 
