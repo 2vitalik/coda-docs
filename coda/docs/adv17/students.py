@@ -5,7 +5,7 @@ from coda.lib import Coda
 class Students(IndexerMixin):  # todo: some common base class?
     def __init__(self, semester, coda_token, skip_load_data=False):  # todo: default: True?
         self.coda = Coda('adv16', semester, coda_token)
-        self.table = self.coda.students
+        self.table = self.coda.table('Все студенты')
         self.data = self.load_data() if not skip_load_data else None
         self.indexes = {}  # todo: move to indexer mixin
         self.add_index('Telegram ID')
