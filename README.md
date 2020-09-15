@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.0
+* Add new semester `2020-2`
+
 ### v.0.2.9
 * Bug-fix in feature: is request completed
 
