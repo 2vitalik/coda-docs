@@ -1,7 +1,7 @@
 telegram_chat: None
 doc_id: zjzcA2QDFg
 tables:
-  entries:
+  Дневник:
     table_id: grid-Iw-U7951L4
     columns:
       Дата: c-BV2Iac9gi-
@@ -22,11 +22,11 @@ tables:
       Column: c-AK3sIIq3pp
       Date and time: c-jsYoUxXBhl
       Еда: c-BViT9dxpAR
-  selected_date:
+  Selected Date:
     table_id: grid-uPGzxYIKYO
     columns:
       date: c-6xP1lRcMNd
-  tags:
+  Все теги:
     table_id: grid-Rl026-tb00
     columns:
       Тег: c-OPj6rOVNXb
@@ -38,7 +38,7 @@ tables:
       Дедушка: c--ys10x8Dkx
       br: c-MQxi88m6RI
       '#': c-5eHmV1z0gh
-  food:
+  Еда:
     table_id: grid-QuZi9xosB2
     columns:
       Название: c-s9zZUdAIQA

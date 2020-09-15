@@ -1,0 +1,258 @@
+telegram_chat: '-291308716'
+doc_id: Ln1BHsM9yF
+tables:
+  Все студенты:
+    table_id: grid-wdQQx8blYb
+    columns:
+      Студент: c-JWp1DUbKdT
+      Фамилия: c-yhu4A9Rl_c
+      Имя: c-HcR00YYWuP
+      Отчество: c-d_7pFYAo59
+      Группа: c-5ZQ58_YHLN
+      Телефон: c-2ZPJjFeHBD
+      Google-почта: c-a4WkqNaINr
+      '0: S/1': c-E2HwtxwoTV
+      '1: S/9': c-GDZD5_qPHv
+      '2: S/23': c-_1utn7OnO7
+      '3: O/7': c-GKkml73aDE
+      '4: O/21': c-MO1qNRgCpH
+      '5: N/4': c-kKihVpVyRe
+      '1: S/3': c-xgEkELHvQ2
+      base: c-CngBAI2xlJ
+      '2: S/10': c-cZgck8ui-5
+      '3: S/17': c-YLC8ynjG4T
+      '4: S/24': c-Vgv7wX4RPb
+      '5: O/1': c-hbW0mY_Czw
+      '6: O/8': c-SVtlEn3acm
+      '1: S/16': c-0ubwtJbujQ
+      Всего Посещений: c-fLqpLk15HU
+      Lines: c-owJGB0vBxd
+      Медалька за баллы: c-AIoQZKlMQT
+      Ладошка посещения: c-odpiirdr6T
+      '2: S/30': c-HITi9OElp2
+      ФИ: c-bNbLNX8iqZ
+      approve: c-djgPyJhVbH
+      Значение: c-5Z67SDF5oi
+      hide Big Data: c-3OG-1H4Po6
+      hide Parallel: c-GCdcV1o9F_
+      github: c-W8sk65huqm
+      '3: O/28': c-IVR6Ul7D91
+      '4: N/11': c-uEKcrbGAoh
+      '5: N/18': c-z5UdwP1We_
+      '6: N/25': c-QHPciB2O0a
+      '1: O/15': c-n_WTFiOjBm
+      '2: O/22': c-rKDHeJcLVx
+      '3: O/29': c-LY0eK96Ond
+      '4: N/5': c-R2awk1Wy-V
+      telegram: c-h8HKMergXo
+      tg: c-Z1WRGj0yh_
+      Parallel  Посещения: c-xv6VaIbh30
+      '5: N/12': c-QbW5laAuoU
+      '6: N/19': c-z_oHYnYYQX
+      '6: M/8': c-cZMhhA7mx0
+      '7: M/15': c-Nx7mw8GlH2
+      hide Product: c-nT3YAUvK-D
+      Column 10: c-OlVZIG4KCr
+      Product Посещения: c-vi-BJf9YTn
+      Big Data Посещения: c-iWOTbAYIgc
+      hide ML: c-nGZfo2m4QU
+      ML         Посещения: c-y5Iv9eExpA
+  Посещение по большим данным:
+    table_id: table-zOf5aRl9eD
+    columns:
+      Студент: c-JWp1DUbKdT
+      '0: S/1': c-E2HwtxwoTV
+      '1: S/9': c-GDZD5_qPHv
+      '2: S/23': c-_1utn7OnO7
+      '3: O/7': c-GKkml73aDE
+      '4: O/21': c-MO1qNRgCpH
+      '5: N/4': c-kKihVpVyRe
+      Product Посещения: c-vi-BJf9YTn
+      Группа: c-5ZQ58_YHLN
+      hide Big Data: c-3OG-1H4Po6
+  Типы присутствия на занятии:
+    table_id: grid-FJLqonPvHw
+    columns:
+      Значение: c-xxOPzml3II
+  Студенты по группам:
+    table_id: table--mTlf2UnEi
+    columns:
+      Группа: c-5ZQ58_YHLN
+      Студент: c-JWp1DUbKdT
+  Не будут ходить?:
+    table_id: table-ADiK0fE_kl
+    columns:
+      Студент: c-JWp1DUbKdT
+      hide Big Data: c-3OG-1H4Po6
+      hide Parallel: c-GCdcV1o9F_
+      Группа: c-5ZQ58_YHLN
+      '0: S/1': c-E2HwtxwoTV
+      '1: S/9': c-GDZD5_qPHv
+      '2: S/23': c-_1utn7OnO7
+      '4: O/21': c-MO1qNRgCpH
+  Все занятия:
+    table_id: grid-sync-1003-Event
+    columns:
+      Event: value
+      Synced: synced
+      Sync account: connection
+      Start: c-8WsUjYEzUa
+      End: c-In_cCInW96
+      Attendees: c-pa03qeBE4b
+      Title: c-8vBbJQKm3m
+      '#': c-Vpq5JPNoOl
+      Вид занятия: c-2Ch4HK2uJ6
+      Темы: c--A3wcX_03Z
+      Дата: c-7wdRI8sDIb
+      Time: c-FxlWEZUwm1
+      📽Видео (old): c-dpuz4pjgfI
+      To: c-eJMXEfPRCJ
+      Ауд.: c-rj2cRChjEs
+      Bot for Video: c-BbCGkZ6XS4
+      link_video: c-AXmx0r3FtE
+      Time-метки: c-vdSQTUtH3L
+      Предмет: c-FK9IyRDaKK
+      Column 20: c-V5FTA5p3FD
+      📽 Видео: c-yPRbnMoJnI
+      Посещение: c-T9Ur78cDy-
+      link_slides: c-uxTQDH66CC
+      finished: c-19fABhR-0P
+      🎞 Слайды: c-PHovjOOEIZ
+  Алгоритмы работы с большими данными:
+    table_id: table-Fs-L9P1FKP
+    columns:
+      Дата: c-7wdRI8sDIb
+      Time: c-FxlWEZUwm1
+      To: c-eJMXEfPRCJ
+      Ауд.: c-rj2cRChjEs
+      Вид занятия: c-2Ch4HK2uJ6
+      '#': c-Vpq5JPNoOl
+      Темы: c--A3wcX_03Z
+      📽 Видео: c-yPRbnMoJnI
+      🎞 Слайды: c-PHovjOOEIZ
+      link_video: c-AXmx0r3FtE
+      link_slides: c-uxTQDH66CC
+  Календарь:
+    table_id: table-f5Vsk5joNY
+    columns:
+      Дата: c-7wdRI8sDIb
+      Time: c-FxlWEZUwm1
+      To: c-eJMXEfPRCJ
+      '#': c-Vpq5JPNoOl
+      Вид занятия: c-2Ch4HK2uJ6
+      Ауд.: c-rj2cRChjEs
+      Темы: c--A3wcX_03Z
+      📽Видео (old): c-dpuz4pjgfI
+  Занятия по параллельным вычислениям:
+    table_id: table-9D-WTYBuV0
+    columns:
+      Дата: c-7wdRI8sDIb
+      Time: c-FxlWEZUwm1
+      To: c-eJMXEfPRCJ
+      Ауд.: c-rj2cRChjEs
+      Вид занятия: c-2Ch4HK2uJ6
+      '#': c-Vpq5JPNoOl
+      Темы: c--A3wcX_03Z
+      📽 Видео: c-yPRbnMoJnI
+      🎞 Слайды: c-PHovjOOEIZ
+      link_video: c-AXmx0r3FtE
+      link_slides: c-uxTQDH66CC
+  Посещение по параллельным вычислениям:
+    table_id: table-HuFore1EdE
+    columns:
+      Студент: c-JWp1DUbKdT
+      '1: S/3': c-xgEkELHvQ2
+      '2: S/10': c-cZgck8ui-5
+      '3: S/17': c-YLC8ynjG4T
+      '4: S/24': c-Vgv7wX4RPb
+      '5: O/1': c-hbW0mY_Czw
+      '6: O/8': c-SVtlEn3acm
+      Parallel  Посещения: c-xv6VaIbh30
+      Группа: c-5ZQ58_YHLN
+      hide Parallel: c-GCdcV1o9F_
+  Emails и githubs 2:
+    table_id: table-pk4l0y5kdN
+    columns:
+      Студент: c-JWp1DUbKdT
+      Google-почта: c-a4WkqNaINr
+      github: c-W8sk65huqm
+      telegram: c-h8HKMergXo
+      tg: c-Z1WRGj0yh_
+  Занятия по машинному обучению:
+    table_id: table-sfyGTie1QW
+    columns:
+      Дата: c-7wdRI8sDIb
+      Time: c-FxlWEZUwm1
+      To: c-eJMXEfPRCJ
+      Ауд.: c-rj2cRChjEs
+      Вид занятия: c-2Ch4HK2uJ6
+      '#': c-Vpq5JPNoOl
+      Темы: c--A3wcX_03Z
+      📽 Видео: c-yPRbnMoJnI
+      🎞 Слайды: c-PHovjOOEIZ
+      link_video: c-AXmx0r3FtE
+      link_slides: c-uxTQDH66CC
+  Посещение по Product Management:
+    table_id: table-c_jk8zUH0-
+    columns:
+      Студент: c-JWp1DUbKdT
+      '1: S/16': c-0ubwtJbujQ
+      '2: S/30': c-HITi9OElp2
+      '3: O/28': c-IVR6Ul7D91
+      '4: N/11': c-uEKcrbGAoh
+      '5: N/18': c-z5UdwP1We_
+      '6: N/25': c-QHPciB2O0a
+      Big Data Посещения: c-iWOTbAYIgc
+      Группа: c-5ZQ58_YHLN
+      hide Product: c-nT3YAUvK-D
+  Админка календаря:
+    table_id: table-s_VDRD1mdZ
+    columns:
+      Дата: c-7wdRI8sDIb
+      Time: c-FxlWEZUwm1
+      To: c-eJMXEfPRCJ
+      Ауд.: c-rj2cRChjEs
+      Вид занятия: c-2Ch4HK2uJ6
+      '#': c-Vpq5JPNoOl
+      Event: value
+      Предмет: c-FK9IyRDaKK
+      Посещение: c-T9Ur78cDy-
+      finished: c-19fABhR-0P
+      Title: c-8vBbJQKm3m
+  Занятия по Product Management:
+    table_id: table-6mhnSDB1El
+    columns:
+      Дата: c-7wdRI8sDIb
+      Time: c-FxlWEZUwm1
+      To: c-eJMXEfPRCJ
+      Ауд.: c-rj2cRChjEs
+      Вид занятия: c-2Ch4HK2uJ6
+      '#': c-Vpq5JPNoOl
+      Темы: c--A3wcX_03Z
+      📽 Видео: c-yPRbnMoJnI
+      link_slides: c-uxTQDH66CC
+      🎞 Слайды: c-PHovjOOEIZ
+      link_video: c-AXmx0r3FtE
+  Посещение по Product Management 2:
+    table_id: table-R9zsFvNzoP
+    columns:
+      Студент: c-JWp1DUbKdT
+      '1: O/15': c-n_WTFiOjBm
+      '2: O/22': c-rKDHeJcLVx
+      '3: O/29': c-LY0eK96Ond
+      '4: N/5': c-R2awk1Wy-V
+      '5: N/12': c-QbW5laAuoU
+      '6: N/19': c-z_oHYnYYQX
+      ML         Посещения: c-y5Iv9eExpA
+      Группа: c-5ZQ58_YHLN
+      hide ML: c-nGZfo2m4QU
+  Посещение по параллельным вычислениям 2:
+    table_id: table-0Afq_I-86R
+    columns:
+      Студент: c-JWp1DUbKdT
+      Big Data Посещения: c-iWOTbAYIgc
+      Parallel  Посещения: c-xv6VaIbh30
+      Product Посещения: c-vi-BJf9YTn
+      ML         Посещения: c-y5Iv9eExpA
+      Всего Посещений: c-fLqpLk15HU
+      Группа: c-5ZQ58_YHLN

@@ -71,9 +71,30 @@ if __name__ == '__main__':
             'doc_id': 'zjzcA2QDFg',
             'telegram_chat': None,
         },
+        {
+            'semester': '2020-2',
+            'doc_name': 'adv19',
+            'doc_id': 't-cYjQPqle',
+            'telegram_chat': None,
+        },
+        {
+            'semester': '2020-2',
+            'doc_name': 'adv18',
+            'doc_id': '8m3KXK65wo',
+            'telegram_chat': -399927652,
+        },
+        {
+            'semester': '2020-2',
+            'doc_name': 'adv17',
+            'doc_id': 'Ln1BHsM9yF',
+            'telegram_chat': -291308716,
+        },
     ]
 
     for doc in docs:
         semester, doc_name, doc_id, telegram_chat = doc.values()
-        # create_tables(semester, doc_name, doc_id, telegram_chat)
+        create_tables(semester, doc_name, doc_id, telegram_chat)
         update_tables(semester, doc_name)
+
+
+# todo: make it able to use this script outside this project (via bot?), but it seems that's impossible for now
