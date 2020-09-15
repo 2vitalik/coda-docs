@@ -57,19 +57,6 @@ tables:
       Big Data Посещения: c-iWOTbAYIgc
       hide ML: c-nGZfo2m4QU
       ML         Посещения: c-y5Iv9eExpA
-  Посещение по большим данным:
-    table_id: table-zOf5aRl9eD
-    columns:
-      Студент: c-JWp1DUbKdT
-      '0: S/1': c-E2HwtxwoTV
-      '1: S/9': c-GDZD5_qPHv
-      '2: S/23': c-_1utn7OnO7
-      '3: O/7': c-GKkml73aDE
-      '4: O/21': c-MO1qNRgCpH
-      '5: N/4': c-kKihVpVyRe
-      Product Посещения: c-vi-BJf9YTn
-      Группа: c-5ZQ58_YHLN
-      hide Big Data: c-3OG-1H4Po6
   Типы присутствия на занятии:
     table_id: grid-FJLqonPvHw
     columns:
@@ -102,52 +89,3 @@ tables:
       link_slides: c-uxTQDH66CC
       finished: c-19fABhR-0P
       🎞 Слайды: c-PHovjOOEIZ
-  Посещение по параллельным вычислениям:
-    table_id: table-HuFore1EdE
-    columns:
-      Студент: c-JWp1DUbKdT
-      '1: S/3': c-xgEkELHvQ2
-      '2: S/10': c-cZgck8ui-5
-      '3: S/17': c-YLC8ynjG4T
-      '4: S/24': c-Vgv7wX4RPb
-      '5: O/1': c-hbW0mY_Czw
-      '6: O/8': c-SVtlEn3acm
-      Parallel  Посещения: c-xv6VaIbh30
-      Группа: c-5ZQ58_YHLN
-      hide Parallel: c-GCdcV1o9F_
-  Посещение по Product Management:
-    table_id: table-c_jk8zUH0-
-    columns:
-      Студент: c-JWp1DUbKdT
-      '1: S/16': c-0ubwtJbujQ
-      '2: S/30': c-HITi9OElp2
-      '3: O/28': c-IVR6Ul7D91
-      '4: N/11': c-uEKcrbGAoh
-      '5: N/18': c-z5UdwP1We_
-      '6: N/25': c-QHPciB2O0a
-      Big Data Посещения: c-iWOTbAYIgc
-      Группа: c-5ZQ58_YHLN
-      hide Product: c-nT3YAUvK-D
-  Посещение по Product Management 2:
-    table_id: table-R9zsFvNzoP
-    columns:
-      Студент: c-JWp1DUbKdT
-      '1: O/15': c-n_WTFiOjBm
-      '2: O/22': c-rKDHeJcLVx
-      '3: O/29': c-LY0eK96Ond
-      '4: N/5': c-R2awk1Wy-V
-      '5: N/12': c-QbW5laAuoU
-      '6: N/19': c-z_oHYnYYQX
-      ML         Посещения: c-y5Iv9eExpA
-      Группа: c-5ZQ58_YHLN
-      hide ML: c-nGZfo2m4QU
-  Посещение по параллельным вычислениям 2:
-    table_id: table-0Afq_I-86R
-    columns:
-      Студент: c-JWp1DUbKdT
-      Big Data Посещения: c-iWOTbAYIgc
-      Parallel  Посещения: c-xv6VaIbh30
-      Product Посещения: c-vi-BJf9YTn
-      ML         Посещения: c-y5Iv9eExpA
-      Всего Посещений: c-fLqpLk15HU
-      Группа: c-5ZQ58_YHLN
