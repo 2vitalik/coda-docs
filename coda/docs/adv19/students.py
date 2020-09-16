@@ -9,7 +9,7 @@ class Students(IndexerMixin):  # todo: some common base class?
         self.data = self.load_data() if not skip_load_data else None
         self.indexes = {}  # todo: move to indexer mixin
         self.add_index('Яндекс-аккаунт')
-        self.add_index('Telegram ID')
+        self.add_index('telegram')
 
     def load_data(self):
         return self.table.rows_dict()
@@ -25,7 +25,7 @@ class Students(IndexerMixin):  # todo: some common base class?
         return self.find('Яндекс-аккаунт', yandex_account)
 
     def by_telegram_id(self, telegram_id):
-        return self.find('Telegram ID', telegram_id)
+        return self.find('telegram', telegram_id)
 
     def update(self, row_id, changes):  # todo: move to common base class
         self.table.update(row_id, changes)

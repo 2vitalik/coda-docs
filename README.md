@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.2
+* Rename `telegram` column
+
 ### v.0.3.1
 * Bug-fix in classes
 
