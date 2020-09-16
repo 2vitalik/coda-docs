@@ -71,12 +71,12 @@ if __name__ == '__main__':
         #     'doc_id': 'zjzcA2QDFg',
         #     'telegram_chat': None,
         # },
-        # {
-        #     'semester': '2020-2',
-        #     'doc_name': 'adv19',
-        #     'doc_id': 't-cYjQPqle',
-        #     'telegram_chat': None,
-        # },
+        {
+            'semester': '2020-2',
+            'doc_name': 'adv19',
+            'doc_id': 't-cYjQPqle',
+            'telegram_chat': None,
+        },
         {
             'semester': '2020-2',
             'doc_name': 'adv18',
