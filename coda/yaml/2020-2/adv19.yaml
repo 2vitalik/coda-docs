@@ -1,5 +1,5 @@
 telegram_chat: None
-doc_id: t-cYjQPqle
+doc_id: JIdLdwGrze
 tables:
   Все студенты (контакты):
     table_id: grid-6oWoNzcQNn
@@ -12,28 +12,26 @@ tables:
       Телефон: c-2ZPJjFeHBD
       Google-почта: c-a4WkqNaINr
       Яндекс-почта: c-yq52Fv-Fv1
-      '1: F/22': c-E2HwtxwoTV
+      '1: S/19': c-E2HwtxwoTV
       '2: F/29': c-GDZD5_qPHv
       '3: M/7': c-_1utn7OnO7
-      ⏰ M/28: c-GKkml73aDE
+      '6: M/28': c-GKkml73aDE
       '4: M/14': c-MO1qNRgCpH
       '5: M/21': c-kKihVpVyRe
-      '6: A/4': c-xgEkELHvQ2
-      Активный: c-8C5EEZJiBj
-      base: c-CngBAI2xlJ
+      '7: A/4': c-xgEkELHvQ2
       Яндекс-аккаунт: c-Xe_VWfWkfc
-      ДЗ 1: c-ipqjLCH_7g
-      ДЗ 2: c-HMFP5yKsl-
-      ДЗ 3: c-fJRXc4jUr3
-      ДЗ 4: c-Jgyzo4qNXJ
-      ДЗ 5: c-CIDyO0wCq5
+      🏠  1: c-ipqjLCH_7g
+      🏠 2: c-HMFP5yKsl-
+      🏠  3: c-fJRXc4jUr3
+      🏠  4: c-Jgyzo4qNXJ
+      🏠  5: c-CIDyO0wCq5
       ДЗ ∑: c-JrrXptBOmY
-      '7: A/11': c-cZgck8ui-5
-      '8: A/18': c-YLC8ynjG4T
-      '10: M/2': c-Vgv7wX4RPb
-      '11: M/23': c-hbW0mY_Czw
-      ⏰ M/16: c-SVtlEn3acm
-      '12: M/30': c-0ubwtJbujQ
+      '8: A/11': c-cZgck8ui-5
+      '9: A/18': c-YLC8ynjG4T
+      '11: M/16': c-Vgv7wX4RPb
+      '12: M/23': c-hbW0mY_Czw
+      ⏰ M/2: c-SVtlEn3acm
+      '13: M/30': c-0ubwtJbujQ
       Review Repo: c-mL5HJn9Ds1
       🔎1.1: c-8IBxlzETUW
       'Review #2 Repo': c-SAb9ITQSZS
@@ -51,25 +49,23 @@ tables:
       К.р. ∑∑: c-zLf2_V5Uws
       visits: c-fLqpLk15HU
       Lines: c-owJGB0vBxd
-      Дор1: c-Stm1AMzcLq
-      Дор2: c-zx__DBdLfy
-      Дор3: c-g7Gb4nLBs0
-      Дор4: c-jdrFMJB6oD
-      Дор5: c-qrSM_HM0Cg
+      🎈 1: c-Stm1AMzcLq
+      🎈 2: c-zx__DBdLfy
+      🎈 3: c-g7Gb4nLBs0
+      🎈 4: c-jdrFMJB6oD
+      🎈 5: c-qrSM_HM0Cg
       Дор∑: c-9w5OQsFBd5
-      Доб1: c-uhmBxw_5rc
-      Доб2: c-0V5zB3KWJb
-      Доб3: c-7Ga9E1k0x_
-      Доб4: c-LGQ7fc7jLM
-      Доб5: c-66uwRC55Ls
+      🎯 1: c-uhmBxw_5rc
+      🎯 2: c-0V5zB3KWJb
+      🎯 3: c-7Ga9E1k0x_
+      🎯 4: c-LGQ7fc7jLM
+      🎯 5: c-66uwRC55Ls
       ДЗ ∑∑: c-B31VVBMDGR
       Review ∑: c-QL7mP4jHLe
       dots1: c-LvEPL6TBJw
       dots2: c-vahAzPdopS
       dots3: c-Ap1U88euGA
       dots4: c-5FSfDqkBUC
-      Презент.: c-hFZ5dprIa0
-      Прогр.: c-s6bk6CGgA2
       Тесты  ∑: c-X81lUZQ30E
       Проект ∑: c-MYuW_AdHLt
       Бонусы ∑: c-f2oqQl3z0_
@@ -109,21 +105,11 @@ tables:
       Кр.1+2,3 ∑: c-18NkZM3Bol
       Кр.1,3+2 ∑: c-uGwXoSBFaV
       pz4: c-kzBW_T93qg
-      Описан.: c-nkk3ifezQi
-      Асимптот.: c-w01QYBf7tf
-      Наглядн.: c-mgAMpp_E9t
-      Дизайн: c-sRvpnU5pDi
-      Функц.: c-oUBMcOvRHL
-      Пример.: c-l6rTmyUrk1
-      Сложн.: c-_SGKz3t96y
-      Реценз.: c-0in8Y1bItS
-      QBit: c-Ef9GOTpGF4
       dots-nickname: c-tQqt47PZ1E
       dots1_raw: c-FiZNprQqOi
       dots2_raw: c-l_9M4hI4As
       dots3_raw: c-wl7PeFKy8-
       dots4_raw: c-0jzngIwHb4
-      Samsung: c-qQxTMclCCK
       Бонусы (scaling): c-u0ndeUGOTY
       K1-Up: c-PiZgFqqrQG
       кр.1 A🌀: c-17-j47k-fs
@@ -137,10 +123,7 @@ tables:
       кр.3 C🌀: c-fJcpEY4FKz
       K2-Up: c-nu4IHcGMM9
       кр.3 🌀: c-t0QgYvtEQ0
-      Исправ.: c-ktG8lKTpui
       Тесты: c-QDoiisdWFo
-      Хочу: c-XKWiqZjTZz
-      След.семестр: c-kNHNRV2O_l
       ФИ: c-bNbLNX8iqZ
       кр.1 A↓: c-ET-CPsnxHj
       кр.1 B↓: c-c9QaQWniJV
@@ -152,36 +135,18 @@ tables:
       t1479: c-IxD-LcyH6l
       t1691: c-hKlEyXCoJU
       yan3: c-3IFlvcEiVi
-      ACM: c-tYZVNi22dS
-      Vekua: c-mWCD9SWR36
-      Hackathon: c---Ao645ZSi
-      DAS: c-6LNHGnMcAc
-      Extra classes: c-KbIqMU7KQ4
-      Math(KPI): c-kfKnQ_-NUN
-      BSUIR: c-x-btxfbDJz
-      CodeJam: c-ABwB-1SW_b
-      HashCode: c-9YwU9zlafs
-      ✅Зачёт: c-_IM6KAxJRV
-      Stage 1: c-ItOsG15BMI
-      Stage 2: c-b6Uj0sbE42
-      Stage 3: c-HtpPht-lG6
-      Stage 4: c-ADFjkwtaED
-      Stage 5: c-YIFvJ_7ib7
-      Speech: c-I_DW13Rb57
-      Program: c-HeDD1iUOpV
-      Stage 6: c-LlhXvbSOm0
-      💰 Первое зачтённое: c-kwj5LSxQsx
-      slides: c-9HbKGjdncp
-      drive: c-9rGyAA3ec9
-      chat: c-hXN4iFgs_z
-      chnl: c-gIBtBkWHiP
-      yandex: c-VjS9GOBIx0
-      coda: c-hJMlmbTVRD
-      notion: c-w6yUf6HmNE
-      '#a5': c-5mJR0pmJ3D
+      ✅ Зачёт: c-_IM6KAxJRV
+      :slides: c-9HbKGjdncp
+      :drive: c-9rGyAA3ec9
+      :chat: c-hXN4iFgs_z
+      :channel: c-gIBtBkWHiP
+      :yandex: c-VjS9GOBIx0
+      :coda: c-hJMlmbTVRD
+      :notion: c-w6yUf6HmNE
+      :#a5: c-5mJR0pmJ3D
       Coda-account: c-C7WfbzoV62
-      calend: c-XXO__qo8cF
-      coda2: c-ElkVhpkzEL
+      :calendar: c-XXO__qo8cF
+      :coda2: c-ElkVhpkzEL
       hide: c-qypv-A0YFB
       Modified on: c-alHjec5ggE
       Яндекс-префикс: c-fC9eidIATp
@@ -197,9 +162,8 @@ tables:
       has_review_repo: c-3BNy7ihB6P
       🔎state: c-NIol_qpvpk
       telegram: c-TFD5d6_2PN
-      tg: c-6236PHw-KS
+      :tg: c-6236PHw-KS
       hint: c-Y1uwuwOPY6
-      move: c-7WqMxnNxXu
       K1-A: c-Dc-QgeAaZi
       K1-B: c-v5BJ8-PI-F
       K1-C: c-cxv7sNossn
@@ -211,27 +175,26 @@ tables:
       v+: c-yVHQc7fpIt
       src: c-U3ZcoWylFQ
       Ведомость: c-XSj9o6-oJe
-      '9: A/25': c-yYOfUeeT8f
-      next: c-PppJjalR5G
-      lists: c-sjsx1j8V7v
-      other: c-V-dgrnPAwn
-      approve: c-injDtXYvlL
-      approve1: c-3xoAKkIc77
-      absent: c-Wkba6aNLeO
-      free: c-9ew_BQ1EXg
-      msg: c-qaO3HNFdzk
-      data-ok: c-oAOHM4RPAA
-      ВУЗ: c-MQxw6jeX3A
-      Группа_: c-9_QT41CKUr
-      Спец-ть: c-fD0b31TaQb
-      Курс: c-pFQ8k-W0tK
-      Год: c-TiWlY4iJrg
-      Статус: c-nnKh2mZ2-B
-      Ошибки: c-CO_Hptsxp3
+      '10: A/25': c-yYOfUeeT8f
+      ⏰ J/13: c-CJJm2ShtPd
+      'КР #': c-u-NwPPkba0
+      'ДЗ #': c-JNOrmulA_F
+      Бонусы?: c-K51UjJK2PL
+      Итог?: c-fLNkUfpfUT
+      ВУЗ: c-GQQLHrY17t
+      Спец-ть: c-adZmFsdmSn
+      Группа_: c-51lToi9uHM
+      Год: c-57hehJMpfk
+      Курс: c-onYplVykjZ
+      Статус: c-jzl8atyF69
+      Ошибки: c-9wOuJ3C-Xq
+      source: c-oW8rAXRXaJ
+      absent: c-xR_CbJhnC6
   Присутствие на занятии:
     table_id: grid-FJLqonPvHw
     columns:
       Значение: c-xxOPzml3II
+      Описание: c-EyYo-vD2Ry
   Все занятия:
     table_id: grid-sync-1003-Event
     columns:
@@ -257,6 +220,7 @@ tables:
       tg5: c-a7K1UEoxYC
       tg1: c-jEkDRTVmGE
       Посещение: c-swrnn6uiMK
+      finished: c-RaRwjA1E83
   Домашки (админка):
     table_id: grid-mskk_ijYm7
     columns:
@@ -307,6 +271,7 @@ tables:
       Дз: c-2IfqOjcLAW
       Рз: c-yyjWHmvzBq
       Темы: c-z7HiFVkT2Y
+      '#': c-2GQ7C71aq8
   Темы проектов:
     table_id: grid-476c-E55G5
     columns:
