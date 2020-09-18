@@ -1,7 +1,7 @@
 telegram_chat: None
 doc_id: JIdLdwGrze
 tables:
-  Все студенты (контакты):
+  Все студенты:
     table_id: grid-6oWoNzcQNn
     columns:
       Студент: c-JWp1DUbKdT

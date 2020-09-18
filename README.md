@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.4
+* Update `adv19.yaml`: fix table name ("Все студенты")
+
 ### v.0.3.3
 * Update `adv19.yaml`: use new coda-document
 
