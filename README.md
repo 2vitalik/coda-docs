@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.5
+* Updated columns _(loaded latest from coda)_
+
 ### v.0.3.4
 * Update `adv19.yaml`: fix table name ("Все студенты")
 

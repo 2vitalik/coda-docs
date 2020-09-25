@@ -13,24 +13,24 @@ tables:
       Google-почта: c-a4WkqNaINr
       Яндекс-почта: c-yq52Fv-Fv1
       '1: S/19': c-E2HwtxwoTV
-      '2: F/29': c-GDZD5_qPHv
-      '3: M/7': c-_1utn7OnO7
-      '6: M/28': c-GKkml73aDE
-      '4: M/14': c-MO1qNRgCpH
-      '5: M/21': c-kKihVpVyRe
-      '7: A/4': c-xgEkELHvQ2
+      '2: O/3': c-GDZD5_qPHv
+      '3: O/17': c-_1utn7OnO7
+      '6: N/28': c-GKkml73aDE
+      '4: O/31': c-MO1qNRgCpH
+      '5: N/14': c-kKihVpVyRe
+      '7: D/19': c-xgEkELHvQ2
       Яндекс-аккаунт: c-Xe_VWfWkfc
       🏠  1: c-ipqjLCH_7g
       🏠 2: c-HMFP5yKsl-
       🏠  3: c-fJRXc4jUr3
       🏠  4: c-Jgyzo4qNXJ
       🏠  5: c-CIDyO0wCq5
-      ДЗ ∑: c-JrrXptBOmY
-      '8: A/11': c-cZgck8ui-5
+      🏠 ∑: c-JrrXptBOmY
+      '8: J/9': c-cZgck8ui-5
       '9: A/18': c-YLC8ynjG4T
       '11: M/16': c-Vgv7wX4RPb
       '12: M/23': c-hbW0mY_Czw
-      ⏰ M/2: c-SVtlEn3acm
+      ⏰ D/12: c-SVtlEn3acm
       '13: M/30': c-0ubwtJbujQ
       Review Repo: c-mL5HJn9Ds1
       🔎1.1: c-8IBxlzETUW
@@ -54,13 +54,13 @@ tables:
       🎈 3: c-g7Gb4nLBs0
       🎈 4: c-jdrFMJB6oD
       🎈 5: c-qrSM_HM0Cg
-      Дор∑: c-9w5OQsFBd5
+      🎈🎯∑: c-9w5OQsFBd5
       🎯 1: c-uhmBxw_5rc
       🎯 2: c-0V5zB3KWJb
       🎯 3: c-7Ga9E1k0x_
       🎯 4: c-LGQ7fc7jLM
       🎯 5: c-66uwRC55Ls
-      ДЗ ∑∑: c-B31VVBMDGR
+      ДЗ ∑: c-B31VVBMDGR
       Review ∑: c-QL7mP4jHLe
       dots1: c-LvEPL6TBJw
       dots2: c-vahAzPdopS
@@ -176,7 +176,7 @@ tables:
       src: c-U3ZcoWylFQ
       Ведомость: c-XSj9o6-oJe
       '10: A/25': c-yYOfUeeT8f
-      ⏰ J/13: c-CJJm2ShtPd
+      ⏰ O/24: c-CJJm2ShtPd
       'КР #': c-u-NwPPkba0
       'ДЗ #': c-JNOrmulA_F
       Бонусы?: c-K51UjJK2PL
@@ -190,6 +190,7 @@ tables:
       Ошибки: c-9wOuJ3C-Xq
       source: c-oW8rAXRXaJ
       absent: c-xR_CbJhnC6
+      оценку?: c--rLKKIzTbV
   Присутствие на занятии:
     table_id: grid-FJLqonPvHw
     columns:
@@ -214,7 +215,7 @@ tables:
       To: c-eJMXEfPRCJ
       Ауд.: c-rj2cRChjEs
       Bot for Video: c-BbCGkZ6XS4
-      Ссылка на видео: c-AXmx0r3FtE
+      link: c-AXmx0r3FtE
       Time-метки: c-vdSQTUtH3L
       📽Видео: c-3ps4laCa3r
       tg5: c-a7K1UEoxYC

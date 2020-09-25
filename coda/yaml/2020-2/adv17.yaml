@@ -13,10 +13,10 @@ tables:
       Google-почта: c-a4WkqNaINr
       '0: S/1': c-E2HwtxwoTV
       '1: S/9': c-GDZD5_qPHv
-      '2: S/23': c-_1utn7OnO7
-      '3: O/7': c-GKkml73aDE
-      '4: O/21': c-MO1qNRgCpH
-      '5: N/4': c-kKihVpVyRe
+      '3: S/23': c-_1utn7OnO7
+      '4: O/7': c-GKkml73aDE
+      '5: O/21': c-MO1qNRgCpH
+      '6: N/4': c-kKihVpVyRe
       '1: S/3': c-xgEkELHvQ2
       base: c-CngBAI2xlJ
       '2: S/10': c-cZgck8ui-5
@@ -39,7 +39,7 @@ tables:
       '3: O/28': c-IVR6Ul7D91
       '4: N/11': c-uEKcrbGAoh
       '5: N/18': c-z5UdwP1We_
-      '6: N/25': c-QHPciB2O0a
+      '2: S/23 (2)': c-QHPciB2O0a
       '1: O/15': c-n_WTFiOjBm
       '2: O/22': c-rKDHeJcLVx
       '3: O/29': c-LY0eK96Ond
@@ -50,13 +50,15 @@ tables:
       '5: N/12': c-QbW5laAuoU
       '6: N/19': c-z_oHYnYYQX
       '6: M/8': c-cZMhhA7mx0
-      '7: M/15': c-Nx7mw8GlH2
+      '-2': c-Nx7mw8GlH2
       hide Product: c-nT3YAUvK-D
       Column 10: c-OlVZIG4KCr
       Product Посещения: c-vi-BJf9YTn
       Big Data Посещения: c-iWOTbAYIgc
       hide ML: c-nGZfo2m4QU
       ML         Посещения: c-y5Iv9eExpA
+      tg_new: c-7oeIgW1NUq
+      '-22': c-FsKubrHYVr
   Типы присутствия на занятии:
     table_id: grid-FJLqonPvHw
     columns:
