@@ -3,6 +3,8 @@ doc_id: 8m3KXK65wo
 tables:
   Все студенты:
     table_id: grid-wdQQx8blYb
+    title:
+    - Студент
     columns:
       Студент: c-JWp1DUbKdT
       Фамилия: c-yhu4A9Rl_c
@@ -230,6 +232,8 @@ tables:
       Значение: c-xxOPzml3II
   Все занятия:
     table_id: grid-sync-1003-Event
+    title:
+    - Дата
     columns:
       Event: value
       Synced: synced

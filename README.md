@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.7
+* Add titles to tables (for `coda_changes`)
+
 ### v.0.3.6
 * Set telegram chat for `coda_changes` for `adv19`
 
