@@ -75,7 +75,7 @@ if __name__ == '__main__':
             'semester': '2020-2',
             'doc_name': 'adv19',
             'doc_id': 'JIdLdwGrze',
-            'telegram_chat': None,
+            'telegram_chat': -412658504,
         },
         {
             'semester': '2020-2',

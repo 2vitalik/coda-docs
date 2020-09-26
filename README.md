@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.6
+* Set telegram chat for `coda_changes` for `adv19`
+
 ### v.0.3.5
 * Updated columns _(loaded latest from coda)_
 
