@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.8
+* Comment "Modified On" column in `adv19.yaml`
+
 ### v.0.3.7
 * Add titles to tables (for `coda_changes`)
 
