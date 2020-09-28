@@ -13,12 +13,12 @@ tables:
       Группа: c-5ZQ58_YHLN
       Телефон: c-2ZPJjFeHBD
       Google-почта: c-a4WkqNaINr
-      '0: S/1': c-E2HwtxwoTV
+      '0: S/2': c-E2HwtxwoTV
       '1: S/9': c-GDZD5_qPHv
       '3: S/23': c-_1utn7OnO7
-      '4: O/7': c-GKkml73aDE
-      '5: O/21': c-MO1qNRgCpH
-      '6: N/4': c-kKihVpVyRe
+      '5: O/7': c-GKkml73aDE
+      '6: O/21': c-MO1qNRgCpH
+      '7: N/4': c-kKihVpVyRe
       '1: S/3': c-xgEkELHvQ2
       base: c-CngBAI2xlJ
       '2: S/10': c-cZgck8ui-5
@@ -31,7 +31,7 @@ tables:
       Lines: c-owJGB0vBxd
       Медалька за баллы: c-AIoQZKlMQT
       Ладошка посещения: c-odpiirdr6T
-      '2: S/30': c-HITi9OElp2
+      '4: S/30': c-HITi9OElp2
       ФИ: c-bNbLNX8iqZ
       approve: c-djgPyJhVbH
       Значение: c-5Z67SDF5oi
@@ -52,7 +52,7 @@ tables:
       '5: N/12': c-QbW5laAuoU
       '6: N/19': c-z_oHYnYYQX
       '6: M/8': c-cZMhhA7mx0
-      '-2': c-Nx7mw8GlH2
+      '3: S/30 (2)': c-Nx7mw8GlH2
       hide Product: c-nT3YAUvK-D
       Column 10: c-OlVZIG4KCr
       Product Посещения: c-vi-BJf9YTn
@@ -60,7 +60,7 @@ tables:
       hide ML: c-nGZfo2m4QU
       ML         Посещения: c-y5Iv9eExpA
       tg_new: c-7oeIgW1NUq
-      '-22': c-FsKubrHYVr
+      '-3': c-FsKubrHYVr
   Типы присутствия на занятии:
     table_id: grid-FJLqonPvHw
     columns:

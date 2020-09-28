@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.9
+* Updated columns _(loaded latest from coda)_
+
 ### v.0.3.8
 * Comment "Modified On" column in `adv19.yaml`
 
