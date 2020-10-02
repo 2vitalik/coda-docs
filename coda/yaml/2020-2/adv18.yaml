@@ -66,7 +66,7 @@ tables:
       Проект ∑: c-MYuW_AdHLt
       Бонусы ∑: c-f2oqQl3z0_
       pz1: c-biXkb2crVl
-      errors: c-fHMKKiiajZ
+      ошибки: c-fHMKKiiajZ
       pz2: c-4S7LVyqPkU
       Upsolving 💰: c--BFdYFiA8m
       кр.2 A#: c-a_whspKc_o
@@ -198,16 +198,16 @@ tables:
       Exception: c-oyS0t_Tt7b
       Magic: c-a_RRp2Tcyq
       Context: c-bw_9lkyk3Q
-      Triangle: c-48WIb0dC-Q
-      Лестницы: c-r_PKLDMLYp
-      ПлощадьМн: c-kvm0ZbpMU5
-      Угол: c-fVK3dNRo6M
-      Расстояние: c-YKZmoWg2AR
-      Прямая: c-Klr1FBDamL
-      Окружность: c-AGInpjZU48
+      '2147': c-48WIb0dC-Q
+      '2447': c-r_PKLDMLYp
+      '2737': c-kvm0ZbpMU5
+      '2130': c-fVK3dNRo6M
+      '2136': c-YKZmoWg2AR
+      '2141': c-Klr1FBDamL
+      '1506': c-AGInpjZU48
       Итог100: c-PWSP_MBQdb
       КР ∑∑: c-OJBUHyRgK7
-      Бильярд: c-U8-JiS7H1f
+      '5186': c-U8-JiS7H1f
       Окружность🐍: c-2ajSnVnxxd
       Triangle🐍: c-Hp38ENLOfk
       Прямая🐍: c-qSPx4yZsoV
@@ -225,7 +225,24 @@ tables:
       next: c-2wsScxeORk
       Геометрия Посещения: c-XjYgIKuipu
       Coda-аккаунт: c-PcICM_6GmZ
-      err: c-dcsfehGm0R
+      '667': c-0YfMAYIGqL
+      '1258': c-L9FLPF0Rb7
+      Р-1: c-OZl01_vuLj
+      Р-2: c-V5wBpLH0Na
+      Р-3: c-LJTE7tmIrn
+      Р-4: c-r5shgjydtV
+      Р-5: c-2ztngig4mv
+      Р-6: c-skkrLly-YO
+      Р-7: c-Q25fppnerS
+      Р-8: c-GT1jTt1yHa
+      Р-9: c-Zg9_zyqmHy
+      Р-10: c-NLWrgOu8u8
+      Р-11: c-KdJLPSWRdK
+      Р-12: c-g_x4gtmgDt
+      tasks ∑: c-Grz-QnKHls
+      источники: c-m9pj2EwQhw
+      дополн: c-YxnZQuCEyZ
+      реализац ∑: c-Jrldz0KBLf
   Присутствие на занятии:
     table_id: grid-FJLqonPvHw
     columns:

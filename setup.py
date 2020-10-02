@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="coda-docs",
-    version="0.3.10",
+    version="0.3.11",
     author="Vitalik",
     author_email="2vitalik@gmail.com",
     description="Coda data for different projects",
