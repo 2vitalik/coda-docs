@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.12
+* Fix `ResultsChanges` class in `adv19`
+
 ### v.0.3.11
 * Updated columns _(loaded latest from coda)_
 
