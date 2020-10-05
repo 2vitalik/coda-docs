@@ -23,11 +23,11 @@ tables:
       '7: D/19': c-xgEkELHvQ2
       Яндекс-аккаунт: c-Xe_VWfWkfc
       🏠  1: c-ipqjLCH_7g
-      🏠 2: c-HMFP5yKsl-
+      🏠  2: c-HMFP5yKsl-
       🏠  3: c-fJRXc4jUr3
       🏠  4: c-Jgyzo4qNXJ
       🏠  5: c-CIDyO0wCq5
-      🏠 ∑: c-JrrXptBOmY
+      # 🏠 ∑: c-JrrXptBOmY
       '8: J/9': c-cZgck8ui-5
       '9: A/18': c-YLC8ynjG4T
       '11: M/16': c-Vgv7wX4RPb
@@ -174,15 +174,15 @@ tables:
       K2-C: c-PlRFt5Mqwi
       ≈: c-pfGhEEsXYo
       Project: c-UMm0MmNFEa
-      v+: c-yVHQc7fpIt
+      # v+: c-yVHQc7fpIt
       src: c-U3ZcoWylFQ
       Ведомость: c-XSj9o6-oJe
       '10: A/25': c-yYOfUeeT8f
       ⏰ O/24: c-CJJm2ShtPd
-      'КР #': c-u-NwPPkba0
-      'ДЗ #': c-JNOrmulA_F
-      Бонусы?: c-K51UjJK2PL
-      Итог?: c-fLNkUfpfUT
+      # 'КР #': c-u-NwPPkba0
+      # 'ДЗ #': c-JNOrmulA_F
+      # Бонусы?: c-K51UjJK2PL
+      # Итог?: c-fLNkUfpfUT
       ВУЗ: c-GQQLHrY17t
       Спец-ть: c-adZmFsdmSn
       Группа_: c-51lToi9uHM
@@ -240,15 +240,15 @@ tables:
       Админка: c-nsXr6lpFIA
       Ready: c-umi6bdo65d
       Send: c-bauUskU70V
-      Undo: c-eTu4PY6att
-      Mark sent: c-MLPOzNQQYM
+      # Undo: c-eTu4PY6att
+      # Mark sent: c-MLPOzNQQYM
       Status: c-lfl_ReCLp6
       Filled: c-zWgJjbgpgx
       Finished: c-VdVKDj0nED
-      link admin: c-2jiMPtVCoa
+      # link admin: c-2jiMPtVCoa
       Title: c-SWCeiWHogQ
       link contest: c-Jk3RnoYUAa
-      date_slug: c-ilGSQ4jkvH
+      # date_slug: c-ilGSQ4jkvH
       Условия: c-ZPOhoJIkkp
       Предмет: c-QE7bI8Q7_n
       🔎Theory: c-yC4Df8iYYt
@@ -257,8 +257,8 @@ tables:
       Ссылка: c-dPVG2e_IyA
       link-razbor: c-giJHosFlTP
       link-video: c-HsqUt5GStX
-      Разбор: c-0i3f5A6SE2
-      Видео разбора: c-Cv0-tYU2Ir
+      # Разбор: c-0i3f5A6SE2
+      # Видео разбора: c-Cv0-tYU2Ir
       Тип: c-0Z7wh4A8Ko
   История изменения итогов:
     table_id: grid-oCRSd-kD2g
@@ -266,7 +266,7 @@ tables:
       Студент: c-y1WEcr2A9D
       Итог: c-dLH39tkcu0
       Date: c-DBD4nV7SyY
-      Текущий итог: c-EOboJsWWFe
+      # Текущий итог: c-EOboJsWWFe
   Планы:
     table_id: grid-ISwxg-XmnH
     columns:

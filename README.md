@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.13
+* Comment several fields in `adv19.yaml`
+
 ### v.0.3.12
 * Fix `ResultsChanges` class in `adv19`
 
