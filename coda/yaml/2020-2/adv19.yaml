@@ -5,6 +5,14 @@ tables:
     table_id: grid-6oWoNzcQNn
     title:
     - Студент
+    ignore:
+      - 🏠 ∑
+      - Modified on
+      - v+
+      - 'КР #'
+      - 'ДЗ #'
+      - Бонусы?
+      - Итог?
     columns:
       Студент: c-JWp1DUbKdT
       Фамилия: c-yhu4A9Rl_c
@@ -75,10 +83,10 @@ tables:
       t2096: c-EaUIRHfrIJ
       yan1: c-rfszbDsUT4
       yan2: c-eITgSjpHXB
-      pz1: c-biXkb2crVl
-      err: c-fHMKKiiajZ
-      pz2: c-4S7LVyqPkU
-      upsolving: c--BFdYFiA8m
+      пз1: c-biXkb2crVl
+      ош: c-fHMKKiiajZ
+      пз2: c-4S7LVyqPkU
+      дореш: c--BFdYFiA8m
       кр.2 A#: c-a_whspKc_o
       кр.2 B#: c-O2UmPxSBOi
       кр.2 C#: c-1hE9kzPdy1
@@ -90,7 +98,7 @@ tables:
       Ладошка посещения: c-odpiirdr6T
       кр.2 C↓: c-Mg3YACOziU
       ≈ оценка: c-ujL9K692ko
-      pz3: c-YSgl7bJOsn
+      пз3: c-YSgl7bJOsn
       '12': c-HITi9OElp2
       кр.3 A#: c-KakrYDlA4U
       кр.3 B#: c--cGGled3eb
@@ -106,7 +114,7 @@ tables:
       кр.1,2,3 ∑: c-jTwGY7feJ7
       Кр.1+2,3 ∑: c-18NkZM3Bol
       Кр.1,3+2 ∑: c-uGwXoSBFaV
-      pz4: c-kzBW_T93qg
+      пз4: c-kzBW_T93qg
       dots-nickname: c-tQqt47PZ1E
       dots1_raw: c-FiZNprQqOi
       dots2_raw: c-l_9M4hI4As
@@ -165,7 +173,7 @@ tables:
       🔎state: c-NIol_qpvpk
       telegram: c-TFD5d6_2PN
       :tg: c-6236PHw-KS
-      hint: c-Y1uwuwOPY6
+      доп: c-Y1uwuwOPY6
       K1-A: c-Dc-QgeAaZi
       K1-B: c-v5BJ8-PI-F
       K1-C: c-cxv7sNossn
@@ -175,7 +183,7 @@ tables:
       ≈: c-pfGhEEsXYo
       Project: c-UMm0MmNFEa
       # v+: c-yVHQc7fpIt
-      src: c-U3ZcoWylFQ
+      wiki: c-U3ZcoWylFQ
       Ведомость: c-XSj9o6-oJe
       '10: A/25': c-yYOfUeeT8f
       ⏰ O/24: c-CJJm2ShtPd
@@ -193,6 +201,7 @@ tables:
       source: c-oW8rAXRXaJ
       absent: c-xR_CbJhnC6
       оценку?: c--rLKKIzTbV
+      Студент (без иконок): c-DkMIoWkh2h
   Присутствие на занятии:
     table_id: grid-FJLqonPvHw
     columns:
@@ -228,13 +237,20 @@ tables:
       finished: c-RaRwjA1E83
   Домашки (админка):
     table_id: grid-mskk_ijYm7
+    ignore:
+      - Undo
+      - Mark sent
+      - link admin
+      - date_slug
+      - Разбор
+      - Видео разбора
     columns:
       №: c-uQakKyV7HY
       Вид: c-nnRNVmYfKT
       Начало: c-b72OzwWOmD
       Конец: c-VW8Kk3O6P_
       ID: c-iEVY62yj8-
-      🔎Ревью: c-unSU5bLevW
+      🔎 Ревью: c-unSU5bLevW
       Ссылка (old): c-C0-8P5D8Sa
       Sent: c-RFK1b7YYvX
       Админка: c-nsXr6lpFIA
@@ -251,9 +267,9 @@ tables:
       # date_slug: c-ilGSQ4jkvH
       Условия: c-ZPOhoJIkkp
       Предмет: c-QE7bI8Q7_n
-      🔎Theory: c-yC4Df8iYYt
-      🔎Interface: c-dVTq8xv3jw
-      🔎Code: c-7oItkF3Peh
+      🔎 Theory: c-yC4Df8iYYt
+      🔎 Interface: c-dVTq8xv3jw
+      🔎 Code: c-7oItkF3Peh
       Ссылка: c-dPVG2e_IyA
       link-razbor: c-giJHosFlTP
       link-video: c-HsqUt5GStX
@@ -262,6 +278,8 @@ tables:
       Тип: c-0Z7wh4A8Ko
   История изменения итогов:
     table_id: grid-oCRSd-kD2g
+    ignore:
+      - Текущий итог
     columns:
       Студент: c-y1WEcr2A9D
       Итог: c-dLH39tkcu0

@@ -38,10 +38,10 @@ tables:
       hide Big Data: c-3OG-1H4Po6
       hide Parallel: c-GCdcV1o9F_
       github: c-W8sk65huqm
-      '4: O/28': c-IVR6Ul7D91
-      '5: N/11': c-uEKcrbGAoh
-      '6: N/18': c-z5UdwP1We_
-      '2: S/23 (2)': c-QHPciB2O0a
+      '5: O/28': c-IVR6Ul7D91
+      '6: N/11': c-uEKcrbGAoh
+      '7: N/18': c-z5UdwP1We_
+      '2: S/23 *': c-QHPciB2O0a
       '1: O/15': c-n_WTFiOjBm
       '2: O/22': c-rKDHeJcLVx
       '3: O/29': c-LY0eK96Ond
@@ -52,7 +52,7 @@ tables:
       '5: N/12': c-QbW5laAuoU
       '6: N/19': c-z_oHYnYYQX
       '6: M/8': c-cZMhhA7mx0
-      '3: S/30 (2)': c-Nx7mw8GlH2
+      '3: S/30 *': c-Nx7mw8GlH2
       hide Product: c-nT3YAUvK-D
       Column 10: c-OlVZIG4KCr
       Product Посещения: c-vi-BJf9YTn
@@ -60,7 +60,7 @@ tables:
       hide ML: c-nGZfo2m4QU
       ML         Посещения: c-y5Iv9eExpA
       tg_new: c-7oeIgW1NUq
-      '-3': c-FsKubrHYVr
+      '4: O/7 *': c-FsKubrHYVr
       ДЗ 1: c-tmOUiEvZ39
       ДЗ 2: c-YLKakBgsog
       ДЗ 3: c-uSxKljjIgP

@@ -65,9 +65,9 @@ tables:
       Тесты  ∑: c-X81lUZQ30E
       Проект ∑: c-MYuW_AdHLt
       Бонусы ∑: c-f2oqQl3z0_
-      pz1: c-biXkb2crVl
+      пз1: c-biXkb2crVl
       ошибки: c-fHMKKiiajZ
-      pz2: c-4S7LVyqPkU
+      пз2: c-4S7LVyqPkU
       Upsolving 💰: c--BFdYFiA8m
       кр.2 A#: c-a_whspKc_o
       кр.2 B#: c-O2UmPxSBOi
@@ -80,7 +80,7 @@ tables:
       Ладошка посещения: c-odpiirdr6T
       кр.2 C↓: c-Mg3YACOziU
       ✅ Зачёт: c-ujL9K692ko
-      pz3: c-YSgl7bJOsn
+      пз3: c-YSgl7bJOsn
       '-5': c-HITi9OElp2
       кр.3 A#: c-KakrYDlA4U
       кр.3 B#: c--cGGled3eb
@@ -96,7 +96,7 @@ tables:
       кр.1,2,3 ∑: c-jTwGY7feJ7
       Кр.1+2,3 ∑: c-18NkZM3Bol
       Кр.1,3+2 ∑: c-uGwXoSBFaV
-      pz4: c-kzBW_T93qg
+      пз4: c-kzBW_T93qg
       Описан.: c-nkk3ifezQi
       Асимптот.: c-w01QYBf7tf
       Наглядн.: c-mgAMpp_E9t
@@ -175,7 +175,7 @@ tables:
       Attempts: c-srfsWIjX--
       Score: c-XaGUXC06Pr
       КР ∑: c-Gi4a2YXCL0
-      pz5: c-UK_yLGLIKH
+      пз5: c-UK_yLGLIKH
       'HR: Intro': c-OcnZkW743h
       'HR: String': c-49wU1qLVkv
       'HR: Sets': c-B5pbkkvzYC
@@ -243,6 +243,8 @@ tables:
       источники: c-m9pj2EwQhw
       дополн: c-YxnZQuCEyZ
       реализац ∑: c-Jrldz0KBLf
+      GOODG: c-8e4WKg1jUX
+      NKLEAVES: c-iioOSeVJ1T
   Присутствие на занятии:
     table_id: grid-FJLqonPvHw
     columns:

@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.14
+* Updated columns _(loaded latest from coda)_
+
 ### v.0.3.13
 * Comment several fields in `adv19.yaml`
 
