@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.15
+* Update `ProjectThemes` class for `adv19`
+
 ### v.0.3.14
 * Updated columns _(loaded latest from coda)_
 
