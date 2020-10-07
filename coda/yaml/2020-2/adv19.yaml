@@ -6,13 +6,13 @@ tables:
     title:
     - Студент
     ignore:
-      - 🏠 ∑
-      - Modified on
-      - v+
-      - 'КР #'
-      - 'ДЗ #'
-      - Бонусы?
-      - Итог?
+    - 🏠 ∑
+    - Modified on
+    - v+
+    - 'КР #'
+    - 'ДЗ #'
+    - Бонусы?
+    - Итог?
     columns:
       Студент: c-JWp1DUbKdT
       Фамилия: c-yhu4A9Rl_c
@@ -238,12 +238,12 @@ tables:
   Домашки (админка):
     table_id: grid-mskk_ijYm7
     ignore:
-      - Undo
-      - Mark sent
-      - link admin
-      - date_slug
-      - Разбор
-      - Видео разбора
+    - Undo
+    - Mark sent
+    - link admin
+    - date_slug
+    - Разбор
+    - Видео разбора
     columns:
       №: c-uQakKyV7HY
       Вид: c-nnRNVmYfKT
@@ -279,7 +279,7 @@ tables:
   История изменения итогов:
     table_id: grid-oCRSd-kD2g
     ignore:
-      - Текущий итог
+    - Текущий итог
     columns:
       Студент: c-y1WEcr2A9D
       Итог: c-dLH39tkcu0
@@ -297,11 +297,13 @@ tables:
       '#': c-2GQ7C71aq8
   Темы проектов:
     table_id: grid-476c-E55G5
+    title:
+    - Тема
     columns:
       Тема: c-xaZ8yxCShU
       Категория: c-uuLEUASzc_
-      В лекциях: c-gVN3U2guMm
-      Алгоритм (сложн.): c-jXCObkc_c4
+      Лекции?: c-gVN3U2guMm
+      Сложность?: c-jXCObkc_c4
       Визуализация: c-xH9Ft0ga6M
       Студент: c-1tuoVf2opC
       key: c-wNkTGAi-l7

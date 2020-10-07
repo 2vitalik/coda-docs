@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.16
+* Update `title` (for coda changes) for projects in `adv19`
+
 ### v.0.3.15
 * Update `ProjectThemes` class for `adv19`
 
