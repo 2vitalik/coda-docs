@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.18
+* Fix `coda_changes` telegram chat for `adv18_bonuses`
+
 ### v.0.3.17
 * Add new tables `adv18_bonuses` and `adv19_bonuses`
 

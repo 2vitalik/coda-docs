@@ -99,7 +99,7 @@ if __name__ == '__main__':
             'semester': '2020-2',
             'doc_name': 'adv18_bonuses',
             'doc_id': 'ggx-Rzn_7v',
-            'telegram_chat': -436357091,
+            'telegram_chat': -358956865,
         },
     ]
 
