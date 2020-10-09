@@ -249,6 +249,7 @@ tables:
     table_id: grid-FJLqonPvHw
     columns:
       Значение: c-xxOPzml3II
+      Описание: c-DOnsorNOMA
   Все занятия:
     table_id: grid-sync-1003-Event
     title:
@@ -321,6 +322,6 @@ tables:
   Предметы:
     table_id: grid-3Zk7bUNyQq
     columns:
-      Название: c-wa5d3Asptb
-      Column 2: c-T7AaDyOlpA
-      Column 3: c-lkAllTXdnu
+      Ключ: c-wa5d3Asptb
+      Название: c-T7AaDyOlpA
+      Телеграм-заголовок: c-lkAllTXdnu

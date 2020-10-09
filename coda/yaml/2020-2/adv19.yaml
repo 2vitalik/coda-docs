@@ -196,12 +196,17 @@ tables:
       Группа_: c-51lToi9uHM
       Год: c-57hehJMpfk
       Курс: c-onYplVykjZ
-      Статус: c-jzl8atyF69
+      Статус (old): c-jzl8atyF69
       Ошибки: c-9wOuJ3C-Xq
       source: c-oW8rAXRXaJ
       absent: c-xR_CbJhnC6
       оценку?: c--rLKKIzTbV
       Студент (без иконок): c-DkMIoWkh2h
+      no-coda-yet: c-midHYZj523
+      Проект?: c-64nCtvkFad
+      icpc: c--RkWol0scJ
+      imp: c-aX5EogKiZ4
+      imp+: c-isMjQrtD8M
   Присутствие на занятии:
     table_id: grid-FJLqonPvHw
     columns:
@@ -230,7 +235,7 @@ tables:
       Bot for Video: c-BbCGkZ6XS4
       link: c-AXmx0r3FtE
       Time-метки: c-vdSQTUtH3L
-      📽Видео: c-3ps4laCa3r
+      📽 Видео: c-3ps4laCa3r
       tg5: c-a7K1UEoxYC
       tg1: c-jEkDRTVmGE
       Посещение: c-swrnn6uiMK
@@ -244,6 +249,7 @@ tables:
     - date_slug
     - Разбор
     - Видео разбора
+    - link
     columns:
       №: c-uQakKyV7HY
       Вид: c-nnRNVmYfKT
@@ -276,6 +282,7 @@ tables:
       # Разбор: c-0i3f5A6SE2
       # Видео разбора: c-Cv0-tYU2Ir
       Тип: c-0Z7wh4A8Ko
+      # link: c-IlqFjSazTp
   История изменения итогов:
     table_id: grid-oCRSd-kD2g
     ignore:

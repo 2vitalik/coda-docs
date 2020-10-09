@@ -26,23 +26,9 @@ tables:
       Fixed: c-KIOSnJKtDw
       Баллы: c-6qiJEbMt7C
       Later: c-Pq4tPK1WMF
-  Table 1:
-    table_id: grid-GCgev3EIGw
-    columns:
-      Column 1: c-KHnkYzRSqt
-      Column 2: c-NP28u7sxgP
-      Column 3: c-wHKhg5-emK
   Table 2:
     table_id: grid-QsCxIaulxL
     columns:
       Column 1: c-iWNRXpkKdn
       Column 2: c-rgZO7mhbuR
       Column 3: c-gDmapo5g17
-  Разборы домашек:
-    table_id: grid-n10-CrOzDy
-    columns:
-      Домашка: c-GR-0JVT0IU
-      Задача: c-oqXjlZcdmK
-      Вклад в разбор: c-nsZ3s4-ODf
-      Баллы: c-yVDi87xPuZ
-      Кто разбирал: c-2m0zAUqxRi

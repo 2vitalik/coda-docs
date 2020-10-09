@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.19
+* Updated columns _(loaded latest from coda)_
+
 ### v.0.3.18
 * Fix `coda_changes` telegram chat for `adv18_bonuses`
 
