@@ -1,0 +1,48 @@
+telegram_chat: '-460682053'
+doc_id: l9wptfDsEo
+tables:
+  Темы лекций со ссылками на слайды:
+    table_id: grid-9SE9Qn8GGa
+    columns:
+      Название темы: c-inbiFFbn8p
+      Примечание: c-IvZefcAm5v
+      Лекция: c-z36-bAiOu4
+      Title: c-BXDDlNNmww
+      Блок тем: c-cH1oDlseSE
+  Идеи и дополнения по лекциям:
+    table_id: grid-SpI4sDJUHK
+    columns:
+      Описание дополнения: c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто предложил идею: c-_15tGPeKHD
+      Баллы: c-ybji4xtI-V
+  Найденные ошибки в слайдах:
+    table_id: grid-6yAusjS-4A
+    columns:
+      slide: c-dL1Nczy2q_
+      Описание ошибки: c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто нашёл ошибку: c-_15tGPeKHD
+      Fixed: c-KIOSnJKtDw
+      Баллы: c-6qiJEbMt7C
+      Later: c-Pq4tPK1WMF
+  Table 1:
+    table_id: grid-GCgev3EIGw
+    columns:
+      Column 1: c-KHnkYzRSqt
+      Column 2: c-NP28u7sxgP
+      Column 3: c-wHKhg5-emK
+  Table 2:
+    table_id: grid-QsCxIaulxL
+    columns:
+      Column 1: c-iWNRXpkKdn
+      Column 2: c-rgZO7mhbuR
+      Column 3: c-gDmapo5g17
+  Разборы домашек:
+    table_id: grid-n10-CrOzDy
+    columns:
+      Домашка: c-GR-0JVT0IU
+      Задача: c-oqXjlZcdmK
+      Вклад в разбор: c-nsZ3s4-ODf
+      Баллы: c-yVDi87xPuZ
+      Кто разбирал: c-2m0zAUqxRi

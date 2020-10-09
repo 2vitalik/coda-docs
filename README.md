@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.17
+* Add new tables `adv18_bonuses` and `adv19_bonuses`
+
 ### v.0.3.16
 * Update `title` (for coda changes) for projects in `adv19`
 

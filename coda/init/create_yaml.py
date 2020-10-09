@@ -89,6 +89,18 @@ if __name__ == '__main__':
             'doc_id': 'Ln1BHsM9yF',
             'telegram_chat': -291308716,
         },
+        {
+            'semester': '2020-2',
+            'doc_name': 'adv19_bonuses',
+            'doc_id': 'l9wptfDsEo',
+            'telegram_chat': -460682053,
+        },
+        {
+            'semester': '2020-2',
+            'doc_name': 'adv18_bonuses',
+            'doc_id': 'ggx-Rzn_7v',
+            'telegram_chat': -436357091,
+        },
     ]
 
     for doc in docs:
