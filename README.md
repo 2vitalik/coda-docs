@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.3.20
+* Updated `_bonuses` yaml files
+
 ### v.0.3.19
 * Updated columns _(loaded latest from coda)_
 

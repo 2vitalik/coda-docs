@@ -35,3 +35,37 @@ tables:
       Кто нашёл: c-_15tGPeKHD
       Fixed: c-KIOSnJKtDw
       Баллы: c-6qiJEbMt7C
+  Темы (ipynb):
+    table_id: grid-_SpS6rIkFC
+    columns:
+      Название темы: c-wN2zzYDjcu
+      Лекция: c-tSkPOdgoH7
+      File: c-RsWOBijoF2
+      Title: c-BDRiO98jrL
+  Дополнительные материалы по Python:
+    table_id: grid-C_7y36ZGxK
+    columns:
+      Тип: c-dL1Nczy2q_
+      Источник (ссылка или описание): c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто добавил: c-_15tGPeKHD
+      Ваш комментарий: c-cCn1-xPtMd
+      Балл: c-B05T3Ukf_E
+      ✔️: c-bOoN7FXSl-
+      Created at: c-5DKfSvulXx
+  Дополнения к лекциям по Python:
+    table_id: grid-SjqLq2fjiH
+    columns:
+      Описание дополнения: c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто предложил идею: c-_15tGPeKHD
+      Баллы: c-ybji4xtI-V
+  Найденные ошибки в ipynb-файлах:
+    table_id: grid-e0Om85Ik9z
+    columns:
+      '# cлайда': c-dL1Nczy2q_
+      Описание ошибки: c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто нашёл: c-_15tGPeKHD
+      Fixed: c-KIOSnJKtDw
+      Баллы: c-6qiJEbMt7C
