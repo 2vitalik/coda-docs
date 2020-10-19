@@ -206,7 +206,11 @@ tables:
       Проект?: c-64nCtvkFad
       icpc: c--RkWol0scJ
       imp: c-aX5EogKiZ4
-      imp+: c-isMjQrtD8M
+      bonus+: c-isMjQrtD8M
+      Telegram nickname: c-9nc6ZL88PN
+      Telegram Chat: c-mJMNIP43EG
+      imp+: c-w1RvtA8r6Y
+      bonus: c-RzFxa0E6C3
   Присутствие на занятии:
     table_id: grid-FJLqonPvHw
     columns:

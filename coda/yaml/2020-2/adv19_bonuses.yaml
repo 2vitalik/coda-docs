@@ -27,7 +27,7 @@ tables:
       Fixed: c-KIOSnJKtDw
       Баллы: c-6qiJEbMt7C
       Later: c-Pq4tPK1WMF
-  Новые задачки:
+  Бонусные задачки:
     table_id: grid-QsCxIaulxL
     columns:
       Тема: c-iWNRXpkKdn
@@ -37,7 +37,9 @@ tables:
       Кто добавил: c-S8hnBXtQLM
       Added: c-TPbIhyQrjQ
       Баллы: c-H5NCeqtnL4
-  Тесты к задачкам:
+      Название: c-h9F73tlN5J
+      tests: c-WiU6tQIEHa
+  Тесты к бонусным задачкам:
     table_id: grid-_xJJcuKPik
     columns:
       Задача: c-GDB2cSyVyr
@@ -60,3 +62,23 @@ tables:
       Checked: c-AbOAEl32CM
       Total: c-FRD5uhSFr1
       Задачки: c-UWzdE7VSkY
+  Задачки на реализацию:
+    table_id: grid-Yizpi2UwLT
+    columns:
+      Тема: c-iWNRXpkKdn
+      Условие: c-rgZO7mhbuR
+      Формат ввода: c-gDmapo5g17
+      Формат вывода: c-rtlctukXMU
+      Кто добавил: c-S8hnBXtQLM
+      Added: c-TPbIhyQrjQ
+      Баллы: c-H5NCeqtnL4
+  Тесты к задачкам на реализацию:
+    table_id: grid-_X6JJgSaZz
+    columns:
+      Задача: c-GDB2cSyVyr
+      Ввод: c-I6O1x434Rb
+      Вывод: c-wYpLVX-lk7
+      Кто добавил: c-AVRu9Ldq0s
+      Баллы: c-OZCbRItZU-
+      Added: c-2pGgrl9I7D
+      Комментарий к тесту: c-0UvAa1mTKF
