@@ -86,7 +86,7 @@ tables:
       пз1: c-biXkb2crVl
       ош: c-fHMKKiiajZ
       пз2: c-4S7LVyqPkU
-      дореш: c--BFdYFiA8m
+      дореш (бонус): c--BFdYFiA8m
       кр.2 A#: c-a_whspKc_o
       кр.2 B#: c-O2UmPxSBOi
       кр.2 C#: c-1hE9kzPdy1
@@ -211,6 +211,8 @@ tables:
       Telegram Chat: c-mJMNIP43EG
       imp+: c-w1RvtA8r6Y
       bonus: c-RzFxa0E6C3
+      Created at: c-u7chlT48wD
+      оц:чат: c-ROmaPwYZvl
   Присутствие на занятии:
     table_id: grid-FJLqonPvHw
     columns:
