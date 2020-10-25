@@ -220,7 +220,7 @@ tables:
       ram: c-QLNLDZK0pS
       cpu+: c-dJGt_ck3m7
       ram+: c-h-5tyyEawF
-  Присутствие на занятии:
+  Обозначения посещений:
     table_id: grid-FJLqonPvHw
     columns:
       Значение: c-xxOPzml3II
@@ -340,3 +340,59 @@ tables:
       Рецензент 2: c-3qQ2q5RtLy
       status: c-qQCMUGXM0c
       Text: c-aiuYKMWA2R
+  Решения на языках, отличных от C++:
+    table_id: grid-stlAoz616H
+    columns:
+      Title: c-TGLQmPgiqh
+      Домашка: c-hRv74wBPWV
+      Задача: c-z8LRsn5Qpu
+      Участник: c-7Y1nmJ2utC
+      Компилятор: c-cTX_xUf6Xa
+      Язык: c-6dJKsbgrVa
+      Время: c-f9fXtOtgj3
+      Память: c-rqX0T4LhGY
+      cpu+: c-PhaquPt6ze
+      ram+: c-SAzLtr6_vd
+  Задачки:
+    table_id: grid-V_xwrKCIbj
+    columns:
+      Название: c-JYQcWmqTcJ
+      Контест: c-ZR9EUGk_yO
+      Буква: c-9piARsXEoF
+      Key: c-n32tOAYAcZ
+      Title: c-_ifP3wHijb
+      submissions: c-AgkwcCQc6V
+      OK: c-qlrE535qe_
+      Langs: c-PDKc-y_JV9
+  Самые быстрые решения:
+    table_id: grid-mEcZNul-jH
+    columns:
+      Title: c-TGLQmPgiqh
+      Контест: c-hRv74wBPWV
+      Задача: c-z8LRsn5Qpu
+      Участник: c-7Y1nmJ2utC
+      Время: c-4MXParo3jz
+      Дата: c-SRTKY_OJYN
+      Язык (компилятор): c-5vKtzq_Ocm
+      latest check: c-onvDI5NnBs
+  Участники:
+    table_id: grid-hceTo0xYCN
+    columns:
+      Yandex-аккаунт: c-yjgx14PtAX
+      Студент: c-5ucyTNyvZ3
+  Самые маленькие по используемой памяти:
+    table_id: grid-XrcXXs9Kq9
+    columns:
+      Title: c-TGLQmPgiqh
+      Контест: c-hRv74wBPWV
+      Задача: c-z8LRsn5Qpu
+      Участник: c-7Y1nmJ2utC
+      Память: c-4MXParo3jz
+      Дата: c-SRTKY_OJYN
+      Язык (компилятор): c-bUR5H9ZzQd
+      latest check: c-1nJ5PCCj5H
+  Языки:
+    table_id: grid-xhgrFcCG_v
+    columns:
+      Язык: c-khxuOCePtE
+      Тип: c-n85TGOGXb3
