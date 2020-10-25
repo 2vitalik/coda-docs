@@ -78,7 +78,7 @@ tables:
       dots4: c-5FSfDqkBUC
       Тесты  ∑: c-X81lUZQ30E
       Проект ∑: c-MYuW_AdHLt
-      Бонусы ∑: c-f2oqQl3z0_
+      ∑        Бонусы: c-f2oqQl3z0_
       t1977: c-vbuHA3VMsO
       t2096: c-EaUIRHfrIJ
       yan1: c-rfszbDsUT4
@@ -86,7 +86,7 @@ tables:
       пз1: c-biXkb2crVl
       ош: c-fHMKKiiajZ
       пз2: c-4S7LVyqPkU
-      дореш (бонус): c--BFdYFiA8m
+      дореш (бонус лучшим): c--BFdYFiA8m
       кр.2 A#: c-a_whspKc_o
       кр.2 B#: c-O2UmPxSBOi
       кр.2 C#: c-1hE9kzPdy1
@@ -111,9 +111,9 @@ tables:
       кр.3 C↓: c-simiq3o59A
       кр3 ☑️: c-dkSVpFQN4c
       кр.3 ∑: c-p_Ciw40xPM
-      кр.1,2,3 ∑: c-jTwGY7feJ7
-      Кр.1+2,3 ∑: c-18NkZM3Bol
-      Кр.1,3+2 ∑: c-uGwXoSBFaV
+      # кр.1,2,3 ∑: c-jTwGY7feJ7
+      # Кр.1+2,3 ∑: c-18NkZM3Bol
+      # Кр.1,3+2 ∑: c-uGwXoSBFaV
       пз4: c-kzBW_T93qg
       dots-nickname: c-tQqt47PZ1E
       dots1_raw: c-FiZNprQqOi
@@ -213,6 +213,13 @@ tables:
       bonus: c-RzFxa0E6C3
       Created at: c-u7chlT48wD
       оц:чат: c-ROmaPwYZvl
+      absent-bad: c-O0HA5RorIx
+      # attendances: c-Qc16mK3wrr
+      lng+: c-cb83WC_uZa
+      cpu: c-Cq3lhLgDw2
+      ram: c-QLNLDZK0pS
+      cpu+: c-dJGt_ck3m7
+      ram+: c-h-5tyyEawF
   Присутствие на занятии:
     table_id: grid-FJLqonPvHw
     columns:
