@@ -7,12 +7,16 @@ tables:
     - Студент
     ignore:
     - 🏠 ∑
+    - кр.1,2,3 ∑
+    - Кр.1+2,3 ∑
+    - Кр.1,3+2 ∑
     - Modified on
     - v+
     - 'КР #'
     - 'ДЗ #'
     - Бонусы?
     - Итог?
+    - attendances
     columns:
       Студент: c-JWp1DUbKdT
       Фамилия: c-yhu4A9Rl_c
@@ -35,7 +39,7 @@ tables:
       🏠  3: c-fJRXc4jUr3
       🏠  4: c-Jgyzo4qNXJ
       🏠  5: c-CIDyO0wCq5
-      # 🏠 ∑: c-JrrXptBOmY
+      🏠 ∑: c-JrrXptBOmY
       '8: J/9': c-cZgck8ui-5
       '9: A/18': c-YLC8ynjG4T
       '11: M/16': c-Vgv7wX4RPb
@@ -64,7 +68,7 @@ tables:
       🎈 3: c-g7Gb4nLBs0
       🎈 4: c-jdrFMJB6oD
       🎈 5: c-qrSM_HM0Cg
-      🎈🎯∑: c-9w5OQsFBd5
+      🎈 🎯 ∑: c-9w5OQsFBd5
       🎯 1: c-uhmBxw_5rc
       🎯 2: c-0V5zB3KWJb
       🎯 3: c-7Ga9E1k0x_
@@ -111,9 +115,9 @@ tables:
       кр.3 C↓: c-simiq3o59A
       кр3 ☑️: c-dkSVpFQN4c
       кр.3 ∑: c-p_Ciw40xPM
-      # кр.1,2,3 ∑: c-jTwGY7feJ7
-      # Кр.1+2,3 ∑: c-18NkZM3Bol
-      # Кр.1,3+2 ∑: c-uGwXoSBFaV
+      кр.1,2,3 ∑: c-jTwGY7feJ7
+      Кр.1+2,3 ∑: c-18NkZM3Bol
+      Кр.1,3+2 ∑: c-uGwXoSBFaV
       пз4: c-kzBW_T93qg
       dots-nickname: c-tQqt47PZ1E
       dots1_raw: c-FiZNprQqOi
@@ -158,7 +162,7 @@ tables:
       :calendar: c-XXO__qo8cF
       :coda2: c-ElkVhpkzEL
       hide: c-qypv-A0YFB
-      # Modified on: c-alHjec5ggE
+      Modified on: c-alHjec5ggE
       Яндекс-префикс: c-fC9eidIATp
       🔎1.2: c-HHxG_0edUj
       🔎1.3: c-AGtenFmcc3
@@ -182,15 +186,15 @@ tables:
       K2-C: c-PlRFt5Mqwi
       ≈: c-pfGhEEsXYo
       Project: c-UMm0MmNFEa
-      # v+: c-yVHQc7fpIt
+      v+: c-yVHQc7fpIt
       wiki: c-U3ZcoWylFQ
       Ведомость: c-XSj9o6-oJe
       '10: A/25': c-yYOfUeeT8f
       ⏰ O/24: c-CJJm2ShtPd
-      # 'КР #': c-u-NwPPkba0
-      # 'ДЗ #': c-JNOrmulA_F
-      # Бонусы?: c-K51UjJK2PL
-      # Итог?: c-fLNkUfpfUT
+      'КР #': c-u-NwPPkba0
+      'ДЗ #': c-JNOrmulA_F
+      Бонусы?: c-K51UjJK2PL
+      Итог?: c-fLNkUfpfUT
       ВУЗ: c-GQQLHrY17t
       Спец-ть: c-adZmFsdmSn
       Группа_: c-51lToi9uHM
@@ -214,12 +218,13 @@ tables:
       Created at: c-u7chlT48wD
       оц:чат: c-ROmaPwYZvl
       absent-bad: c-O0HA5RorIx
-      # attendances: c-Qc16mK3wrr
+      attendances: c-Qc16mK3wrr
       lng+: c-cb83WC_uZa
       cpu: c-Cq3lhLgDw2
       ram: c-QLNLDZK0pS
       cpu+: c-dJGt_ck3m7
       ram+: c-h-5tyyEawF
+      misc: c-5il1LzxYPK
   Обозначения посещений:
     table_id: grid-FJLqonPvHw
     columns:
@@ -275,15 +280,15 @@ tables:
       Админка: c-nsXr6lpFIA
       Ready: c-umi6bdo65d
       Send: c-bauUskU70V
-      # Undo: c-eTu4PY6att
-      # Mark sent: c-MLPOzNQQYM
+      Undo: c-eTu4PY6att
+      Mark sent: c-MLPOzNQQYM
       Status: c-lfl_ReCLp6
       Filled: c-zWgJjbgpgx
       Finished: c-VdVKDj0nED
-      # link admin: c-2jiMPtVCoa
+      link admin: c-2jiMPtVCoa
       Title: c-SWCeiWHogQ
       link contest: c-Jk3RnoYUAa
-      # date_slug: c-ilGSQ4jkvH
+      date_slug: c-ilGSQ4jkvH
       Условия: c-ZPOhoJIkkp
       Предмет: c-QE7bI8Q7_n
       🔎 Theory: c-yC4Df8iYYt
@@ -292,10 +297,10 @@ tables:
       Ссылка: c-dPVG2e_IyA
       link-razbor: c-giJHosFlTP
       link-video: c-HsqUt5GStX
-      # Разбор: c-0i3f5A6SE2
-      # Видео разбора: c-Cv0-tYU2Ir
+      Разбор: c-0i3f5A6SE2
+      Видео разбора: c-Cv0-tYU2Ir
       Тип: c-0Z7wh4A8Ko
-      # link: c-IlqFjSazTp
+      link: c-IlqFjSazTp
   История изменения итогов:
     table_id: grid-oCRSd-kD2g
     ignore:
@@ -304,7 +309,7 @@ tables:
       Студент: c-y1WEcr2A9D
       Итог: c-dLH39tkcu0
       Date: c-DBD4nV7SyY
-      # Текущий итог: c-EOboJsWWFe
+      Текущий итог: c-EOboJsWWFe
   Планы:
     table_id: grid-ISwxg-XmnH
     columns:
