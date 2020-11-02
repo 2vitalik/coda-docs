@@ -305,6 +305,8 @@ tables:
     table_id: grid-oCRSd-kD2g
     ignore:
     - Текущий итог
+    ignore_change:
+    - Студент
     columns:
       Студент: c-y1WEcr2A9D
       Итог: c-dLH39tkcu0
