@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.1
+* Update columns _(loaded latest from coda)_
+
 ### v.0.4
 * Implement feature "ignore_change" (and also "ignore" is now working)
 
