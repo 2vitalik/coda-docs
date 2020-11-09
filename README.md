@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.2
+* Add new table for Quiz in `adv19` and `adv19_bonuses`
+
 ### v.0.4.1
 * Update columns _(loaded latest from coda)_
 

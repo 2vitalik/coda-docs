@@ -82,3 +82,11 @@ tables:
       Баллы: c-OZCbRItZU-
       Added: c-2pGgrl9I7D
       Комментарий к тесту: c-0UvAa1mTKF
+  Вопросы для викторины:
+    table_id: grid-QNqlTNjwe3
+    columns:
+      Кто предложил: c-Q16WqW6w6V
+      Текст вопроса: c-U0ea2El1JC
+      Added: c-AbOAEl32CM
+      Баллы: c-FRD5uhSFr1
+      Варианты ответа: c-J819BUOg9k
