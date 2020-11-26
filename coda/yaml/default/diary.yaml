@@ -1,7 +1,7 @@
 telegram_chat: None
 doc_id: zjzcA2QDFg
 tables:
-  Дневник:
+  entries:
     table_id: grid-Iw-U7951L4
     columns:
       Дата: c-BV2Iac9gi-
@@ -26,7 +26,7 @@ tables:
     table_id: grid-uPGzxYIKYO
     columns:
       date: c-6xP1lRcMNd
-  Все теги:
+  tags:
     table_id: grid-Rl026-tb00
     columns:
       Тег: c-OPj6rOVNXb
