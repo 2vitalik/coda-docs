@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.6
+* Update columns _(loaded latest from coda)_
+
 ### v.0.4.5
 * Change table names in `diary.yaml`
 
