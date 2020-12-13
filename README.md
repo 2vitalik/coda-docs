@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.8
+* Add new document `cist_nure`
+
 ### v.0.4.7
 * Update columns _(loaded latest from coda)_
 

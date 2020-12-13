@@ -101,6 +101,12 @@ if __name__ == '__main__':
             'doc_id': 'ggx-Rzn_7v',
             'telegram_chat': -358956865,
         },
+        {
+            'semester': '2020-2',
+            'doc_name': 'cist_nure',
+            'doc_id': 'Oe7JK0Jhnv',
+            'telegram_chat': 0,
+        },
     ]
 
     for doc in docs:

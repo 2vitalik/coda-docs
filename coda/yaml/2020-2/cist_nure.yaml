@@ -1,0 +1,27 @@
+telegram_chat: '0'
+doc_id: Oe7JK0Jhnv
+tables:
+  Расписание:
+    table_id: grid-LM2Kc5vbZh
+    columns:
+      Title (todo): c-I6Zkte0YMu
+      Предмет: c-ueNqnTMQ80
+      Вид: c-cHTcPHD83w
+      Ауд: c-PsDgVN7slK
+      Заметка: c-ciEFouJEbs
+      Дата: c-nemBUeeEzr
+      Время: c-EYnTRER1Ta
+      Группа: c-OELcp-EWR_
+  Группы:
+    table_id: grid-E_SiIa5N8z
+    columns:
+      Название: c-QsAsfmqISS
+      Поток: c-fGFqAOpzlT
+      Год: c-nB_fOuzhI1
+      Номер: c-g9gApUjf9c
+      Канал (id): c-FxoWDsSxcj
+  Предметы:
+    table_id: grid-iseKe-hrQR
+    columns:
+      Сокращение: c-oWwmvn51Ue
+      Полное название: c-k40aLzXD1u
