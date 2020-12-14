@@ -8,15 +8,21 @@ tables:
       Предмет: c-ueNqnTMQ80
       Вид: c-cHTcPHD83w
       Ауд: c-PsDgVN7slK
-      Заметка: c-ciEFouJEbs
+      Заметка (todo): c-ciEFouJEbs
       Дата: c-nemBUeeEzr
       Время: c-EYnTRER1Ta
       Группа: c-OELcp-EWR_
+      sys: c-SgcEUksTtE
+      Скрыть: c-qTLvStPsxs
+      Показать: c-RvUTVnAOud
+      visible: c-99gjmtF93k
+      W: c-9S_7w_6lkD
+      sent: c-3hRm2qlX2a
   Группы:
     table_id: grid-E_SiIa5N8z
     columns:
       Название: c-QsAsfmqISS
-      Поток: c-fGFqAOpzlT
+      Спец: c-fGFqAOpzlT
       Год: c-nB_fOuzhI1
       Номер: c-g9gApUjf9c
       Канал (id): c-FxoWDsSxcj
@@ -25,3 +31,4 @@ tables:
     columns:
       Сокращение: c-oWwmvn51Ue
       Полное название: c-k40aLzXD1u
+      Год: c-UWokP_AjcJ
