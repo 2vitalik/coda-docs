@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.12
+* Update `telegram_chat` for `cist_nure` document (super-group)
+
 ### v.0.4.11
 * Update `telegram_chat` for `cist_nure` document
 
