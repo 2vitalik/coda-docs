@@ -19,6 +19,8 @@ tables:
       W: c-9S_7w_6lkD
       sent: c-3hRm2qlX2a
       '#': c-QpBvpopvf8
+      Created on: c-rxIjgjfjGJ
+      potok_slug: c-TwH2AaBGsa
   Группы:
     table_id: grid-E_SiIa5N8z
     columns:
@@ -27,9 +29,11 @@ tables:
       Год: c-nB_fOuzhI1
       Номер: c-g9gApUjf9c
       Канал (id): c-FxoWDsSxcj
+      potok_slug: c-zoE71ZT3MQ
   Предметы:
     table_id: grid-iseKe-hrQR
     columns:
       Сокращение: c-oWwmvn51Ue
       Полное название: c-k40aLzXD1u
       Год: c-UWokP_AjcJ
+      potok_slug: c-1AWBkQ1mhI
