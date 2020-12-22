@@ -3,12 +3,15 @@ doc_id: Oe7JK0Jhnv
 tables:
   Расписание:
     table_id: grid-LM2Kc5vbZh
+    ignore:
+    - Скрыть
+    - Показать
     columns:
       Title (todo): c-I6Zkte0YMu
       Предмет: c-ueNqnTMQ80
       Вид: c-cHTcPHD83w
       Ауд: c-PsDgVN7slK
-      Заметка (todo): c-ciEFouJEbs
+      Комментарий (todo): c-ciEFouJEbs
       Дата: c-nemBUeeEzr
       Время: c-EYnTRER1Ta
       Группа: c-OELcp-EWR_
@@ -21,6 +24,8 @@ tables:
       '#': c-QpBvpopvf8
       Created on: c-rxIjgjfjGJ
       potok_slug: c-TwH2AaBGsa
+      muted: c-qtg_oTcH2w
+      'Пара до:': c-A5NDqImh-7
   Группы:
     table_id: grid-E_SiIa5N8z
     columns:
@@ -35,5 +40,5 @@ tables:
     columns:
       Сокращение: c-oWwmvn51Ue
       Полное название: c-k40aLzXD1u
-      Год: c-UWokP_AjcJ
       potok_slug: c-1AWBkQ1mhI
+      Иконка (todo): c-Ek3NbI_rm1
