@@ -67,7 +67,7 @@ if __name__ == '__main__':
         # },
         # {
         #     'semester': 'default',
-        #     'doc_name': 'diary',
+        #     'doc_name': 'diary_old',
         #     'doc_id': 'zjzcA2QDFg',
         #     'telegram_chat': None,
         # },
