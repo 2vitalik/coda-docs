@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.19
+* Add new `diary.yaml` (and rename `diary_old.yaml`)
+
 ### v.0.4.18
 * Update columns _(loaded latest from coda)_
 
