@@ -1,10 +1,10 @@
 telegram_chat: None
 doc_id: BPqqG0xD2g
 tables:
-  Entries:
+  entries:
     table_id: grid-MsS5hOmR2L
     columns:
-      Task: c-XLz-oUjKNJ
+      Описание: c-XLz-oUjKNJ
       ✔️: c-0sIclGYn9A
       Срочность: c-bcseQH1Ipw
       Deadline: c-iYi8v0C_Q7
@@ -17,12 +17,12 @@ tables:
       Нд: c-AW4wammec3
       Важность: c-rXN0hG0yKe
       Done: c-JEYZY_z4Ci
-      Done (when): c-udwyc7ARoc
+      Дата: c-udwyc7ARoc
       '#': c-i9XQxOSNJe
       v: c-lqB0L3Hm1K
       Done (2): c--ctwNxXUgE
       App: c-8s0bOO2FOA
-      Все теги: c-Kaf6luUl_y
+      Категория: c-Kaf6luUl_y
   Проекты:
     table_id: grid-wfuwdVu4J3
     columns:
@@ -59,7 +59,7 @@ tables:
       Название: c-EDlVgzwlzj
       Описание: c-_SoGSW7wWl
       order: c-VWtruKtfwI
-  Все теги:
+  categories:
     table_id: grid-7QYn8YdA3o
     columns:
       Тег: c-OPj6rOVNXb
