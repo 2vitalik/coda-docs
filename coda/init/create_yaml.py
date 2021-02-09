@@ -111,7 +111,13 @@ if __name__ == '__main__':
             'semester': '2020-2',
             'doc_name': 'cist_nure',
             'doc_id': 'Oe7JK0Jhnv',
-            'telegram_chat': 0,
+            'telegram_chat': -1001443393626,
+        },
+        {
+            'semester': '2021-1',
+            'doc_name': 'cist_nure',
+            'doc_id': 'jeeUEoCmQG',
+            'telegram_chat': -1001443393626,
         },
     ]
 

@@ -2,8 +2,11 @@
 
 ## Changes History
 
+### v.0.4.21
+* Add new `2021-01/cist_nure.yaml`
+
 ### v.0.4.20
-* Add new `diary.yaml` (and rename `diary_old.yaml`)
+* Update columns _(loaded latest from coda)_
 
 ### v.0.4.19
 * Add new `diary.yaml` (and rename `diary_old.yaml`)
