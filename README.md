@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.22
+* Update columns _(loaded latest from coda)_
+
 ### v.0.4.21
 * Add new `2021-01/cist_nure.yaml`
 

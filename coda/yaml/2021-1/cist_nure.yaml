@@ -25,7 +25,11 @@ tables:
       Created on: c-rxIjgjfjGJ
       potok_slug: c-TwH2AaBGsa
       muted: c-qtg_oTcH2w
-      'Пара до:': c-A5NDqImh-7
+      Пара до: c-A5NDqImh-7
+      Calendar From: c-KdPfVVK5no
+      Calendar To: c-DPLnmVRBdb
+      Copy of Title (todo): c-kVEt7uE_0K
+      removed: c-mCuCkxdjHE
   Группы:
     table_id: grid-E_SiIa5N8z
     columns:
@@ -42,3 +46,6 @@ tables:
       Полное название: c-k40aLzXD1u
       potok_slug: c-1AWBkQ1mhI
       Иконка (todo): c-Ek3NbI_rm1
+      Common: c-jBiyZnj4SF
+      Alternative: c-UZTBA9mgru
+      Created on: c-C052Db1z-d
