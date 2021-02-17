@@ -1,0 +1,110 @@
+telegram_chat: '-291308716'
+doc_id: 6AWlFObC3R
+tables:
+  Все студенты:
+    table_id: grid-wdQQx8blYb
+    title:
+    - Студент
+    columns:
+      Студент: c-JWp1DUbKdT
+      Фамилия: c-yhu4A9Rl_c
+      Имя: c-HcR00YYWuP
+      Отчество: c-d_7pFYAo59
+      Группа: c-5ZQ58_YHLN
+      Телефон: c-2ZPJjFeHBD
+      Google-почта: c-a4WkqNaINr
+      '1: F/5': c-E2HwtxwoTV
+      '8: M/3': c-GDZD5_qPHv
+      '11: M/12': c-_1utn7OnO7
+      '15: M/26': c-GKkml73aDE
+      '8: M/25': c-MO1qNRgCpH
+      '8: N/4': c-kKihVpVyRe
+      '1: F/4': c-xgEkELHvQ2
+      base: c-CngBAI2xlJ
+      '2: F/11': c-cZgck8ui-5
+      '3: F/18': c-YLC8ynjG4T
+      '4: F/25': c-Vgv7wX4RPb
+      '5: M/4': c-hbW0mY_Czw
+      '6: M/11': c-SVtlEn3acm
+      '2: F/10': c-0ubwtJbujQ
+      Всего Посещений: c-fLqpLk15HU
+      Lines: c-owJGB0vBxd
+      Медалька за баллы: c-AIoQZKlMQT
+      Ладошка посещения: c-odpiirdr6T
+      '13: M/19': c-HITi9OElp2
+      ФИ: c-bNbLNX8iqZ
+      approve: c-djgPyJhVbH
+      Значение: c-5Z67SDF5oi
+      hide Big Data: c-3OG-1H4Po6
+      hide Parallel: c-GCdcV1o9F_
+      github: c-W8sk65huqm
+      '7: O/28': c-IVR6Ul7D91
+      '9: N/11': c-uEKcrbGAoh
+      '--: N/18': c-z5UdwP1We_
+      '3: F/12': c-QHPciB2O0a
+      '7: F/26': c-n_WTFiOjBm
+      '10: M/10': c-rKDHeJcLVx
+      '14: M/24': c-LY0eK96Ond
+      '7: N/5': c-R2awk1Wy-V
+      telegram: c-h8HKMergXo
+      tg: c-Z1WRGj0yh_
+      NLP  Посещения: c-xv6VaIbh30
+      '9: N/12': c-QbW5laAuoU
+      '11: N/19': c-z_oHYnYYQX
+      '6: M/8 *': c-cZMhhA7mx0
+      '4: F/17': c-Nx7mw8GlH2
+      hide Product: c-nT3YAUvK-D
+      Column 10: c-OlVZIG4KCr
+      Product Посещения: c-vi-BJf9YTn
+      CV  Посещения: c-iWOTbAYIgc
+      hide ML: c-nGZfo2m4QU
+      ML         Посещения: c-y5Iv9eExpA
+      tg_new: c-7oeIgW1NUq
+      '5: F/19': c-FsKubrHYVr
+      ДЗ 1: c-tmOUiEvZ39
+      ДЗ 2: c-YLKakBgsog
+      ДЗ 3: c-uSxKljjIgP
+      ДЗ 4: c-Oql6v3oIzW
+      ДЗ ∑: c-YK1GLe0t9i
+      '6: F/24': c-Nkv_uZBqhI
+      '--: N/25': c-kX2dY6EoAI
+      '12: M/17': c-o15LS8XsYu
+      '7: M/18': c-lhypcf3Ll4
+      '8: N/11 *': c-8Y1SNU0JxU
+      '10: N/18 *': c-V-s09hxdnP
+      '12: N/25 *': c-j8zeanQvRv
+      '9: M/5': c-5lXSQR3ukx
+  Типы присутствия на занятии:
+    table_id: grid-FJLqonPvHw
+    columns:
+      Значение: c-xxOPzml3II
+  Все занятия:
+    table_id: grid-sync-1003-Event
+    title:
+    - Дата
+    columns:
+      Event: value
+      Synced: synced
+      Sync account: connection
+      Start: c-8WsUjYEzUa
+      End: c-In_cCInW96
+      Attendees: c-pa03qeBE4b
+      Title: c-8vBbJQKm3m
+      '#': c-Vpq5JPNoOl
+      Вид: c-2Ch4HK2uJ6
+      Материалы: c--A3wcX_03Z
+      Дата: c-7wdRI8sDIb
+      Time: c-FxlWEZUwm1
+      📽Видео (old): c-dpuz4pjgfI
+      To: c-eJMXEfPRCJ
+      Ауд.: c-rj2cRChjEs
+      Bot for Video: c-BbCGkZ6XS4
+      Видео: c-AXmx0r3FtE
+      Time-метки: c-vdSQTUtH3L
+      Предмет: c-FK9IyRDaKK
+      Column 20: c-V5FTA5p3FD
+      📽 Видео: c-yPRbnMoJnI
+      Посещение: c-T9Ur78cDy-
+      Материалы (old): c-uxTQDH66CC
+      finished: c-19fABhR-0P
+      🎞 Слайды: c-PHovjOOEIZ

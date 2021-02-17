@@ -71,12 +71,6 @@ if __name__ == '__main__':
         #     'doc_id': 'zjzcA2QDFg',
         #     'telegram_chat': None,
         # },
-        {
-            'semester': 'default',
-            'doc_name': 'diary',
-            'doc_id': 'BPqqG0xD2g',
-            'telegram_chat': None,
-        },
         # {
         #     'semester': '2020-2',
         #     'doc_name': 'adv19',
@@ -113,11 +107,24 @@ if __name__ == '__main__':
         #     'doc_id': 'Oe7JK0Jhnv',
         #     'telegram_chat': -1001443393626,
         # },
+        # --------------------------------------------------------------------
+        {
+            'semester': 'default',
+            'doc_name': 'diary',
+            'doc_id': 'BPqqG0xD2g',
+            'telegram_chat': None,
+        },
         {
             'semester': '2021-1',
             'doc_name': 'cist_nure',
             'doc_id': 'jeeUEoCmQG',
             'telegram_chat': -1001443393626,
+        },
+        {
+            'semester': '2021-1',
+            'doc_name': 'adv17',
+            'doc_id': '6AWlFObC3R',
+            'telegram_chat': -291308716,
         },
     ]
 
