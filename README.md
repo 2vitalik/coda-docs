@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.25
+* Add new `2021-01/adv18.yaml` and `2021-01/adv19.yaml`
+
 ### v.0.4.24
 * Add new `2021-01/adv17.yaml`
 

@@ -126,6 +126,18 @@ if __name__ == '__main__':
             'doc_id': '6AWlFObC3R',
             'telegram_chat': -291308716,
         },
+        {
+            'semester': '2021-1',
+            'doc_name': 'adv18',
+            'doc_id': '40fixv94zQ',
+            'telegram_chat': -399927652,
+        },
+        {
+            'semester': '2021-1',
+            'doc_name': 'adv19',
+            'doc_id': '6av8owel2d',
+            'telegram_chat': -412658504,
+        },
     ]
 
     for doc in docs:
