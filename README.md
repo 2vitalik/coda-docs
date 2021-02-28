@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.26
+* Update columns _(loaded latest from coda)_
+
 ### v.0.4.25
 * Add new `2021-01/adv18.yaml` and `2021-01/adv19.yaml`
 

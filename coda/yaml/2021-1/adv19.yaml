@@ -224,7 +224,7 @@ tables:
       ram: c-QLNLDZK0pS
       cpu+: c-dJGt_ck3m7
       ram+: c-h-5tyyEawF
-      misc: c-5il1LzxYPK
+      1sem: c-5il1LzxYPK
       Тема ✔️: c-2nFTqy0goY
       Git ✔️: c-0sroobIto4
       project-git: c-U4fk3mQTcG
@@ -248,6 +248,10 @@ tables:
       Column 2: c-5YOVz5ZkAC
       Started: c-zAkaLrGmz9
       git-saved: c-vKBU8Ag2Vg
+      status: c-XNGyrhPLj8
+      prev_rating: c-rYjE3iPA7o
+      prev_visits: c-6stAtpuGYc
+      Имя в Zoom: c-Ype_QsbTpZ
   Обозначения посещений:
     table_id: grid-FJLqonPvHw
     columns:
@@ -274,13 +278,17 @@ tables:
       To: c-eJMXEfPRCJ
       Ауд.: c-rj2cRChjEs
       Bot for Video: c-BbCGkZ6XS4
-      link: c-AXmx0r3FtE
+      Видео: c-AXmx0r3FtE
       Time-метки: c-vdSQTUtH3L
       📽 Видео: c-3ps4laCa3r
       tg5: c-a7K1UEoxYC
       tg1: c-jEkDRTVmGE
       Посещение: c-swrnn6uiMK
       finished: c-RaRwjA1E83
+      Telegram Survey: c-WaGA-XGkeM
+      status: c-VkD2gaPK4g
+      Пользователь: c-a_VmaNeqJC
+      st: c-NOIAKQe8H2
   Домашки (админка):
     table_id: grid-mskk_ijYm7
     ignore:
