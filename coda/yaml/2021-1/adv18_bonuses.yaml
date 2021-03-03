@@ -1,0 +1,42 @@
+telegram_chat: '-358956865'
+doc_id: o7eTMCYpOE
+tables:
+  Темы (слайды):
+    table_id: grid-9SE9Qn8GGa
+    columns:
+      Название темы: c-inbiFFbn8p
+      Примечание: c-IvZefcAm5v
+      Лекция: c-z36-bAiOu4
+      Title: c-BXDDlNNmww
+  Дополнительные материалы:
+    table_id: grid-CTaMKSn6ji
+    columns:
+      Тип: c-dL1Nczy2q_
+      Источник (ссылка или описание): c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто добавил: c-_15tGPeKHD
+      Ваш комментарий: c-cCn1-xPtMd
+      Балл: c-B05T3Ukf_E
+      ✔️: c-bOoN7FXSl-
+      Created at: c-5DKfSvulXx
+  Идеи и дополнения по лекциям:
+    table_id: grid-SpI4sDJUHK
+    columns:
+      Описание дополнения: c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто предложил идею: c-_15tGPeKHD
+      Баллы: c-ybji4xtI-V
+  Найденные ошибки в слайдах:
+    table_id: grid-6yAusjS-4A
+    columns:
+      '# cлайда': c-dL1Nczy2q_
+      Описание ошибки: c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто нашёл: c-_15tGPeKHD
+      Fixed: c-KIOSnJKtDw
+      Баллы: c-6qiJEbMt7C
+  Выбор темы проекта:
+    table_id: grid-M9d7tDe89W
+    columns:
+      Студент: c-LUd7UHHsJ9
+      Тема проекта: c-qQQqquO_vC

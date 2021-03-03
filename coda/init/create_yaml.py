@@ -139,6 +139,18 @@ if __name__ == '__main__':
             'telegram_chat': -412658504,
         },
         {
+            'semester': '2021-1',
+            'doc_name': 'adv19_bonuses',
+            'doc_id': 'mcSsb7_-AE',
+            'telegram_chat': -460682053,
+        },
+        {
+            'semester': '2021-1',
+            'doc_name': 'adv18_bonuses',
+            'doc_id': 'o7eTMCYpOE',
+            'telegram_chat': -358956865,
+        },
+        {
             'semester': 'default',
             'doc_name': 'anvileight',
             'doc_id': 't_RcQ4HRNr',

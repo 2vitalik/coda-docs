@@ -1,0 +1,92 @@
+telegram_chat: '-460682053'
+doc_id: mcSsb7_-AE
+tables:
+  Темы лекций со ссылками на слайды:
+    table_id: grid-9SE9Qn8GGa
+    columns:
+      Название темы: c-inbiFFbn8p
+      Примечание: c-IvZefcAm5v
+      Лекция: c-z36-bAiOu4
+      Title: c-BXDDlNNmww
+      Блок тем: c-cH1oDlseSE
+      ok: c-tGYBlCE1Jp
+  Идеи и дополнения по лекциям:
+    table_id: grid-SpI4sDJUHK
+    columns:
+      Описание дополнения: c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто предложил идею: c-_15tGPeKHD
+      Баллы: c-ybji4xtI-V
+  Найденные ошибки в слайдах:
+    table_id: grid-6yAusjS-4A
+    columns:
+      Slide: c-dL1Nczy2q_
+      Описание ошибки: c-TxIPQW7gXS
+      Тема: c-oC7hiTdwJp
+      Кто нашёл ошибку: c-_15tGPeKHD
+      Fixed: c-KIOSnJKtDw
+      Баллы: c-6qiJEbMt7C
+      Later: c-Pq4tPK1WMF
+  Бонусные задачки:
+    table_id: grid-QsCxIaulxL
+    columns:
+      Тема: c-iWNRXpkKdn
+      Условие: c-rgZO7mhbuR
+      Формат ввода: c-gDmapo5g17
+      Формат вывода: c-rtlctukXMU
+      Кто добавил: c-S8hnBXtQLM
+      Added: c-TPbIhyQrjQ
+      Баллы: c-H5NCeqtnL4
+      Название: c-h9F73tlN5J
+      tests: c-WiU6tQIEHa
+  Тесты к бонусным задачкам:
+    table_id: grid-_xJJcuKPik
+    columns:
+      Задача: c-GDB2cSyVyr
+      Ввод: c-I6O1x434Rb
+      Вывод: c-wYpLVX-lk7
+      Кто добавил: c-AVRu9Ldq0s
+      Баллы: c-OZCbRItZU-
+      Added: c-2pGgrl9I7D
+      Комментарий к тесту: c-0UvAa1mTKF
+  Отчёты об изменениях в wiki по алгоритмам:
+    table_id: grid-G0Nc_UDL_Z
+    columns:
+      Дата: c-TmU-GC-7Fn
+      Кто внёс изменение: c-Q16WqW6w6V
+      Назначение: c-U0ea2El1JC
+      Асимптотика: c-rTb5e6G95U
+      Источники: c-AksRU2LqZG
+      Применение: c-4mtzKo3T_0
+      Другое: c-ClWM5DbXqP
+      Checked: c-AbOAEl32CM
+      Total: c-FRD5uhSFr1
+      Задачки: c-UWzdE7VSkY
+  Задачки на реализацию:
+    table_id: grid-Yizpi2UwLT
+    columns:
+      Тема: c-iWNRXpkKdn
+      Условие: c-rgZO7mhbuR
+      Формат ввода: c-gDmapo5g17
+      Формат вывода: c-rtlctukXMU
+      Кто добавил: c-S8hnBXtQLM
+      Added: c-TPbIhyQrjQ
+      Баллы: c-H5NCeqtnL4
+  Тесты к задачкам на реализацию:
+    table_id: grid-_X6JJgSaZz
+    columns:
+      Задача: c-GDB2cSyVyr
+      Ввод: c-I6O1x434Rb
+      Вывод: c-wYpLVX-lk7
+      Кто добавил: c-AVRu9Ldq0s
+      Баллы: c-OZCbRItZU-
+      Added: c-2pGgrl9I7D
+      Комментарий к тесту: c-0UvAa1mTKF
+  Вопросы для викторины:
+    table_id: grid-QNqlTNjwe3
+    columns:
+      Кто предложил: c-Q16WqW6w6V
+      Текст вопроса: c-U0ea2El1JC
+      Added: c-AbOAEl32CM
+      Баллы: c-FRD5uhSFr1
+      Варианты ответа: c-J819BUOg9k
