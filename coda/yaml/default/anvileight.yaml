@@ -19,6 +19,8 @@ tables:
       11:00 (sent): c-X1Vrv0j7e0
       30m (sent): c-BogtYFcQ71
       5m (sent): c-LGtpf84wke
+      old_message_id: c-6pnIfAH75_
+      failed_sent: c-mNAr35iWgY
   Chats:
     table_id: grid-ZCNX4aJbur
     columns:
