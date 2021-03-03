@@ -138,6 +138,12 @@ if __name__ == '__main__':
             'doc_id': '6av8owel2d',
             'telegram_chat': -412658504,
         },
+        {
+            'semester': 'default',
+            'doc_name': 'anvileight',
+            'doc_id': 't_RcQ4HRNr',
+            'telegram_chat': '',
+        },
     ]
 
     for doc in docs:

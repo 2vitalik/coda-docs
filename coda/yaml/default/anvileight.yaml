@@ -1,0 +1,27 @@
+telegram_chat: ''
+doc_id: t_RcQ4HRNr
+tables:
+  All Anvileight Events:
+    table_id: grid-Hftk2XxsZg
+    columns:
+      Событие: c-fZodm5bCMN
+      Tag: c-dCl2Fcfcll
+      Дата: c-mRDhecSbES
+      Время: c-3TjvwTsQ0i
+      '11:00': c-ii9X2Vgjrv
+      30m: c-u9ZHxMrZnd
+      5m: c-vPbgnl3iu9
+      Телеграм-чат: c-MkCWgvoeM8
+      Regular: c-LFLQD8GwRT
+      Нд: c-MrujjBCiHm
+      Раз в неделю: c-9G65uL99cK
+      Ссылка: c-uMdCCfG1Hm
+      11:00 (sent): c-X1Vrv0j7e0
+      30m (sent): c-BogtYFcQ71
+      5m (sent): c-LGtpf84wke
+  Телеграм-чаты:
+    table_id: grid-ZCNX4aJbur
+    columns:
+      Название: c-Y_1h2EHB8h
+      chat_id: c-s7inKJbUI1
+      Активен: c-eRMHLHz4Fv

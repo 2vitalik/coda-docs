@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.27
+* Add new `default/anvileight.yaml`
+
 ### v.0.4.26
 * Update columns _(loaded latest from coda)_
 
