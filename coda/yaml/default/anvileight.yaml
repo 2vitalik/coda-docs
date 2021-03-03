@@ -1,7 +1,7 @@
 telegram_chat: ''
 doc_id: t_RcQ4HRNr
 tables:
-  All Anvileight Events:
+  Events:
     table_id: grid-Hftk2XxsZg
     columns:
       Событие: c-fZodm5bCMN
@@ -19,7 +19,7 @@ tables:
       11:00 (sent): c-X1Vrv0j7e0
       30m (sent): c-BogtYFcQ71
       5m (sent): c-LGtpf84wke
-  Телеграм-чаты:
+  Chats:
     table_id: grid-ZCNX4aJbur
     columns:
       Название: c-Y_1h2EHB8h
