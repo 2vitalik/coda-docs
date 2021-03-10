@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.31
+* Update columns _(loaded latest from coda)_
+
 ### v.0.4.30
 * Add new `2021-01/adv18_bonuses.yaml` and `2021-01/adv19_bonuses.yaml`
 

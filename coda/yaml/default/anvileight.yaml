@@ -21,6 +21,9 @@ tables:
       5m (sent): c-LGtpf84wke
       old_message_id: c-6pnIfAH75_
       failed_sent: c-mNAr35iWgY
+      icon: c-f7Q5DStKKV
+      Именинник: c-CUabDM38-Z
+      Комментарий: c-BaDeSnm7E1
   Chats:
     table_id: grid-ZCNX4aJbur
     columns:
