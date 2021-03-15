@@ -48,7 +48,7 @@ tables:
       '7: N/5': c-R2awk1Wy-V
       telegram: c-h8HKMergXo
       tg_old: c-Z1WRGj0yh_
-      NLP  Посещения: c-xv6VaIbh30
+      🖐 NLP  Посещения: c-xv6VaIbh30
       '9: N/12': c-QbW5laAuoU
       '11: N/19': c-z_oHYnYYQX
       '6: M/8 *': c-cZMhhA7mx0
@@ -56,7 +56,7 @@ tables:
       hide Product: c-nT3YAUvK-D
       Column 10: c-OlVZIG4KCr
       Product Посещения: c-vi-BJf9YTn
-      CV  Посещения: c-iWOTbAYIgc
+      🖐 CV  Посещения: c-iWOTbAYIgc
       hide ML: c-nGZfo2m4QU
       ML         Посещения: c-y5Iv9eExpA
       tg_new: c-7oeIgW1NUq
@@ -64,7 +64,7 @@ tables:
       ДЗ 1: c-tmOUiEvZ39
       ДЗ 2: c-YLKakBgsog
       ДЗ 3: c-uSxKljjIgP
-      ДЗ 4: c-Oql6v3oIzW
+      ПЗ 1: c-Oql6v3oIzW
       ДЗ ∑: c-YK1GLe0t9i
       '6: F/24': c-Nkv_uZBqhI
       '--: N/25': c-kX2dY6EoAI
@@ -74,6 +74,11 @@ tables:
       '10: N/18 *': c-V-s09hxdnP
       '12: N/25 *': c-j8zeanQvRv
       '9: M/5': c-5lXSQR3ukx
+      ПЗ 2: c-cnGHrl1o-Q
+      ПЗ 3: c-poNTVAdkeW
+      'ЛР #1': c-vKJSBJlY7Z
+      'ЛР #2': c-X3850Xyl2e
+      'ЛР #3': c-rY8XJQTZ5M
   Типы присутствия на занятии:
     table_id: grid-FJLqonPvHw
     columns:

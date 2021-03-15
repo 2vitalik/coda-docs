@@ -288,7 +288,8 @@ tables:
       Telegram Survey: c-WaGA-XGkeM
       status: c-VkD2gaPK4g
       Пользователь: c-a_VmaNeqJC
-      st: c-NOIAKQe8H2
+      status icon: c-NOIAKQe8H2
+      Нд: c-Qur9bQ1KPO
   Домашки (админка):
     table_id: grid-mskk_ijYm7
     ignore:
