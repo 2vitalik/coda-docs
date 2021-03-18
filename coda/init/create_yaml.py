@@ -116,7 +116,7 @@ if __name__ == '__main__':
         },
         {
             'semester': '2021-1',
-            'doc_name': 'cist_nure',
+            'doc_name': 'nure_20',
             'doc_id': 'jeeUEoCmQG',
             'telegram_chat': -1001443393626,
         },
