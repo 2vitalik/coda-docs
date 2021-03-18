@@ -122,6 +122,24 @@ if __name__ == '__main__':
         },
         {
             'semester': '2021-1',
+            'doc_name': 'nure_19',
+            'doc_id': 'UQnRtL3gs3',
+            'telegram_chat': -1001443393626,
+        },
+        {
+            'semester': '2021-1',
+            'doc_name': 'nure_18',
+            'doc_id': 'V3_PfzHd4q',
+            'telegram_chat': -1001443393626,
+        },
+        {
+            'semester': '2021-1',
+            'doc_name': 'nure_17',
+            'doc_id': 'ki2WRSxuak',
+            'telegram_chat': -1001443393626,
+        },
+        {
+            'semester': '2021-1',
             'doc_name': 'adv17',
             'doc_id': '6AWlFObC3R',
             'telegram_chat': -291308716,
@@ -154,6 +172,12 @@ if __name__ == '__main__':
             'semester': 'default',
             'doc_name': 'anvileight',
             'doc_id': 't_RcQ4HRNr',
+            'telegram_chat': '',
+        },
+        {
+            'semester': '2021-1',
+            'doc_name': 'oop',
+            'doc_id': 'wt3_f1JTX-',
             'telegram_chat': '',
         },
     ]
