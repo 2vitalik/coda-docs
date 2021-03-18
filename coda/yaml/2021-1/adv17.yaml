@@ -16,8 +16,8 @@ tables:
       '1: F/5': c-E2HwtxwoTV
       '8: M/3': c-GDZD5_qPHv
       '11: M/12': c-_1utn7OnO7
-      '15: M/26': c-GKkml73aDE
-      '8: M/25': c-MO1qNRgCpH
+      '14: M/26': c-GKkml73aDE
+      '9: M/25': c-MO1qNRgCpH
       '8: N/4': c-kKihVpVyRe
       '1: F/4': c-xgEkELHvQ2
       base: c-CngBAI2xlJ
@@ -31,7 +31,7 @@ tables:
       Lines: c-owJGB0vBxd
       Медалька за баллы: c-AIoQZKlMQT
       Ладошка посещения: c-odpiirdr6T
-      '13: M/19': c-HITi9OElp2
+      '8: M/19': c-HITi9OElp2
       ФИ: c-bNbLNX8iqZ
       approve: c-djgPyJhVbH
       Значение: c-5Z67SDF5oi
@@ -44,7 +44,7 @@ tables:
       '3: F/12': c-QHPciB2O0a
       '7: F/26': c-n_WTFiOjBm
       '10: M/10': c-rKDHeJcLVx
-      '14: M/24': c-LY0eK96Ond
+      '13: M/24': c-LY0eK96Ond
       '7: N/5': c-R2awk1Wy-V
       telegram: c-h8HKMergXo
       tg_old: c-Z1WRGj0yh_

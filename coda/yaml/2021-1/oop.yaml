@@ -140,18 +140,20 @@ tables:
       notion-link: c-CZnRewIQAd
       Подробнее: c-6NliPCEEv8
       hide: c-nDj4fUzt5v
+      Студенты: c-lK8IJo02XZ
   Сроки:
     table_id: grid-_mLk7G2p-U
     columns:
       Дата: c-YN1q5l54dh
       Группа: c-uDi8pL1kEb
       Лабораторная и Курсовой: c-3HyToH_eJ0
-      Δ: c-Ad1WdKwHLs
+      Δ (int): c-Ad1WdKwHLs
       Repr: c-07ijJ1h1bM
       Title: c-7U-10blINc
       room: c-7Wtky4LZGZ
-      Ауд: c-qS3qTiz25h
+      💬: c-qS3qTiz25h
       Column: c-EbQbnlT4PR
+      Δ: c-6QjeprflQW
   Все задания:
     table_id: grid-xFar8HGtPc
     columns:
@@ -165,9 +167,10 @@ tables:
       Баллы: c-_7cQVuBcSg
       new: c-sZkjzhBNW6
       🔲 2: c-4iG33oqbUG
-      🖼 3: c-zVpE5rL37U
       Тип задания: c-6RGYCMJmFb
       order: c-byFzUN1xYU
+      🖼 3: c-8Xczsyk1df
+      🎓 K: c-GFFGuXhuI_
   Отчёты:
     table_id: grid-L-tQs5bJlt
     columns:
@@ -202,6 +205,9 @@ tables:
       Ok!: c-hMYPEw6SmP
       2x!: c-dUMJ95MIeO
       Классы: c-3hiDh8ti5x
+      Title: c-bQI-8B5N5S
+      K ↓: c-TeMXpSU4eV
+      3 ↑: c-9HIkhDibBP
   Категории заданий:
     table_id: grid-MrcG6PCJMr
     columns:

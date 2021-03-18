@@ -176,7 +176,7 @@ if __name__ == '__main__':
         },
         {
             'semester': '2021-1',
-            'doc_name': 'oop',
+            'doc_name': 'oop',  # todo: update completely later
             'doc_id': 'wt3_f1JTX-',
             'telegram_chat': '',
         },
