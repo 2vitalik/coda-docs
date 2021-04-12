@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.42
+* Add `telegram_chat` to `oop.yaml`
+
 ### v.0.4.41
 * Update columns _(loaded latest from coda)_
 
