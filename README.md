@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.45
+* Update columns _(loaded latest from coda)_
+
 ### v.0.4.44
 * Add `title` values for `oop.yaml`
 
