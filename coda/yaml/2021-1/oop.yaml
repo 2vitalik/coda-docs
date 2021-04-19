@@ -3,6 +3,8 @@ doc_id: wt3_f1JTX-
 tables:
   Студенты:
     table_id: grid-MlfXPnqibB
+    title:
+    - Студент
     columns:
       Фамилия: c-T0CNpVN2WP
       Группа: c-LWOfqIWAhf
@@ -133,6 +135,8 @@ tables:
       Тема: c-s84EsQ7O3-
   Варианты игр:
     table_id: grid-Rxx0TTww4-
+    title:
+    - Название
     columns:
       Краткое описание: c-N_XmB8MARX
       Внешние ссылки: c-eM7y9cFshs
@@ -160,6 +164,8 @@ tables:
       Δ: c-6QjeprflQW
   Все задания:
     table_id: grid-xFar8HGtPc
+    title:
+    - Название
     columns:
       Название: c-04z2n_RCCL
       Категория: c-35qqzOu8YV
@@ -182,6 +188,10 @@ tables:
       Copy of use: c-x2Bw0LNSYL
   Отчёты:
     table_id: grid-L-tQs5bJlt
+    title:
+    - Лаба
+    - Студент
+    - Задание
     columns:
       Лаба: c-euikzr1AcR
       Задание: c--4jjiiBMyk
@@ -220,6 +230,8 @@ tables:
       Created on: c-eA_RD0gYD_
   Категории заданий:
     table_id: grid-MrcG6PCJMr
+    title:
+    - Title
     columns:
       Название: c-Uoa47kWS9X
       Описание: c-RUxVl-V1O7
@@ -228,6 +240,9 @@ tables:
       Title: c-XUahA9trlM
   Поля и методы классов:
     table_id: grid-grL1StlWUh
+    title:
+    - Coda
+    - Title
     columns:
       Класс: c-y2Tbbpju8z
       Поле или метод: c-UN6X7aCz-S
@@ -238,6 +253,9 @@ tables:
       Title: c-cqa4ghKGSz
   Классы:
     table_id: grid-VRcclNmjgh
+    title:
+    - Coda
+    - Название
     columns:
       Название: c-SCaPQPiNzB
       Родитель: c-ik4Ch-r1Yf
@@ -247,11 +265,15 @@ tables:
       Coda: c-HQDrPpqdyp
   Статусы проверки:
     table_id: grid-JKUiAe_V5_
+    title:
+    - Название
     columns:
       Название: c-YvW24-fft5
       Описание: c-R6aPp2OF0g
   Типы заданий:
     table_id: grid-K_2ZVdliJn
+    title:
+    - Название
     columns:
       Название: c-NTyPBPwMP_
       Описание: c-6lp_BaITfy
@@ -259,6 +281,8 @@ tables:
       icon: c-4tcX_AQFqr
   Монеты:
     table_id: grid-_fzEUY0ZX6
+    title:
+    - Название
     columns:
       value: c-gzVIBrLrxK
       Название: c-PFCT18khPr
