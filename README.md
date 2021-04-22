@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.47
+* Update columns _(loaded latest from coda)_
+
 ### v.0.4.46
 * Update columns _(loaded latest from coda)_
 
