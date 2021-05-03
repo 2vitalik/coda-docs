@@ -5,6 +5,18 @@ tables:
     table_id: grid-MlfXPnqibB
     title:
     - Студент
+    ignore:
+    - 💰1
+    - 💰1*
+    - 💰2
+    - 💰2*
+    - 💰3
+    - 💰3*
+    - ❔1*
+    - ❔2*
+    - ❔3*
+    - ❔avg
+    - Coins ∑
     columns:
       Фамилия: c-T0CNpVN2WP
       Группа: c-LWOfqIWAhf
@@ -137,6 +149,8 @@ tables:
     table_id: grid-Rxx0TTww4-
     title:
     - Название
+    ignore:
+    - Подробнее
     columns:
       Краткое описание: c-N_XmB8MARX
       Внешние ссылки: c-eM7y9cFshs
@@ -166,6 +180,8 @@ tables:
     table_id: grid-xFar8HGtPc
     title:
     - Название
+    ignore:
+    - state
     columns:
       Название: c-04z2n_RCCL
       Категория: c-35qqzOu8YV
@@ -192,6 +208,16 @@ tables:
     - Лаба
     - Студент
     - Задание
+    ignore:
+    - Q?!
+    - No!
+    - 0.5!
+    - Ok!
+    - 2x!
+    - Title
+    - K ↓
+    - 3 ↑
+    - Баллы
     columns:
       Лаба: c-euikzr1AcR
       Задание: c--4jjiiBMyk
@@ -243,6 +269,8 @@ tables:
     title:
     - Coda
     - Title
+    ignore:
+    - Какие задания соответствуют
     columns:
       Класс: c-y2Tbbpju8z
       Поле или метод: c-UN6X7aCz-S
@@ -256,6 +284,8 @@ tables:
     title:
     - Coda
     - Название
+    ignore:
+      - Какие задания соответствуют
     columns:
       Название: c-SCaPQPiNzB
       Родитель: c-ik4Ch-r1Yf
@@ -283,6 +313,7 @@ tables:
     table_id: grid-_fzEUY0ZX6
     title:
     - Название
+    - value
     columns:
       value: c-gzVIBrLrxK
       Название: c-PFCT18khPr
@@ -290,6 +321,9 @@ tables:
       '#': c-OuCnNoaIlU
   Текущая категория:
     table_id: grid-T8W-NuYEfG
+    ignore:
+    - Текущая категория
+    - Описание
     columns:
       Текущая категория: c-x1wqIV98ev
       Описание: c-_v6-A7jla0
