@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.51
+* Set more ignored columns for `oop.yaml`
+
 ### v.0.4.50
 * Set more ignored columns for `oop.yaml`
 
