@@ -182,6 +182,8 @@ tables:
     - Название
     ignore:
     - state
+    - Title
+    - Баллы
     columns:
       Название: c-04z2n_RCCL
       Категория: c-35qqzOu8YV
@@ -218,6 +220,10 @@ tables:
     - K ↓
     - 3 ↑
     - Баллы
+    - Название
+    - Нет скринов
+    - Нет отчёта
+    - Нет задания
     columns:
       Лаба: c-euikzr1AcR
       Задание: c--4jjiiBMyk
