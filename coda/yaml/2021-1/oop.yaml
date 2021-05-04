@@ -184,6 +184,11 @@ tables:
     - state
     - Title
     - Баллы
+    - 🔲 2
+    - 🖼 3
+    - 🎓 K
+    - Created on
+    - order
     columns:
       Название: c-04z2n_RCCL
       Категория: c-35qqzOu8YV
