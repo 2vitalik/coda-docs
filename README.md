@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.53
+* Load latest from coda: `diary`, `adv19`
+
 ### v.0.4.52
 * Set some titles for `oop.yaml`
 
