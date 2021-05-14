@@ -27,17 +27,17 @@ tables:
       Вариант игры: c-p7BPIlPsuR
       Tg: c-UpGvv2iEug
       telegram-nickname: c-yTtlYUtcv0
-      Фамилия И.: c-9Z2A-9TIgs
-      ✔️1: c-6uIf0vYP8L
+      Студент (+ico): c-9Z2A-9TIgs
+      vid: c-6uIf0vYP8L
       ✔️2: c-G1jDXSIFZh
       ✔️3: c-NlvwKnmr9r
-      📆 1: c-d2qfgQnztV
-      📆 2: c-VbNlx2P3gu
-      📆 3: c-6xO46njYXT
-      ✏️1: c-runy6riSK0
+      ready1: c-d2qfgQnztV
+      ready2: c-VbNlx2P3gu
+      ready3: c-6xO46njYXT
+      rep: c-runy6riSK0
       ✏️2: c-9Nrihlyu9s
       ✏️3: c-BvLDyLWMDK
-      ☁️1: c-TkO3PEf8cy
+      git: c-TkO3PEf8cy
       ☁️2: c-qTtPrpQgCA
       ☁️3: c-xFmI7iAowF
       ⏱1: c-oqkQIRgAp5
@@ -56,16 +56,16 @@ tables:
       Report-link: c-oMlPWrVEu9
       Rpt: c-4fzVE7-kgC
       💰1*: c-zfdhtDqmpU
-      Coins 1: c-a4SygU2y3N
+      mark 1: c-a4SygU2y3N
       💰2*: c-YDBtuGfXcY
-      Coins 2: c-RDU3CO_S3A
+      mark 2: c-RDU3CO_S3A
       💰3*: c-nFcMqUfArY
-      Coins 3: c-IJYlzauqX3
+      mark 3: c-IJYlzauqX3
       📝1*: c-7kMG8lTvmC
       📝2*: c-de45zYyqtk
       📝3*: c-Cbx7dZd9Xa
-      💰1: c--iBPDcMWph
-      💰2: c-iw4ROoMTMT
+      💰 1: c--iBPDcMWph
+      💰 1,2: c-iw4ROoMTMT
       💰3: c-88FSo9tAPQ
       ❔1*: c-6ZInGzU98u
       ❔2*: c-SDmoeB2Rp4
@@ -145,6 +145,11 @@ tables:
       dropbox K: c-FySJG2gjqu
       Column 19: c-KuBNSysVRA
       Тема: c-s84EsQ7O3-
+      github: c-dXS_DzRv2N
+      Copy of Студент (+ico): c-snxp6Xghxd
+      mark1?: c-S4z4sZBAGA
+      mark2?: c-sHs3_bdn3F
+      mark3?: c-YzynVVX4mD
   Варианты игр:
     table_id: grid-Rxx0TTww4-
     title:
@@ -200,7 +205,7 @@ tables:
       Title: c-Noo7r_4iB2
       use: c-wjXpKprJKW
       Баллы: c-_7cQVuBcSg
-      new: c-sZkjzhBNW6
+      new?: c-sZkjzhBNW6
       🔲 2: c-4iG33oqbUG
       Тип задания: c-6RGYCMJmFb
       order: c-byFzUN1xYU
@@ -210,7 +215,10 @@ tables:
       state: c-oYHD3lXN4W
       bonus_status: c-R7AZFFSzWe
       Created on: c--K-jBkOz7l
-      Copy of use: c-x2Bw0LNSYL
+      use-old: c-x2Bw0LNSYL
+      ico: c-Ta2vHcoPAO
+      hidden: c-oY2g9ma03A
+      todo: c-59T8emHtMX
   Отчёты:
     table_id: grid-L-tQs5bJlt
     title:
@@ -271,6 +279,8 @@ tables:
       3 ↑: c-9HIkhDibBP
       Студент: c-spEeNCr1SP
       Created on: c-eA_RD0gYD_
+      K ↑: c-ACjLIgd5zN
+      1,2 ↑: c-y9E04xpCug
   Категории заданий:
     table_id: grid-MrcG6PCJMr
     title:
@@ -281,6 +291,7 @@ tables:
       order: c-ZjVBIjJZ1a
       icon: c-QE9GN9Dj4r
       Title: c-XUahA9trlM
+      hidden: c-0Ne9nwtml8
   Поля и методы классов:
     table_id: grid-grL1StlWUh
     title:
@@ -302,7 +313,7 @@ tables:
     - Coda
     - Название
     ignore:
-      - Какие задания соответствуют
+    - Какие задания соответствуют
     columns:
       Название: c-SCaPQPiNzB
       Родитель: c-ik4Ch-r1Yf

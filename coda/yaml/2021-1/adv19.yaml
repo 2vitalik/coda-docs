@@ -191,8 +191,8 @@ tables:
       Ведомость: c-XSj9o6-oJe
       '10: M/8': c-yYOfUeeT8f
       '4: M/13': c-CJJm2ShtPd
-      'КР #': c-u-NwPPkba0
-      'ДЗ #': c-JNOrmulA_F
+      КР+: c-u-NwPPkba0
+      ДЗ+: c-JNOrmulA_F
       Бонусы?: c-K51UjJK2PL
       Итог?: c-fLNkUfpfUT
       ВУЗ: c-GQQLHrY17t
@@ -255,6 +255,20 @@ tables:
       eff: c-dGbhc5ZBNi
       another_telegram: c-uQEIRaubMX
       🗝 A/22: c-IdLVrpeZoX
+      Ачивки (подробнее): c-kJkndVQbJY
+      '🏠 #': c-GOgCt-tkhO
+      '🎈 #': c-jFKeO-7NVj
+      '🎯 #': c-Af2gf1yMgL
+      🏅 num: c-X7tTk8gOFa
+      🏅 sum: c-5dF3Ezcskn
+      '⏰ #': c-MarnIqVy3B
+      '⏰🌀 #': c-NET4YgNAW7
+      Ачивки (иконки): c-oSHRPUv-UI
+      пз#: c-NGK2y_HKhQ
+      'review #': c-nRyruVQimm
+      'lect #': c-4cwA5w122r
+      'razb #': c-oPoRPzsHBm
+      lect^: c-G-De1FBIGf
   Обозначения посещений:
     table_id: grid-FJLqonPvHw
     columns:
