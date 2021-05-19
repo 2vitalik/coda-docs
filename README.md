@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.4.60
+* Load latest from coda: `adv19`
+
 ### v.0.4.59
 * Load latest from coda: `diary`
 
