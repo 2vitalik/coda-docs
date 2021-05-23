@@ -30,6 +30,8 @@ tables:
       Родитель: c-KdJ50YuGFF
       Дедушка: c-O3qmdN_y8i
       back: c-YYz1VITrsd
+      tg_msg_id: c-z-Xf_fQP_U
+      category_row: c-_oXn3byVB2
   Проекты:
     table_id: grid-wfuwdVu4J3
     columns:
