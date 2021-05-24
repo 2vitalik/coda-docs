@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.5.0
+* Add coda table method: `remove`
+
 ### v.0.4.61
 * Load latest from coda: `diary`
 

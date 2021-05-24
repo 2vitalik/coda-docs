@@ -1,6 +1,6 @@
 from shared_utils.api.coda.coda_utils import get_rows_dict_by_yaml, \
     get_rows_data_by_yaml, update_row_by_yaml, append_row_by_yaml, \
-    is_request_completed
+    is_request_completed, remove_row_by_yaml
 
 from coda.util import read_yaml, root_dir
 
@@ -53,6 +53,10 @@ class Table:
     def append(self, row_data):
         return append_row_by_yaml(self.coda.token, self.coda.doc_id,
                                   self.info, row_data)
+
+    def remove(self, row_id):
+        return remove_row_by_yaml(self.coda.token, self.coda.doc_id, 
+                                  self.info, row_id)
 
 
 if __name__ == '__main__':
