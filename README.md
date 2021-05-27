@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.5.1
+* Set some ignored columns for `adv19.yaml`
+
 ### v.0.5.0
 * Add coda table method: `remove`
 
