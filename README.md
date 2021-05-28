@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.5.2
+* Load latest from coda: `adv18`
+
 ### v.0.5.1
 * Set some ignored columns for `adv19.yaml`
 
