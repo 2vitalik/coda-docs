@@ -72,47 +72,47 @@ tables:
       ❔3*: c--m5k9XNTSB
       Защита: c-FbyYl-bMLi
       '60': c-V0jX0e7Nam
-      '2244': c-eJHMYIrv4Q
-      '2245': c-Ga8j3cUZaC
-      '2254': c-k7UAbefJW3
-      '2255': c-XmQil0W7DU
-      '2256': c-bqNVS4yvFH
-      '2267': c-9IlVOij1Ws
-      '2265': c-R7kZg98kYL
-      '2304': c-0GPn69SRwy
-      '2305': c-lByvVu-0m2
-      '2306': c-6brkZXNhkD
-      '2330': c-HfIvojZReL
-      '2336': c-frhl1oNEiO
-      '2286': c-UB4VvkcIBE
-      '2284': c-in5mRvQkyX
-      '2285': c-fcMUMT7nb0
-      2255*: c-G0sBXc4519
-      2306*: c-QLXX3BJhNh
-      '2327': c-mX2cHnWqNl
-      '2328': c-Qc0w8kft6h
-      '2329': c-qIY9XyiAlO
-      '2331': c-2aLvuRXMSx
-      '2334': c-KWPmUU95Jw
-      '2335': c-LQmuRAVPOc
+      '1083': c-eJHMYIrv4Q
+      '1084': c-Ga8j3cUZaC
+      '1085': c-k7UAbefJW3
+      '1089': c-XmQil0W7DU
+      '1094': c-bqNVS4yvFH
+      '1095': c-9IlVOij1Ws
+      '1088': c-R7kZg98kYL
+      '319': c-0GPn69SRwy
+      _60-1: c-lByvVu-0m2
+      _60-2: c-6brkZXNhkD
+      _60-4: c-HfIvojZReL
+      _60-5: c-frhl1oNEiO
+      '1092': c-UB4VvkcIBE
+      _strange: c-in5mRvQkyX
+      '1091': c-fcMUMT7nb0
+      '935': c-G0sBXc4519
+      _60-3: c-QLXX3BJhNh
+      '1093': c-mX2cHnWqNl
+      '1098': c-Qc0w8kft6h
+      '323': c-qIY9XyiAlO
+      '342': c-2aLvuRXMSx
+      '1099': c-KWPmUU95Jw
+      '1101': c-LQmuRAVPOc
       '75': c-5ZIxNMu83E
       '90': c-15F3h_l2X_
-      2284*: c-WPWWH4XSkQ
-      '2266': c-Gj_qrS0Kpc
-      A/14: c-w1s1j0JW0J
-      A/21: c-etgt0xeJ1-
-      M/06: c-1CbjXXTV99
+      '1100': c-WPWWH4XSkQ
+      _70: c-Gj_qrS0Kpc
+      J/01: c-w1s1j0JW0J
+      J/08: c-etgt0xeJ1-
+      M/18: c-1CbjXXTV99
       M/27: c-56XAeIptZo
-      A/07: c-Z6TliD5B3h
+      M/31: c-Z6TliD5B3h
       A/30: c-RXebdVIn-P
-      M/11: c-8zRWets-HX
+      M/25: c-8zRWets-HX
       M/14: c-P8Q4686Yx2
       M/21: c-b5Y78lfM88
       M/28: c-RCUcJIijcl
       60+: c-RBaxjUdCo0
       75+: c-X19wXSrlXs
       90+: c-MAdUu6kpke
-      KT: c-GrUSq-Z0Rr
+      Итог KT: c-GrUSq-Z0Rr
       H+: c-LzX_NzOeak
       b+: c-vWnBwoNSm-
       Защита F: c-jYynJ21KAH
@@ -124,7 +124,7 @@ tables:
       1-я защита: c-oGl1iBtMK9
       G: c-DEoFywtg22
       J/04: c-RbOqvxLr50
-      '2349': c-nnLTdrTmhv
+      '919': c-nnLTdrTmhv
       Итог лаб: c-FR02mFtDJ5
       хочу (опрос): c-dHJhf306qD
       Статус (new): c-E-ri3JhN99
@@ -150,6 +150,48 @@ tables:
       mark1?: c-S4z4sZBAGA
       mark2?: c-sHs3_bdn3F
       mark3?: c-YzynVVX4mD
+      KT1-log: c-tPEHII_022
+      KT-2?: c-EXzB2y2aeV
+      KT2-log: c-spuy4MS15F
+      Защ 2lb: c-wPNA8_uS-S
+      KT-username: c-IuLIfwRUMp
+      github-gui: c-l7Glx7595G
+      github-old: c-4guuTiPhE1
+      Защ 2lb?: c-IJEyCOKmnW
+      Защ 3lb?: c-HKt9FWjr--
+      until: c-_KkuyUNBuK
+      Защ 3lb: c-H1eOy4GbXH
+      KT4-log: c-B9T0Bx1cQz
+      until_key: c-7HW-AipNHl
+      '1166': c-aXxlvfF6-L
+      '1167': c-5eRaHpwcIG
+      prefer: c-wDDRWpAy0I
+      prefer_key: c-Wz9fMLRBky
+      ✏️?: c-OwGLhxvk7w
+      git?: c-7_99_gO7DG
+      fix?: c-nCn1Td3xQa
+      when?: c-xvw04oZ4wG
+      mark?: c-1nCldWHiUJ
+      аванс: c-KskwRPXbao
+      💰K: c-PWpama9Xva
+      mark K: c-0ogoVCGN_p
+      markK?: c--w5luIV2sA
+      readyK: c-_WxijYMjjQ
+      ⏱K: c-N85sLV1n7u
+      💰1 !: c-pU6xy8VLFg
+      💰3 !: c-oxV10pKyLY
+      💰2 !: c-n315owUwYN
+      + ⏱1: c-SwgtysFKzP
+      + ⏱2: c-4U4bfd6ZEB
+      + ⏱3: c-EdnGYkzE6k
+      Average: c-P_uc5w6C4M
+      fixes status: c-xZQRuYEphK
+      mark status: c-LzEAgpj6Fn
+      ok?: c--IsRzKf4Yl
+      📝v1: c-vp3WHJ263v
+      📝 v1d: c-iuRaG3IKOB
+      dub: c-h_tda8vH0m
+      gold: c-H7XLPwSbl1
   Варианты игр:
     table_id: grid-Rxx0TTww4-
     title:
@@ -281,6 +323,8 @@ tables:
       Created on: c-eA_RD0gYD_
       K ↑: c-ACjLIgd5zN
       1,2 ↑: c-y9E04xpCug
+      Modified on: c-yysLpxS3Ak
+      Фамилия: c-1t5X2gjMZf
   Категории заданий:
     table_id: grid-MrcG6PCJMr
     title:
