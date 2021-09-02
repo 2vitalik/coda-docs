@@ -180,6 +180,13 @@ if __name__ == '__main__':
         #     'doc_id': 'wt3_f1JTX-',
         #     'telegram_chat': '',
         # },
+        # --------------------------------------------------------------------
+        {
+            'semester': '2021-2',
+            'doc_name': 'timetable',
+            'doc_id': 'DQFWMzQIyq',
+            'telegram_chat': -1001443393626,
+        },
     ]
 
     for doc in docs:
