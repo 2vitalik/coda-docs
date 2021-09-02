@@ -108,78 +108,78 @@ if __name__ == '__main__':
         #     'telegram_chat': -1001443393626,
         # },
         # --------------------------------------------------------------------
-        {
-            'semester': 'default',
-            'doc_name': 'diary',
-            'doc_id': 'BPqqG0xD2g',
-            'telegram_chat': None,
-        },
-        {
-            'semester': '2021-1',
-            'doc_name': 'nure_20',
-            'doc_id': 'jeeUEoCmQG',
-            'telegram_chat': -1001443393626,
-        },
-        {
-            'semester': '2021-1',
-            'doc_name': 'nure_19',
-            'doc_id': 'UQnRtL3gs3',
-            'telegram_chat': -1001443393626,
-        },
-        {
-            'semester': '2021-1',
-            'doc_name': 'nure_18',
-            'doc_id': 'V3_PfzHd4q',
-            'telegram_chat': -1001443393626,
-        },
-        {
-            'semester': '2021-1',
-            'doc_name': 'nure_17',
-            'doc_id': 'ki2WRSxuak',
-            'telegram_chat': -1001443393626,
-        },
-        {
-            'semester': '2021-1',
-            'doc_name': 'adv17',
-            'doc_id': '6AWlFObC3R',
-            'telegram_chat': -291308716,
-        },
-        {
-            'semester': '2021-1',
-            'doc_name': 'adv18',
-            'doc_id': '40fixv94zQ',
-            'telegram_chat': -399927652,
-        },
-        {
-            'semester': '2021-1',
-            'doc_name': 'adv19',
-            'doc_id': '6av8owel2d',
-            'telegram_chat': -412658504,
-        },
-        {
-            'semester': '2021-1',
-            'doc_name': 'adv19_bonuses',
-            'doc_id': 'mcSsb7_-AE',
-            'telegram_chat': -460682053,
-        },
-        {
-            'semester': '2021-1',
-            'doc_name': 'adv18_bonuses',
-            'doc_id': 'o7eTMCYpOE',
-            'telegram_chat': -358956865,
-        },
-        {
-            'semester': 'default',
-            'doc_name': 'anvileight',
-            'doc_id': 't_RcQ4HRNr',
-            'telegram_chat': '',
-        },
-        {
-            'semester': '2021-1',
-            'doc_name': 'oop',  # todo: update completely later
-            'doc_id': 'wt3_f1JTX-',
-            'telegram_chat': '',
-        },
+        # {
+        #     'semester': 'default',
+        #     'doc_name': 'diary',
+        #     'doc_id': 'BPqqG0xD2g',
+        #     'telegram_chat': None,
+        # },
+        # {
+        #     'semester': '2021-1',
+        #     'doc_name': 'nure_20',
+        #     'doc_id': 'jeeUEoCmQG',
+        #     'telegram_chat': -1001443393626,
+        # },
+        # {
+        #     'semester': '2021-1',
+        #     'doc_name': 'nure_19',
+        #     'doc_id': 'UQnRtL3gs3',
+        #     'telegram_chat': -1001443393626,
+        # },
+        # {
+        #     'semester': '2021-1',
+        #     'doc_name': 'nure_18',
+        #     'doc_id': 'V3_PfzHd4q',
+        #     'telegram_chat': -1001443393626,
+        # },
+        # {
+        #     'semester': '2021-1',
+        #     'doc_name': 'nure_17',
+        #     'doc_id': 'ki2WRSxuak',
+        #     'telegram_chat': -1001443393626,
+        # },
+        # {
+        #     'semester': '2021-1',
+        #     'doc_name': 'adv17',
+        #     'doc_id': '6AWlFObC3R',
+        #     'telegram_chat': -291308716,
+        # },
+        # {
+        #     'semester': '2021-1',
+        #     'doc_name': 'adv18',
+        #     'doc_id': '40fixv94zQ',
+        #     'telegram_chat': -399927652,
+        # },
+        # {
+        #     'semester': '2021-1',
+        #     'doc_name': 'adv19',
+        #     'doc_id': '6av8owel2d',
+        #     'telegram_chat': -412658504,
+        # },
+        # {
+        #     'semester': '2021-1',
+        #     'doc_name': 'adv19_bonuses',
+        #     'doc_id': 'mcSsb7_-AE',
+        #     'telegram_chat': -460682053,
+        # },
+        # {
+        #     'semester': '2021-1',
+        #     'doc_name': 'adv18_bonuses',
+        #     'doc_id': 'o7eTMCYpOE',
+        #     'telegram_chat': -358956865,
+        # },
+        # {
+        #     'semester': 'default',
+        #     'doc_name': 'anvileight',
+        #     'doc_id': 't_RcQ4HRNr',
+        #     'telegram_chat': '',
+        # },
+        # {
+        #     'semester': '2021-1',
+        #     'doc_name': 'oop',  # todo: update completely later
+        #     'doc_id': 'wt3_f1JTX-',
+        #     'telegram_chat': '',
+        # },
     ]
 
     for doc in docs:
