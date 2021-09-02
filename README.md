@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.2
+* Manually changed: `timetable`
+
 ### v.0.6.1
 * Load latest from coda: `timetable`
 
