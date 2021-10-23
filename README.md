@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.3
+* Add new `2021-2/adv20.yaml`
+
 ### v.0.6.2
 * Manually changed: `timetable`
 
