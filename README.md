@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.4
+* Fix `coda.docs.adv_*` py-files (new year)
+
 ### v.0.6.3
 * Add new `2021-2/adv20.yaml`
 
