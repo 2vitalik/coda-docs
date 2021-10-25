@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.5
+* Load latest from coda: `adv20`
+
 ### v.0.6.4
 * Fix `coda.docs.adv_*` py-files (new year)
 
