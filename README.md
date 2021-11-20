@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.8
+* Load latest from coda: `adv20`
+
 ### v.0.6.7
 * Set telegram chat for `adv20`
 
