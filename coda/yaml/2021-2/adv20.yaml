@@ -48,7 +48,7 @@ tables:
       '12: O/26': c-cZgck8ui-5
       '8: O/9': c-YLC8ynjG4T
       ⏰ N/20: c-Vgv7wX4RPb
-      🎓 D/18: c-hbW0mY_Czw
+      🎓 D/25: c-hbW0mY_Czw
       '11: O/19': c-SVtlEn3acm
       🗝 O/20: c-0ubwtJbujQ
       Review Repo: c-mL5HJn9Ds1
@@ -274,7 +274,7 @@ tables:
       'lect #': c-4cwA5w122r
       'razb #': c-oPoRPzsHBm
       lect^: c-G-De1FBIGf
-      🗝 N/?? 2: c-Wm3I_AJqpg
+      🗝 D/12: c-Wm3I_AJqpg
       оц-old: c-hENNmQ5FJv
       Column 16: c-9_lVakRyZU
       Column 17: c-9hQuIflKCa
@@ -302,6 +302,13 @@ tables:
       '17: N/13': c-BVtPoY_JNX
       '18: N/16': c-MrnWA8DFK0
       '19: N/23': c-EDSyujjZaY
+      logger2: c-McG05zRd55
+      '20: N/27': c-3KeTFQoB4W
+      '21: N/30': c-tVatBB7Qfj
+      '22: D/4': c-fO623_T-PU
+      '23: D/7': c-mzCq5zCAq9
+      '24: D/11': c-ofLTN5EJKG
+      '25: D/14': c-s9QjFeZK-q
   Обозначения посещений:
     table_id: grid-FJLqonPvHw
     columns:
