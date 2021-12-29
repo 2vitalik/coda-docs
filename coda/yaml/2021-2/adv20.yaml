@@ -84,7 +84,7 @@ tables:
       dots1: c-LvEPL6TBJw
       dots2: c-vahAzPdopS
       dots3: c-Ap1U88euGA
-      dots4: c-5FSfDqkBUC
+      dots5: c-5FSfDqkBUC
       Тесты  ∑: c-X81lUZQ30E
       Проект ∑: c-MYuW_AdHLt
       ∑        Бонусы: c-f2oqQl3z0_
@@ -128,7 +128,7 @@ tables:
       dots1_raw: c-FiZNprQqOi
       dots2_raw: c-l_9M4hI4As
       dots3_raw: c-wl7PeFKy8-
-      dots4_raw: c-0jzngIwHb4
+      dots5_raw: c-0jzngIwHb4
       Бонусы (scaling): c-u0ndeUGOTY
       K1-Up: c-PiZgFqqrQG
       кр.1 A🌀: c-17-j47k-fs
@@ -317,6 +317,9 @@ tables:
       K3-A: c-8FR4Ny8Faw
       K3-B: c-YANzT9hVco
       K3-C: c-w_-Yj_zvab
+      Git 2: c-uoRUQ7Mh9b
+      dots4_raw: c-4J038hJQr0
+      dots4: c-hCfRatMsFx
   Обозначения посещений:
     table_id: grid-FJLqonPvHw
     columns:
