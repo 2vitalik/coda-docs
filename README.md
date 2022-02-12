@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.14
+* Add new `2022-1/timetable.yaml`
+
 ### v.0.6.13
 * Load latest from coda: `adv20`
 
