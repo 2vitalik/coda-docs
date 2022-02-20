@@ -191,7 +191,7 @@ if __name__ == '__main__':
             'semester': '2021-2',
             'doc_name': 'adv20',
             'doc_id': 'DEsp3ZOQ-6',
-            'telegram_chat': '',
+            'telegram_chat': -603913534,
         },
         # ====================================================================
         {
@@ -199,6 +199,12 @@ if __name__ == '__main__':
             'doc_name': 'timetable',
             'doc_id': '569kzNvqNU',
             'telegram_chat': -1001443393626,
+        },
+        {
+            'semester': '2022-1',
+            'doc_name': 'adv20',
+            'doc_id': 'sJDDVJj2U5',
+            'telegram_chat': -603913534,
         },
     ]
 
