@@ -48,7 +48,7 @@ tables:
       '12: O/26': c-cZgck8ui-5
       '8: O/9': c-YLC8ynjG4T
       ⏰ N/20: c-Vgv7wX4RPb
-      🎓 D/25: c-hbW0mY_Czw
+      🎓 J/15: c-hbW0mY_Czw
       '11: O/19': c-SVtlEn3acm
       🗝 O/20: c-0ubwtJbujQ
       Review Repo: c-mL5HJn9Ds1
@@ -281,7 +281,7 @@ tables:
       Column 18: c-Mh3K3GwU5L
       Column 19: c-lPzELXCcfh
       Column 20: c-qM_gyMQ9bO
-      🗝 D/29: c-uoAja8PAvn
+      🗝 J/5: c-uoAja8PAvn
       src: c-3_XiYMLxHg
       ведомость?: c-d-IlpeU-4b
       Ведомость!: c-zTTqJQloIT
@@ -320,6 +320,9 @@ tables:
       Git 2: c-uoRUQ7Mh9b
       dots4_raw: c-4J038hJQr0
       dots4: c-hCfRatMsFx
+      оценка: c-ASqhuqkuc7
+      согл: c-aCi5K78YPo
+      oki: c-o4gB_W1qI6
   Обозначения посещений:
     table_id: grid-FJLqonPvHw
     columns:
