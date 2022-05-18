@@ -4,29 +4,24 @@ tables:
   Ваши игровые элементы:
     table_id: grid-0hNJVvOoSd
     title:
-      - Coda
-      - Название
+    - Coda
+    - Название
     columns:
       Ваше описание: c-SdksKFCa0P
       🔲: c-yULiFkZuq3
       🦋: c-MasoM6LfPx
       Когда появляется: c-TYgUfPJ46c
       Как двигается: c-csV93UZdi5
-      OnDestroy: c-L3xgjuwgG_
       Вид в 🔲: c-YeIJm2Cfym
       Вид в 🦋: c-cZJYGAOr9I
       🎓: c-bnFmhXqxLG
       Взаимодействие: c-VmwOCXGi7n
-      Характеристика: c-VS8zn9Mv1i
       Особенности: c-TREX-3DyhO
-      Особенности (удалить): c-Qqgt-x1Son
       git: c-MFLSjb97Zi
       note: c-9UT7LWzRmB
-      Title: c-GeEogtCiiP
       Название: c-Kjzcqo-eVK
       Coda: c-bbYhPwxJ-E
-      Column: c-f7p0qxpK3t
-      Column 2: c-VT3Z1zraMa
+      Когда появляется ?: c-VT3Z1zraMa
       🔲 !: c-XAO2Fylda2
       🔲 ?: c-y5sasmw1Ah
       🦋 ?: c-1yB7obkXC1
@@ -36,10 +31,13 @@ tables:
       Видео-демка: c-NJaoON3YA0
       coins: c-0Fu9hz13YG
       coins.json: c-ILwccnjsXK
+      Как двигается ?: c-Gre_A_gmqO
+      Взаимодействие ?: c-0sVj3wsd1K
+      Особенности ?: c-tUpPlBNMs5
   Когда появляется:
     table_id: grid-tFII21AugD
     title:
-      - Название
+    - Название
     columns:
       Название: c-xjn2KHRKo9
       Описание: c-EUNds5KEm-
@@ -53,7 +51,7 @@ tables:
   Студенты (базовая таблица):
     table_id: grid-HASd73V9BJ
     title:
-      - Студент
+    - Студент
     columns:
       Фамилия: c-qG19S4KwIj
       п1: c-vxLig9dJdb
@@ -88,11 +86,12 @@ tables:
       п🦋.json: c-wQRpEqAsma
       п🎓.json: c-79i7RP46IX
       м3: c-ZcwHku1qrn
+      п4: c-4iU4GQHWC0
   Ваш интерфейс:
     table_id: grid-ku2YscuhoT
     title:
-      - Coda
-      - Задание
+    - Coda
+    - Задание
     columns:
       Задание: c-SdksKFCa0P
       🔲: c-yULiFkZuq3
@@ -124,7 +123,7 @@ tables:
   Репозиторий:
     table_id: grid-Pw_0b22iFe
     title:
-      - Название
+    - Название
     columns:
       Название: c-2O0nZ4Tz-u
       Описание: c-89AK3f5_-w
@@ -139,8 +138,8 @@ tables:
   Монеты:
     table_id: grid-zbdV_FObwW
     title:
-      - value
-      - Название
+    - value
+    - Название
     columns:
       value: c-gzVIBrLrxK
       Название: c-PFCT18khPr
@@ -151,8 +150,8 @@ tables:
   Ваш репозиторий:
     table_id: grid-c70kR0iXei
     title:
-      - Coda
-      - Задание
+    - Coda
+    - Задание
     columns:
       Задание: c-HjAbTdWH-0
       Ваш отчёт по заданию: c-MWx7hBUE7e
@@ -174,15 +173,15 @@ tables:
   Лабы для отчётов:
     table_id: grid-SOnbsNfY4h
     title:
-      - Ico
+    - Ico
     columns:
       Ico: c-HUQjCw0Xox
       Описание: c-8Hw4hM9GIp
   Функции вида «Когда появляется»:
     table_id: grid-LPCI5LlK2K
     title:
-      - Coda
-      - Функция
+    - Coda
+    - Функция
     columns:
       Функция: c-zRccvPc_lh
       Тип: c-Cw8GgdxvkX
@@ -205,15 +204,15 @@ tables:
   Статусы проверки:
     table_id: grid-9rACKd9zqI
     title:
-      - ico
+    - ico
     columns:
       ico: c-oCTtVpUGpF
       Описание статуса: c-cQBc49d4py
   Категории заданий:
     table_id: grid-EaNF0VbQCy
     title:
-      - Группа
-      - Key
+    - Группа
+    - Key
     columns:
       Key: c-E6vsN8HZ_Y
       Описание категории: c--hOmzGyYMJ
@@ -221,8 +220,8 @@ tables:
   Ваша готовность:
     table_id: grid-_LOw9EjbDx
     title:
-      - Coda
-      - Лаба
+    - Coda
+    - Лаба
     columns:
       Лаба: c-k9grsPdN7N
       Оценка?: c-wXLqarLn2f
@@ -234,8 +233,8 @@ tables:
   Ваши замечания:
     table_id: grid-WFVmJ0sdoE
     title:
-      - Coda
-      - Событие
+    - Coda
+    - Событие
     columns:
       Событие: c-hhXq1HTTru
       Замечания: c-n6Z90uqlkh
@@ -245,7 +244,7 @@ tables:
   Варианты игр:
     table_id: grid-atnkc4zP5f
     title:
-      - Название
+    - Название
     columns:
       Краткое описание: c-N_XmB8MARX
       Внешние ссылки: c-eM7y9cFshs
@@ -261,7 +260,7 @@ tables:
   Описание требований на оценки:
     table_id: grid-2HgjjGZ6qG
     title:
-      - value
+    - value
     columns:
       value: c-jfBIAznoaW
       Описание требований: c-Rd2ytFgaph
@@ -274,14 +273,14 @@ tables:
   Лабы для готовности:
     table_id: grid-mthhitBMzA
     title:
-      - Ico
+    - Ico
     columns:
       Ico: c-HUQjCw0Xox
       Описание: c-8Hw4hM9GIp
   Описание статусов готовности:
     table_id: grid-m_6FWTVwH1
     title:
-      - Name
+    - Name
     columns:
       Name: c-csnZl8hnfL
       Описание статуса: c-noeeA8CxoH
@@ -328,8 +327,8 @@ tables:
   Примеры игровых элементов:
     table_id: grid-eXmtnpWurq
     title:
-      - Варианты игр
-      - Название
+    - Варианты игр
+    - Название
     columns:
       Название: c-kpxG-aOPRa
       Описание: c-JSsznURKkm
@@ -342,7 +341,7 @@ tables:
   Идеи заданий:
     table_id: grid-N1enoUxkML
     title:
-      - Название
+    - Название
     columns:
       Название: c-9G7y2paKcm
       Описание: c-V8Jp4aNUaH
