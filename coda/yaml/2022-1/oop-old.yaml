@@ -1,0 +1,375 @@
+telegram_chat: '-436357091'
+doc_id: 7DufWMIETl
+tables:
+  Студенты:
+    table_id: grid-MlfXPnqibB
+    columns:
+      Фамилия: c-T0CNpVN2WP
+      Группа: c-LWOfqIWAhf
+      Nure-почта: c-HXuFXClZad
+      Coda: c-Vn1LcuuQjq
+      Имя: c-4dRv6UAnfv
+      Отчество: c-49SQE5qY_e
+      Вариант игры: c-p7BPIlPsuR
+      Tg: c-UpGvv2iEug
+      telegram-nickname: c-yTtlYUtcv0
+      Студент (+ico): c-9Z2A-9TIgs
+      vid: c-6uIf0vYP8L
+      ✔️2: c-G1jDXSIFZh
+      ✔️3: c-NlvwKnmr9r
+      ready1: c-d2qfgQnztV
+      ready2: c-VbNlx2P3gu
+      ready3: c-6xO46njYXT
+      rep: c-runy6riSK0
+      ✏️2: c-9Nrihlyu9s
+      ✏️3: c-BvLDyLWMDK
+      git: c-TkO3PEf8cy
+      ☁️2: c-qTtPrpQgCA
+      ☁️3: c-xFmI7iAowF
+      ⏱1: c-oqkQIRgAp5
+      ⏱2: c-66H9Sw984-
+      ⏱3: c-zDM1Ahf0fl
+      Почта для coda: c-bWAcMVHuXU
+      Почта для dropbox: c-P72Zwxj3kV
+      'Github #1': c-HkxIey8XHA
+      '...': c-lzvGCoeen2
+      voted: c-95E1iVu6cv
+      Студент: c-jr3lYqeVOY
+      db: c-fJ4cchvABi
+      📝1: c-Xy2Elvagvy
+      📝2: c-5OePSiPOS9
+      📝3: c-yRLO9hByU_
+      Report-link: c-oMlPWrVEu9
+      Rpt: c-4fzVE7-kgC
+      💰1*: c-zfdhtDqmpU
+      mark 1: c-a4SygU2y3N
+      💰2*: c-YDBtuGfXcY
+      mark 2: c-RDU3CO_S3A
+      💰3*: c-nFcMqUfArY
+      mark 3: c-IJYlzauqX3
+      📝1*: c-7kMG8lTvmC
+      📝2*: c-de45zYyqtk
+      📝3*: c-Cbx7dZd9Xa
+      💰 1: c--iBPDcMWph
+      💰 1,2: c-iw4ROoMTMT
+      💰3: c-88FSo9tAPQ
+      ❔1*: c-6ZInGzU98u
+      ❔2*: c-SDmoeB2Rp4
+      ❔3*: c--m5k9XNTSB
+      Защита: c-FbyYl-bMLi
+      '60': c-V0jX0e7Nam
+      '1083': c-eJHMYIrv4Q
+      '1084': c-Ga8j3cUZaC
+      '1085': c-k7UAbefJW3
+      '1089': c-XmQil0W7DU
+      '1094': c-bqNVS4yvFH
+      '1095': c-9IlVOij1Ws
+      '1088': c-R7kZg98kYL
+      '319': c-0GPn69SRwy
+      _60-1: c-lByvVu-0m2
+      _60-2: c-6brkZXNhkD
+      _60-4: c-HfIvojZReL
+      _60-5: c-frhl1oNEiO
+      '1092': c-UB4VvkcIBE
+      _strange: c-in5mRvQkyX
+      '1091': c-fcMUMT7nb0
+      '935': c-G0sBXc4519
+      _60-3: c-QLXX3BJhNh
+      '1093': c-mX2cHnWqNl
+      '1098': c-Qc0w8kft6h
+      '323': c-qIY9XyiAlO
+      '342': c-2aLvuRXMSx
+      '1099': c-KWPmUU95Jw
+      '1101': c-LQmuRAVPOc
+      '75': c-5ZIxNMu83E
+      '90': c-15F3h_l2X_
+      '1100': c-WPWWH4XSkQ
+      _70: c-Gj_qrS0Kpc
+      J/01: c-w1s1j0JW0J
+      J/08: c-etgt0xeJ1-
+      M/18: c-1CbjXXTV99
+      M/27: c-56XAeIptZo
+      M/31: c-Z6TliD5B3h
+      A/30: c-RXebdVIn-P
+      M/25: c-8zRWets-HX
+      M/14: c-P8Q4686Yx2
+      M/21: c-b5Y78lfM88
+      M/28: c-RCUcJIijcl
+      60+: c-RBaxjUdCo0
+      75+: c-X19wXSrlXs
+      90+: c-MAdUu6kpke
+      Итог KT: c-GrUSq-Z0Rr
+      H+: c-LzX_NzOeak
+      b+: c-vWnBwoNSm-
+      Защита F: c-jYynJ21KAH
+      Z-1: c-p4CfXqg0pD
+      Хочу:): c-C8ZZsp6dkE
+      ❔avg: c-9vPRlDox5N
+      Coins ∑: c-NjRR90CfGk
+      Статус (old): c-D1PXlSSDnl
+      1-я защита: c-oGl1iBtMK9
+      G: c-DEoFywtg22
+      J/04: c-RbOqvxLr50
+      '919': c-nnLTdrTmhv
+      Итог лаб: c-FR02mFtDJ5
+      хочу (опрос): c-dHJhf306qD
+      Статус (new): c-E-ri3JhN99
+      Записку посмотреть: c-6yPXFCYTvV
+      Хочу К: c-OTEJw5hBC4
+      📝 K*: c-hXLZOfQxMg
+      📝 K: c-B2VY1D28S2
+      💰 K: c-3IF4G_dVN_
+      Coins K: c-mvKsM2u8nn
+      Защита К: c-j04W1FsCnl
+      Зап. v1: c-eRIl3v8BFS
+      Зап. v2: c-WE5aHbjffh
+      Защита K*: c-CA6hes9A3V
+      З-1: c-HWlK5A6RRb
+      время: c-wnDAzwiJ7W
+      Зап. v3: c-lY1qoils0Z
+      order: c--N6tOeD_M2
+      dropbox K: c-FySJG2gjqu
+      Column 19: c-KuBNSysVRA
+      Тема: c-s84EsQ7O3-
+      github: c-dXS_DzRv2N
+      Copy of Студент (+ico): c-snxp6Xghxd
+      mark1?: c-S4z4sZBAGA
+      mark2?: c-sHs3_bdn3F
+      mark3?: c-YzynVVX4mD
+      KT1-log: c-tPEHII_022
+      KT-2?: c-EXzB2y2aeV
+      KT2-log: c-spuy4MS15F
+      Защ 2lb: c-wPNA8_uS-S
+      KT-username: c-IuLIfwRUMp
+      github-gui: c-l7Glx7595G
+      github-old: c-4guuTiPhE1
+      Защ 2lb?: c-IJEyCOKmnW
+      Защ 3lb?: c-HKt9FWjr--
+      until: c-_KkuyUNBuK
+      Защ 3lb: c-H1eOy4GbXH
+      KT4-log: c-B9T0Bx1cQz
+      until_key: c-7HW-AipNHl
+      '1166': c-aXxlvfF6-L
+      '1167': c-5eRaHpwcIG
+      prefer: c-wDDRWpAy0I
+      prefer_key: c-Wz9fMLRBky
+      ✏️?: c-OwGLhxvk7w
+      git?: c-7_99_gO7DG
+      fix?: c-nCn1Td3xQa
+      when?: c-xvw04oZ4wG
+      mark?: c-1nCldWHiUJ
+      аванс: c-KskwRPXbao
+      💰K: c-PWpama9Xva
+      markK: c-0ogoVCGN_p
+      markK?: c--w5luIV2sA
+      readyK: c-_WxijYMjjQ
+      ⏱K: c-N85sLV1n7u
+      💰1 !: c-pU6xy8VLFg
+      💰3 !: c-oxV10pKyLY
+      💰2 !: c-n315owUwYN
+      + ⏱1: c-SwgtysFKzP
+      + ⏱2: c-4U4bfd6ZEB
+      + ⏱3: c-EdnGYkzE6k
+      Average: c-P_uc5w6C4M
+      fixes status (лабы): c-xZQRuYEphK
+      mark status: c-LzEAgpj6Fn
+      ok?: c--IsRzKf4Yl
+      📝v1: c-vp3WHJ263v
+      📝 v1d: c-iuRaG3IKOB
+      dub: c-h_tda8vH0m
+      gold: c-H7XLPwSbl1
+      предв. готовн.: c-I4LBSRztT-
+      общ код: c-I8j4OmCoMP
+      ЛБ: c-0rEXbWYAsH
+      when K: c-gGrSFhz5R4
+      mark? K: c-nhl4NYQK8w
+      drive: c-NjGCe2skEM
+      '1': c-qtMUpwQ_6k
+      📝v2: c-3b6FOZQxdG
+      '2': c-8e8Ayfq6wj
+      исправления: c-83wpq-69DO
+      form: c-Xlm9tT6Z5F
+      КП: c-mNtW5jcYAN
+      Вердикт: c-5onVTtZ8jO
+      согл: c-Nwof08Gt86
+      Google Drive: c-lX2SdhD1pE
+  Варианты игр:
+    table_id: grid-Rxx0TTww4-
+    columns:
+      Краткое описание: c-N_XmB8MARX
+      Внешние ссылки: c-eM7y9cFshs
+      notion-link: c-CZnRewIQAd
+      Подробнее: c-6NliPCEEv8
+      hide: c-nDj4fUzt5v
+      Студенты: c-lK8IJo02XZ
+      Кто предложил: c-T_ONPn1zql
+      ico: c-KKnkTVw1y7
+      '#': c-s3RvNQxItb
+      Название: c-2Tsf6GJBTd
+      Title: c-gX2GBNvjNd
+  Админка по срокам:
+    table_id: grid-_mLk7G2p-U
+    columns:
+      Дата: c-YN1q5l54dh
+      Группа: c-uDi8pL1kEb
+      Лабораторные и курсовой: c-3HyToH_eJ0
+      Δ (int): c-Ad1WdKwHLs
+      Repr: c-07ijJ1h1bM
+      Title: c-7U-10blINc
+      room: c-7Wtky4LZGZ
+      💬: c-qS3qTiz25h
+      Column: c-EbQbnlT4PR
+      Δ: c-6QjeprflQW
+  Все задания:
+    table_id: grid-xFar8HGtPc
+    columns:
+      Название: c-04z2n_RCCL
+      Категория: c-35qqzOu8YV
+      Монеты: c-xJZZtUXBOK
+      Описание задания: c-tSzCEYXd6m
+      Игры, давшие эту идею: c-JUi5i83h1G
+      Title: c-Noo7r_4iB2
+      use: c-wjXpKprJKW
+      Баллы: c-_7cQVuBcSg
+      new?: c-sZkjzhBNW6
+      🔲 2: c-4iG33oqbUG
+      Тип задания: c-6RGYCMJmFb
+      order: c-byFzUN1xYU
+      🖼 3: c-8Xczsyk1df
+      🎓 K: c-GFFGuXhuI_
+      Created by: c-xqVaJYmVSq
+      state: c-oYHD3lXN4W
+      bonus_status: c-R7AZFFSzWe
+      Created on: c--K-jBkOz7l
+      use-old: c-x2Bw0LNSYL
+      ico: c-Ta2vHcoPAO
+      hidden: c-oY2g9ma03A
+      todo: c-59T8emHtMX
+      🤔: c-5Am_79u_UT
+      ✅: c-OP2_9CrDPP
+  Отчёты:
+    table_id: grid-L-tQs5bJlt
+    columns:
+      Лаба: c-euikzr1AcR
+      Задание: c--4jjiiBMyk
+      Ваш отчёт по заданию: c-W6ZjY2BcRD
+      Студент (old): c-bn0Pve6Hui
+      Статус проверки: c-e7tsBwGQsG
+      Скриншоты или GIFки: c-vxjR3eIVXX
+      coin: c-jrOx86rJ5W
+      ok: c-OBdZGjB2XU
+      q?: c-6XODHQg8ag
+      2x: c-Y-vZl87sKZ
+      'no': c-lxG-CRgAK5
+      '0.5': c-NsQNByX6Ax
+      Баллы: c-9ShOwAcoQy
+      todo: c-tLKPde0Sgk
+      viewed: c-8Q3B5b-PYb
+      Категория: c-P8zpAkLAg2
+      Название: c-lBgdl_2DM_
+      order: c-MLr1UPlVLU
+      Поля, методы: c-Rm_9nLzrJD
+      Нет скринов: c-nEyhKji1Bw
+      Coda: c-fkRFiVF4aB
+      Нет отчёта: c-vTlCauqUdS
+      Нет задания: c-uKDFt-AGew
+      Статусы: c-0nulhayLAp
+      Q?!: c-MNhL4SgCSJ
+      No!: c-S4FCRJs5E1
+      0.5!: c-KAbGL0TapF
+      Ok!: c-hMYPEw6SmP
+      2x!: c-dUMJ95MIeO
+      Классы: c-3hiDh8ti5x
+      Title: c-bQI-8B5N5S
+      K ↓: c-TeMXpSU4eV
+      3 ↑: c-9HIkhDibBP
+      Студент: c-spEeNCr1SP
+      Created on: c-eA_RD0gYD_
+      K ↑: c-ACjLIgd5zN
+      1,2 ↑: c-y9E04xpCug
+      Modified on: c-yysLpxS3Ak
+      Фамилия: c-1t5X2gjMZf
+  Категории заданий:
+    table_id: grid-MrcG6PCJMr
+    columns:
+      Название: c-Uoa47kWS9X
+      Описание: c-RUxVl-V1O7
+      order: c-ZjVBIjJZ1a
+      icon: c-QE9GN9Dj4r
+      Title: c-XUahA9trlM
+      hidden: c-0Ne9nwtml8
+  Поля и методы классов:
+    table_id: grid-grL1StlWUh
+    columns:
+      Класс: c-y2Tbbpju8z
+      Поле или метод: c-UN6X7aCz-S
+      Описание поля или метода: c-FOv5e-i-Zn
+      Какие задания соответствуют: c-0GNGvxuirE
+      Ссылка в github: c-EBTHjR0iwt
+      Coda: c-OulMAcWFuf
+      Title: c-cqa4ghKGSz
+  Классы:
+    table_id: grid-VRcclNmjgh
+    columns:
+      Название: c-SCaPQPiNzB
+      Родитель: c-ik4Ch-r1Yf
+      Описание класса: c-IMi_GpQVJS
+      Ссылка в github: c-N0OCZsyOBe
+      Какие задания соответствуют: c-TGIRYAiQxn
+      Coda: c-HQDrPpqdyp
+  Статусы проверки:
+    table_id: grid-JKUiAe_V5_
+    columns:
+      Название: c-YvW24-fft5
+      Описание: c-R6aPp2OF0g
+  Типы заданий:
+    table_id: grid-K_2ZVdliJn
+    columns:
+      Название: c-NTyPBPwMP_
+      Описание: c-6lp_BaITfy
+      order: c-sg07GdtmGA
+      icon: c-4tcX_AQFqr
+  Монеты:
+    table_id: grid-_fzEUY0ZX6
+    columns:
+      value: c-gzVIBrLrxK
+      Название: c-PFCT18khPr
+      Описание: c-8Heej_upIc
+      '#': c-OuCnNoaIlU
+  Текущая категория:
+    table_id: grid-T8W-NuYEfG
+    columns:
+      Текущая категория: c-x1wqIV98ev
+      Описание: c-_v6-A7jla0
+      Column 3: c-zw5FlhpXOc
+  Ваша готовность:
+    table_id: grid-XmutscPw69
+    columns:
+      Лаба: c-k9grsPdN7N
+      Оценка?: c-wXLqarLn2f
+      Готовность (1): c-VHp5WkOO9C
+      Дата (1) ⚙️: c-iAzN3kYnZ6
+      Отмена (1): c-GrUk9QBZQM
+      Δ (int): c-IjBlDd9dxI
+      Оценка: c-NYOUl9ReeQ
+      Оценка ⚙️: c-6HEi3mvtdI
+      Готовность (2): c-5q-lSSFUAg
+      Дата (1): c-6j4e-I_Aza
+      Coda: c-d-KPrWJ1A5
+      Отмена (2): c-X86xfmE0y1
+      Лаба ⚙️: c-5UWqR1M76k
+      Полная ⚙️: c-R-3_0j3p8K
+      Δ: c-M_xOIL3IUw
+      Дата (2): c-hJq53gcTOj
+      Дата (2) ⚙️: c-oR71fCTwQI
+  Оценка?:
+    table_id: grid-SzEDVuQAFq
+    columns:
+      value: c-jfBIAznoaW
+  Лабы и курсовой:
+    table_id: grid-YctvKpKMly
+    columns:
+      Имя: c-1nCSzqUwFV
+      Описание: c-B56NJ0hWwy
+      short: c-m-ncy-PsIt
+      icon: c-FkSXO_XcH0

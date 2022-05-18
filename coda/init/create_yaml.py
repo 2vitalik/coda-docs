@@ -181,18 +181,18 @@ if __name__ == '__main__':
         #     'telegram_chat': '',
         # },
         # --------------------------------------------------------------------
-        {
-            'semester': '2021-2',
-            'doc_name': 'timetable',
-            'doc_id': 'DQFWMzQIyq',
-            'telegram_chat': -1001443393626,
-        },
-        {
-            'semester': '2021-2',
-            'doc_name': 'adv20',
-            'doc_id': 'DEsp3ZOQ-6',
-            'telegram_chat': -603913534,
-        },
+        # {
+        #     'semester': '2021-2',
+        #     'doc_name': 'timetable',
+        #     'doc_id': 'DQFWMzQIyq',
+        #     'telegram_chat': -1001443393626,
+        # },
+        # {
+        #     'semester': '2021-2',
+        #     'doc_name': 'adv20',
+        #     'doc_id': 'DEsp3ZOQ-6',
+        #     'telegram_chat': -603913534,
+        # },
         # ====================================================================
         {
             'semester': '2022-1',
@@ -206,6 +206,19 @@ if __name__ == '__main__':
             'doc_id': 'sJDDVJj2U5',
             'telegram_chat': -603913534,
         },
+        {
+            'semester': '2022-1',
+            'doc_name': 'oop-old',
+            'doc_id': '7DufWMIETl',
+            'telegram_chat': -436357091,
+        },
+        {
+            'semester': '2022-1',
+            'doc_name': 'oop',
+            'doc_id': 'kGPDB3udhv',
+            'telegram_chat': -436357091,
+        },
+        # ====================================================================
     ]
 
     for doc in docs:
