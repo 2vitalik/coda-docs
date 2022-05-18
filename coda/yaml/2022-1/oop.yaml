@@ -42,6 +42,7 @@ tables:
     - Название
     ignore:
     - used
+    - Add
     columns:
       Название: c-xjn2KHRKo9
       Описание: c-EUNds5KEm-
@@ -96,6 +97,7 @@ tables:
     title:
     - Coda
     - Задание
+    - Особые требования к отчёту
     ignore:
     - coins.json
     columns:
@@ -132,6 +134,7 @@ tables:
     - Название
     ignore:
     - used
+    - Add
     columns:
       Название: c-2O0nZ4Tz-u
       Описание: c-89AK3f5_-w
@@ -148,6 +151,8 @@ tables:
     title:
     - value
     - Название
+    ignore:
+    - '# заданий'
     columns:
       value: c-gzVIBrLrxK
       Название: c-PFCT18khPr
@@ -162,6 +167,7 @@ tables:
     - Задание
     ignore:
     - coins.json
+    - Особые требования к отчёту
     columns:
       Задание: c-HjAbTdWH-0
       Ваш отчёт по заданию: c-MWx7hBUE7e
@@ -343,6 +349,8 @@ tables:
     title:
     - Варианты игр
     - Название
+    ignore:
+    - Add
     columns:
       Название: c-kpxG-aOPRa
       Описание: c-JSsznURKkm
