@@ -6,6 +6,8 @@ tables:
     title:
     - Coda
     - Название
+    ignore:
+    - coins.json
     columns:
       Ваше описание: c-SdksKFCa0P
       🔲: c-yULiFkZuq3
@@ -38,6 +40,8 @@ tables:
     table_id: grid-tFII21AugD
     title:
     - Название
+    ignore:
+    - used
     columns:
       Название: c-xjn2KHRKo9
       Описание: c-EUNds5KEm-
@@ -92,6 +96,8 @@ tables:
     title:
     - Coda
     - Задание
+    ignore:
+    - coins.json
     columns:
       Задание: c-SdksKFCa0P
       🔲: c-yULiFkZuq3
@@ -124,6 +130,8 @@ tables:
     table_id: grid-Pw_0b22iFe
     title:
     - Название
+    ignore:
+    - used
     columns:
       Название: c-2O0nZ4Tz-u
       Описание: c-89AK3f5_-w
@@ -152,6 +160,8 @@ tables:
     title:
     - Coda
     - Задание
+    ignore:
+    - coins.json
     columns:
       Задание: c-HjAbTdWH-0
       Ваш отчёт по заданию: c-MWx7hBUE7e
@@ -182,6 +192,8 @@ tables:
     title:
     - Coda
     - Функция
+    ignore:
+    - coins.json
     columns:
       Функция: c-zRccvPc_lh
       Тип: c-Cw8GgdxvkX

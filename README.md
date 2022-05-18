@@ -2,8 +2,8 @@
 
 ## Changes History
 
-### v.0.6.20
-* Load latest from coda: `oop`
+### v.0.6.21
+* Add some `ignore` for `oop`
 
 ### v.0.6.19
 * Add `title` values for `2022-1/oop.yaml`
