@@ -194,6 +194,8 @@ tables:
     - Функция
     ignore:
     - coins.json
+    - Использовано
+    - ok
     columns:
       Функция: c-zRccvPc_lh
       Тип: c-Cw8GgdxvkX
