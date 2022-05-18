@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.19
+* Add `title` values for `2022-1/oop.yaml`
+
 ### v.0.6.18
 * Add new `2022-1/oop.yaml` and `2022-1/oop-old.yaml` 
 
