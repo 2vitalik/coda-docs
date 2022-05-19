@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.24
+* Add some `ignore` for `oop` (bug-fix)
+
 ### v.0.6.23
 * Add some `ignore` for `oop`
 
