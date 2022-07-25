@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.25
+* Load latest from coda: `oop`
+
 ### v.0.6.24
 * Add some `ignore` for `oop` (bug-fix)
 

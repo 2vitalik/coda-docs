@@ -53,6 +53,9 @@ tables:
       used: c-NK4c9or88e
       Идея взята из: c-NNxhTnozQk
       Кто предложил: c-5R6QtqyruL
+      Created by: c-kr0UHYFSqm
+      Created by 2: c-tU-erybeLr
+      Created by 3: c-T0JvOm_4Gq
   Студенты (базовая таблица):
     table_id: grid-HASd73V9BJ
     title:
@@ -63,11 +66,11 @@ tables:
       Отчество: c-00fpOEF5oT
       Имя: c-6Gojzsuoql
       💬 пз1: c-abiZcFHaEC
-      💬 3 монетки: c-PbkeQN5GoV
+      💬 Первые 3 монетки: c-PbkeQN5GoV
       м1 (3 монетки): c-oDNxrT8GxP
       Общий статус: c-GDjRODz7lw
       м1* (3 монетки, позже): c-hDBRXwkXEF
-      ico (status): c-8NxEbok_PU
+      status.ico: c-8NxEbok_PU
       Общение (1): c-hkTrC5UKEO
       github: c-3VPwma8Z8o
       Вариант игры: c-lyp-9A0N-C
@@ -92,6 +95,65 @@ tables:
       п🎓.json: c-79i7RP46IX
       м3: c-ZcwHku1qrn
       п4: c-4iU4GQHWC0
+      ready voted: c-UT9leTkRHi
+      Start: c-OIhJxzZ-Ht
+      💰 1: c-5BEJLXkqNU
+      💯 1: c-gA4XPFCReZ
+      🔳1 🙏: c-uG1aa55_To
+      ready1: c-35mKmJfotl
+      ready2: c-KiqowJiCQO
+      ready3: c-LUwy8GizzA
+      readyK: c-weA3VYe8RR
+      🔲2 🙏: c-O5xSeSJrlX
+      🦋3 🙏: c-sR91EdXHxo
+      🎓k 🙏: c-J1OdXFDciR
+      🔲2 💯: c-l2C8iDy2ky
+      💰 1,2: c-f5OGLxfsuv
+      💯 1,2: c-vdgdIxiKk2
+      🔳1 💯: c-tDAo_5-bbT
+      🔳1?: c-lPj9LhPshW
+      🔲2?: c-42CK6gVcb3
+      status (sort): c-CLVAcm5jid
+      п8: c-M-trq7vLRt
+      🦋3 💯: c-DDuFgv7EkW
+      💰 3: c-j5EjqM7tdT
+      💰 K: c-MiAfIUw-nn
+      🎓k 💯: c-gO2QofIiZT
+      🦋3?: c-NhhRZZgKgi
+      🎓k?: c-vWvpPzfQ6-
+      💰 (total): c-49YblJ-cl-
+      п5: c-p0ddUH3K4X
+      п6: c-5tN4vq-11c
+      п7: c-HXHDXM1f_D
+      github URL 2: c-psSi-MycQ4
+      lb-avg: c-uGvwocKjrG
+      Защиты: c-5fI6UMAZQa
+      Оценка: c-kCKs4tIfFL
+      Исправления: c-BuZg_d5a38
+      lb1: c-agubpDe64B
+      lb2: c-u_izrnJaOz
+      lb3: c-u3zclbbp5F
+      защ: c--bBVfG-CUZ
+      🥇1: c-r6D1o5uzuq
+      🥇3: c-hEXK_Ljkiu
+      🥇K: c-899QPOGpng
+      github URL 3: c-MVRcbtchyK
+      отч: c-NqEfAy_iSx
+      испр: c-DBHUvamGds
+      queue: c-WhnhKm_EjP
+      screen in tg: c-rjaik-vbij
+      Защита какая?: c-55RO2wEIQ7
+      lb-avg2: c-1_YJ0dO9zF
+      git: c-WIN3locpoG
+      Записка: c-YEDgGgnFvk
+      git 2: c-_n4B2_WL2F
+      coda 2: c-f4TjvEvYgf
+      vote: c-LVsFTZ7fsc
+      ready: c-W8OvuQY0P7
+      gold: c-SOADbPL0jU
+      order: c-SfyEzdB31B
+      fixes: c-8jY4vjRi7B
+      защ 1: c-8VKD_mBZYQ
   Ваш интерфейс:
     table_id: grid-ku2YscuhoT
     title:
@@ -146,6 +208,11 @@ tables:
       Add: c-j_FO1zQAFo
       multi (можно использовать несколько раз): c-z6AMf62f0p
       restriction (ограничение на консоль или GUI): c-moIum1pLMp
+      Created by: c-FMqh-Q3VQ7
+      Created by 2: c-1zdPNG-UKS
+      Created by 3: c-pW7H9yHPoN
+      Created by 4: c-ffKi88ZvEK
+      Created by 5: c-VZpQMSM_-_
   Монеты:
     table_id: grid-zbdV_FObwW
     title:
@@ -261,6 +328,7 @@ tables:
       Coda: c-wm2p95v_OJ
       Дата: c-8v0O_FBBek
       time: c-sKny_4QurE
+      Created on: c-9g02A6K7ID
   Варианты игр:
     table_id: grid-atnkc4zP5f
     title:
@@ -284,6 +352,7 @@ tables:
     columns:
       value: c-jfBIAznoaW
       Описание требований: c-Rd2ytFgaph
+      value-int: c-zptG7puTc0
   Фильтрация отчётов:
     table_id: grid-PQLIhDtiKK
     columns:
@@ -302,9 +371,10 @@ tables:
     title:
     - Name
     columns:
-      Name: c-csnZl8hnfL
+      Название: c-csnZl8hnfL
       Описание статуса: c-noeeA8CxoH
       value: c-ZSEKDo8xJD
+      ico: c-cOB4OU0tod
   Ваши монетки:
     table_id: grid-B6lbgTxwZx
     columns:
@@ -379,3 +449,6 @@ tables:
       💰 Монетки: c-f6EjrQ8WyB
       💯 Оценка: c-1ocJkLSaaZ
       Лабы для готовности: c-Ce4webuLfJ
+      Готовность: c-qfGyT0EuWD
+      Хочу: c-bJEPULi1uc
+      Статус: c-BKSCNSFM7Q
