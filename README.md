@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.29
+* Add `by_codeforces` method in `adv20`
+
 ### v.0.6.28
 * Load latest from coda: `adv20`
 
