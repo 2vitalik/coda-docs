@@ -323,11 +323,15 @@ tables:
       оценка: c-ASqhuqkuc7
       согл: c-aCi5K78YPo
       oki: c-o4gB_W1qI6
+      Codeforces-аккаунт: c-Hn9b1rIIf7
   Обозначения посещений:
     table_id: grid-FJLqonPvHw
     columns:
       Значение: c-xxOPzml3II
       Описание: c-EyYo-vD2Ry
+      Сокращение: c-PHWVbj5xQM
+      hide: c-BnGQkgKjKc
+      value: c-5Gf_IkrP0Y
   Все занятия:
     table_id: grid-sync-1003-Event
     title:
