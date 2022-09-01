@@ -194,29 +194,36 @@ if __name__ == '__main__':
         #     'telegram_chat': -603913534,
         # },
         # ====================================================================
+        # {
+        #     'semester': '2022-1',
+        #     'doc_name': 'timetable',
+        #     'doc_id': '569kzNvqNU',
+        #     'telegram_chat': -1001443393626,
+        # },
+        # {
+        #     'semester': '2022-1',
+        #     'doc_name': 'adv20',
+        #     'doc_id': 'sJDDVJj2U5',
+        #     'telegram_chat': -603913534,
+        # },
+        # {
+        #     'semester': '2022-1',
+        #     'doc_name': 'oop-old',
+        #     'doc_id': '7DufWMIETl',
+        #     'telegram_chat': -436357091,
+        # },
+        # {
+        #     'semester': '2022-1',
+        #     'doc_name': 'oop',
+        #     'doc_id': 'kGPDB3udhv',
+        #     'telegram_chat': -436357091,
+        # },
+        # ====================================================================
         {
-            'semester': '2022-1',
+            'semester': '2022-2',
             'doc_name': 'timetable',
-            'doc_id': '569kzNvqNU',
+            'doc_id': 'Lkl_3M3nDb',
             'telegram_chat': -1001443393626,
-        },
-        {
-            'semester': '2022-1',
-            'doc_name': 'adv20',
-            'doc_id': 'sJDDVJj2U5',
-            'telegram_chat': -603913534,
-        },
-        {
-            'semester': '2022-1',
-            'doc_name': 'oop-old',
-            'doc_id': '7DufWMIETl',
-            'telegram_chat': -436357091,
-        },
-        {
-            'semester': '2022-1',
-            'doc_name': 'oop',
-            'doc_id': 'kGPDB3udhv',
-            'telegram_chat': -436357091,
         },
         # ====================================================================
     ]

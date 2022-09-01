@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.30
+* Add new `2022-2/timetable.yaml`
+
 ### v.0.6.29
 * Add `by_codeforces` method in `adv20`
 
