@@ -3,6 +3,25 @@ doc_id: UWSxxPgVM_
 tables:
   Все студенты:
     table_id: grid-6oWoNzcQNn
+    title:
+    - Студент
+    ignore:
+    - 🏠 ∑
+    - кр.1,2,3 ∑
+    - Кр.1+2,3 ∑
+    - Кр.1,3+2 ∑
+    - Modified on
+    - v+
+    - 'КР #'
+    - 'ДЗ #'
+    - Бонусы?
+    - Итог?
+    - attendances
+    - Column 2
+    - Бонусы (scaling)
+    - Lines
+    - ≈ оценка
+    - lect^
     columns:
       Студент: c-JWp1DUbKdT
       Фамилия: c-yhu4A9Rl_c
@@ -326,6 +345,8 @@ tables:
       value: c-5Gf_IkrP0Y
   Все занятия:
     table_id: grid-sync-1003-Event
+    title:
+    - Дата
     columns:
       Event: value
       Synced: synced
@@ -357,6 +378,14 @@ tables:
       Нд: c-Qur9bQ1KPO
   Домашки (админка):
     table_id: grid-mskk_ijYm7
+    ignore:
+    - Undo
+    - Mark sent
+    - link admin
+    - date_slug
+    - Разбор
+    - Видео разбора
+    - link
     columns:
       №: c-uQakKyV7HY
       Вид: c-nnRNVmYfKT
@@ -392,6 +421,10 @@ tables:
       link: c-IlqFjSazTp
   История изменения итогов:
     table_id: grid-oCRSd-kD2g
+    ignore:
+    - Текущий итог
+    ignore_change:
+    - Студент
     columns:
       Студент: c-y1WEcr2A9D
       Итог: c-dLH39tkcu0
@@ -410,6 +443,8 @@ tables:
       '#': c-2GQ7C71aq8
   Темы проектов:
     table_id: grid-476c-E55G5
+    title:
+    - Тема
     columns:
       Тема: c-xaZ8yxCShU
       Категория: c-uuLEUASzc_
