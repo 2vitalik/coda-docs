@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.33
+* Update classes for `2022-2/tt-21.yaml`
+
 ### v.0.6.32
 * Set titles and ignores for `2022-2/tt-21.yaml`
 
