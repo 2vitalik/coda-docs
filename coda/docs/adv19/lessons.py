@@ -1,4 +1,4 @@
-from coda.docs.adv20.mixins.indexer import IndexerMixin
+from coda.docs.tt21.mixins.indexer import IndexerMixin
 from coda.lib import Coda
 
 
