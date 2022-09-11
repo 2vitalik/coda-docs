@@ -219,12 +219,12 @@ if __name__ == '__main__':
         #     'telegram_chat': -436357091,
         # },
         # ====================================================================
-        {
-            'semester': '2022-2',
-            'doc_name': 'timetable',
-            'doc_id': 'Lkl_3M3nDb',
-            'telegram_chat': -1001443393626,
-        },
+        # {
+        #     'semester': '2022-2',
+        #     'doc_name': 'timetable',
+        #     'doc_id': 'Lkl_3M3nDb',
+        #     'telegram_chat': -1001443393626,
+        # },
         {
             'semester': '2022-2',
             'doc_name': 'tt-21',

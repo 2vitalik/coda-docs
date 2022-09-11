@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.34
+* Load latest from coda: `tt-21`
+
 ### v.0.6.33
 * Update classes for `2022-2/tt-21.yaml`
 

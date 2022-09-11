@@ -33,11 +33,11 @@ tables:
       Яндекс-почта: c-yq52Fv-Fv1
       '1: S/3': c-E2HwtxwoTV
       '2: S/10': c-GDZD5_qPHv
-      '3: A/16': c-_1utn7OnO7
-      '12: J/9': c-GKkml73aDE
-      '5: A/30': c-MO1qNRgCpH
-      '6: M/7': c-kKihVpVyRe
-      '9: M/21': c-xgEkELHvQ2
+      '3: S/17': c-_1utn7OnO7
+      '12: N/19': c-GKkml73aDE
+      '5: O/1': c-MO1qNRgCpH
+      '6: O/8': c-kKihVpVyRe
+      '9: O/29': c-xgEkELHvQ2
       Яндекс-аккаунт: c-Xe_VWfWkfc
       🏠  1: c-ipqjLCH_7g
       🏠  2: c-HMFP5yKsl-
@@ -45,12 +45,12 @@ tables:
       🏠  4: c-Jgyzo4qNXJ
       🏠  5: c-CIDyO0wCq5
       🏠 ∑: c-JrrXptBOmY
-      '13: J/11': c-cZgck8ui-5
-      '8: M/17': c-YLC8ynjG4T
+      '13: N/26': c-cZgck8ui-5
+      '8: O/22': c-YLC8ynjG4T
       ⏰ N/20: c-Vgv7wX4RPb
       🎓 J/15: c-hbW0mY_Czw
-      '11: J/4': c-SVtlEn3acm
-      🗝 J/2: c-0ubwtJbujQ
+      '11: N/12': c-SVtlEn3acm
+      🗝 O/??: c-0ubwtJbujQ
       Review Repo: c-mL5HJn9Ds1
       🔎1.1: c-8IBxlzETUW
       'Review #2 Repo': c-SAb9ITQSZS
@@ -108,7 +108,7 @@ tables:
       кр.2 C↓: c-Mg3YACOziU
       ≈ оценка: c-ujL9K692ko
       пз3: c-YSgl7bJOsn
-      '7: M/14': c-HITi9OElp2
+      '7: O/15': c-HITi9OElp2
       кр.3 A#: c-KakrYDlA4U
       кр.3 B#: c--cGGled3eb
       кр.3 C#: c--h7k50RSFg
@@ -194,8 +194,8 @@ tables:
       v+: c-yVHQc7fpIt
       wiki: c-U3ZcoWylFQ
       Ведомость: c-XSj9o6-oJe
-      '10: M/28': c-yYOfUeeT8f
-      '4: A/23': c-CJJm2ShtPd
+      '10: N/5': c-yYOfUeeT8f
+      '4: S/24': c-CJJm2ShtPd
       КР+: c-u-NwPPkba0
       ДЗ+: c-JNOrmulA_F
       Бонусы?: c-K51UjJK2PL
@@ -259,7 +259,7 @@ tables:
       Имя в Zoom: c-Ype_QsbTpZ
       eff: c-dGbhc5ZBNi
       another_telegram: c-uQEIRaubMX
-      🗝 Jl/16: c-IdLVrpeZoX
+      🗝 D/??: c-IdLVrpeZoX
       Ачивки (подробнее): c-kJkndVQbJY
       '🏠 #': c-GOgCt-tkhO
       '🎈 #': c-jFKeO-7NVj
@@ -295,8 +295,8 @@ tables:
       dots login: c-t7TLvQ_Yvs
       ya-code(1): c-xjxTCKhUnD
       Ачивки (баллы): c-dgKzcW6iAB
-      '14: J/15': c-9RBGJs0xxx
-      🗝 J/16: c-bvV8ZAVHvi
+      '14: D/3': c-9RBGJs0xxx
+      🗝 N/??: c-bvV8ZAVHvi
       '15: J/18': c-tm0op6tuP7
       '16: J/23': c--HJJ1r4fAn
       '17: J/25': c-BVtPoY_JNX
@@ -334,15 +334,22 @@ tables:
       ucup: c-C9gq2jJTLN
       Ведомость= (copy): c-DNxLC_yFQx
       :msg: c-iLq43_I-JW
-      Column: c-ZjSbFY9k52
+      attendance-json: c-ZjSbFY9k52
+      1-A: c-jh-gYA6Vf3
+      2-A: c-p--FmHtCnW
+      3-A: c-lbReuVqM30
   Обозначения посещений:
     table_id: grid-FJLqonPvHw
     columns:
       Значение: c-xxOPzml3II
       Описание: c-EyYo-vD2Ry
-      Сокращение: c-PHWVbj5xQM
+      Сокр: c-PHWVbj5xQM
       hide: c-BnGQkgKjKc
       value: c-5Gf_IkrP0Y
+      Был?: c-AikqXUkpr7
+      Видео?: c-p6hlOU8a5f
+      Опрос?: c-OTSFFDWY_F
+      Чуть?: c-1l3cQFtQbe
   Все занятия:
     table_id: grid-sync-1003-Event
     title:
@@ -467,6 +474,7 @@ tables:
       status: c-qQCMUGXM0c
       Text: c-aiuYKMWA2R
       Защита: c-_tYyIt0kZ5
+      Button: c-icUNtMxo4k
   Бонусы за разборы домашек:
     table_id: grid-dtC7mC4ls8
     columns:
@@ -550,6 +558,7 @@ tables:
       Описание ошибки: c-ZLByELHER5
       Кто нашёл ошибку: c-83VTUHBacD
       Баллы: c-2hPyFDwLbg
+      Теги и баллы 3: c-3I5O_vYFlN
   Commits:
     table_id: grid-sync-1013-Commit
     columns:
@@ -587,6 +596,7 @@ tables:
       Кто предложил: c-n5w-raWgQi
       Code: c-u4WTlApNA6
       Баллы: c-XtLChbCXRS
+      Code 2: c-NC7Z8x4VMy
   Решившие бонусные задачи:
     table_id: grid-5lyjcU2K0v
     columns:
@@ -594,3 +604,4 @@ tables:
       Задача: c-tSqT9L7wUM
       Кто решил: c-LbLgOczHji
       Когда?: c-zue8JfKOPb
+      Column 4: c-LvBKO364kW
