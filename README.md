@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.36
+* `tt-21`: Set special column names for attendance (no dates)
+
 ### v.0.6.35
 * Load latest from coda: `tt-21`
 
