@@ -87,13 +87,13 @@ tables:
       dots5: c-5FSfDqkBUC
       Тесты  ∑: c-X81lUZQ30E
       Проект ∑: c-MYuW_AdHLt
-      ∑        Бонусы: c-f2oqQl3z0_
+      ∑ sum       Бонусы: c-f2oqQl3z0_
       t1977: c-vbuHA3VMsO
       t2096: c-EaUIRHfrIJ
       yand: c-rfszbDsUT4
       yan2: c-eITgSjpHXB
-      пз1: c-biXkb2crVl
-      ош: c-fHMKKiiajZ
+      разб: c-biXkb2crVl
+      идеи: c-fHMKKiiajZ
       пз2: c-4S7LVyqPkU
       дореш (бонус лучшим): c--BFdYFiA8m
       кр.2 A#: c-a_whspKc_o
@@ -222,7 +222,7 @@ tables:
       bonus: c-RzFxa0E6C3
       Created at: c-u7chlT48wD
       оц:чат: c-ROmaPwYZvl
-      absent-bad: c-O0HA5RorIx
+      не пред: c-O0HA5RorIx
       attendances: c-Qc16mK3wrr
       lng+: c-cb83WC_uZa
       cpu: c-Cq3lhLgDw2
@@ -326,8 +326,8 @@ tables:
       Codeforces-аккаунт: c-Hn9b1rIIf7
       Ачивки: c-tFdPgifx9f
       cup: c-RpcnBgpYDj
-      git-inet: c-dNRWNDXavw
-      git-own: c-H_Z9cLwn3H
+      git-i: c-dNRWNDXavw
+      git-o: c-H_Z9cLwn3H
       git-ir: c-mzqQ-daYWi
       cert: c-XhjJNkfrJP
       Зачёт (оценка): c-VlQ-UotJ4I
@@ -336,8 +336,41 @@ tables:
       :msg: c-iLq43_I-JW
       attendance-json: c-ZjSbFY9k52
       1-A: c-jh-gYA6Vf3
-      2-A: c-p--FmHtCnW
-      3-A: c-lbReuVqM30
+      1-B: c-p--FmHtCnW
+      1-C: c-lbReuVqM30
+      1-D: c-hUlklwmRUz
+      1-E: c-DLVG3jdMJy
+      1-F: c-nwUCmPRCJQ
+      bonus 2: c-DrmChSga1D
+      исток: c-XLMeqQO9KZ
+      github: c-inOIw1zAgG
+      1-G: c--iJF_QmNTp
+      2-A: c-3DSGeHeaJm
+      3-A: c-AlCvVu7JSG
+      1A: c-W1rR07BzZA
+      1B: c-xGYAjmX3-L
+      1C: c-SobmsRGYXA
+      1D: c-rWfA30qvQs
+      1E: c-DQrXuaq-kD
+      2A: c-QblHcQt9q7
+      2B: c-J52INcRLL1
+      2C: c-sdXVH8YvPz
+      2D: c-VOnfwNzB6c
+      2E: c-MYewG4p7_W
+      3A: c-9P5O-ut0ej
+      3B: c-syi6gqliV0
+      3C: c-9t51v7SAxs
+      3D: c--1X2D1sN5a
+      3E: c-7eRfKSbdbK
+      4A: c-_zSl4FCTED
+      4B: c-0MyXytruro
+      4C: c-fxtddJS1-z
+      4D: c-r3rGMM2Dz-
+      4E: c-pYNeYM9Pg3
+      F-1: c-mUufy-Aity
+      ∑ Опросы: c-x2sNVBjSBV
+      users.json: c-K4xvnjsaT7
+      :cf: c-fAgaOo798B
   Обозначения посещений:
     table_id: grid-FJLqonPvHw
     columns:
@@ -371,18 +404,22 @@ tables:
       To: c-eJMXEfPRCJ
       Ауд.: c-rj2cRChjEs
       Bot for Video: c-BbCGkZ6XS4
-      Видео: c-AXmx0r3FtE
+      📽: c-AXmx0r3FtE
       Time-метки: c-vdSQTUtH3L
       📽 Видео: c-3ps4laCa3r
       tg5: c-a7K1UEoxYC
       tg1: c-jEkDRTVmGE
-      Посещение: c-swrnn6uiMK
+      Посещение (колонка): c-swrnn6uiMK
       finished: c-RaRwjA1E83
       Telegram Survey: c-WaGA-XGkeM
       status: c-VkD2gaPK4g
       Пользователь: c-a_VmaNeqJC
       status icon: c-NOIAKQe8H2
       Нд: c-Qur9bQ1KPO
+      был?: c-L7aTGt8wDm
+      user: c-YLFg6KJOG9
+      Посещение: c-f2gGL5vaRp
+      📽 Просмотрено: c-OaK2Vomfw1
   Домашки (админка):
     table_id: grid-mskk_ijYm7
     ignore:
@@ -455,7 +492,7 @@ tables:
     columns:
       Тема: c-xaZ8yxCShU
       Категория: c-uuLEUASzc_
-      Лекции?: c-gVN3U2guMm
+      лк?: c-gVN3U2guMm
       Сложность?: c-jXCObkc_c4
       Визуализация: c-xH9Ft0ga6M
       Студент: c-1tuoVf2opC
@@ -474,7 +511,8 @@ tables:
       status: c-qQCMUGXM0c
       Text: c-aiuYKMWA2R
       Защита: c-_tYyIt0kZ5
-      Button: c-icUNtMxo4k
+      Взять тему: c-icUNtMxo4k
+      Coda: c-Id3xTxVs0o
   Бонусы за разборы домашек:
     table_id: grid-dtC7mC4ls8
     columns:
@@ -544,7 +582,7 @@ tables:
     columns:
       ico: c-lsa4tEHE9A
       Название: c-JEyNrv--BA
-      Описание (todo): c-pPfmJTFlz_
+      Описание: c-pPfmJTFlz_
       key: c-1-vZESDxwd
       Title: c-kHI4TpKdy2
       score: c-rCWtADKfkI
@@ -555,10 +593,10 @@ tables:
     table_id: grid-Ioqjk4YjA6
     columns:
       Тема: c-XG8zyM67Lr
-      Описание ошибки: c-ZLByELHER5
-      Кто нашёл ошибку: c-83VTUHBacD
+      Описание ошибки или идеи: c-ZLByELHER5
+      Кто предложил: c-83VTUHBacD
       Баллы: c-2hPyFDwLbg
-      Теги и баллы 3: c-3I5O_vYFlN
+      Тег: c-3I5O_vYFlN
   Commits:
     table_id: grid-sync-1013-Commit
     columns:
@@ -588,6 +626,7 @@ tables:
       Title: c-BXDDlNNmww
       Блок тем: c-cH1oDlseSE
       ok: c-tGYBlCE1Jp
+      order: c-QVBPKrQanr
   Бонусные задачи по темам:
     table_id: grid-pdW2r6tsuP
     columns:
@@ -597,6 +636,7 @@ tables:
       Code: c-u4WTlApNA6
       Баллы: c-XtLChbCXRS
       Code 2: c-NC7Z8x4VMy
+      Баллы за бонусные задачи: c-NX-VuTGA7e
   Решившие бонусные задачи:
     table_id: grid-5lyjcU2K0v
     columns:
