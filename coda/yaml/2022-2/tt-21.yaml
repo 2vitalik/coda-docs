@@ -108,7 +108,7 @@ tables:
       кр.2 C↓: c-Mg3YACOziU
       ≈ оценка: c-ujL9K692ko
       пз3: c-YSgl7bJOsn
-      '7: O/15': c-HITi9OElp2
+      '7: O/8': c-HITi9OElp2
       кр.3 A#: c-KakrYDlA4U
       кр.3 B#: c--cGGled3eb
       кр.3 C#: c--h7k50RSFg
@@ -183,9 +183,9 @@ tables:
       telegram: c-TFD5d6_2PN
       :tg: c-6236PHw-KS
       доп: c-Y1uwuwOPY6
-      K1-A: c-Dc-QgeAaZi
-      K1-B: c-v5BJ8-PI-F
-      K1-C: c-cxv7sNossn
+      K1-A /: c-Dc-QgeAaZi
+      K1-B /: c-v5BJ8-PI-F
+      K1-C /: c-cxv7sNossn
       K2-A: c-bnSptUzcpL
       K2-B: c-DK4EWDakbf
       K2-C: c-PlRFt5Mqwi
@@ -369,8 +369,18 @@ tables:
       4E: c-pYNeYM9Pg3
       F-1: c-mUufy-Aity
       ∑ Опросы: c-x2sNVBjSBV
-      users.json: c-K4xvnjsaT7
+      'cf: users.json': c-K4xvnjsaT7
       :cf: c-fAgaOo798B
+      Copy of 🏠  1: c-rig5Co31CR
+      'attend #': c-3LgiEGjEo-
+      attend^: c-kBvPRmC8OB
+      'tg: users.json': c-7IQx_BcaAO
+      K1A: c-OaDbVKv_Zz
+      K1B: c-x2bq02p1HK
+      K1C: c-lEA9MJnhvj
+      K1D: c-vTjGV1Xzw8
+      K1E: c-eZp4F76WeS
+      ⏰  1: c-63gkgzrcXm
   Обозначения посещений:
     table_id: grid-FJLqonPvHw
     columns:
