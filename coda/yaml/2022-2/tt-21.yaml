@@ -39,10 +39,10 @@ tables:
       'лк6': c-kKihVpVyRe
       'лк9': c-xgEkELHvQ2
       Яндекс-аккаунт: c-Xe_VWfWkfc
-      🏠  1: c-ipqjLCH_7g
-      🏠  2: c-HMFP5yKsl-
-      🏠  3: c-fJRXc4jUr3
-      🏠  4: c-Jgyzo4qNXJ
+      '🏠 #1': c-ipqjLCH_7g
+      '🏠 #2': c-HMFP5yKsl-
+      '🏠 #3': c-fJRXc4jUr3
+      '🏠 #4': c-Jgyzo4qNXJ
       🏠  5: c-CIDyO0wCq5
       🏠 ∑: c-JrrXptBOmY
       'лк13': c-cZgck8ui-5
@@ -92,7 +92,7 @@ tables:
       t2096: c-EaUIRHfrIJ
       yand: c-rfszbDsUT4
       yan2: c-eITgSjpHXB
-      разб: c-biXkb2crVl
+      разб ∑: c-biXkb2crVl
       идеи: c-fHMKKiiajZ
       пз2: c-4S7LVyqPkU
       дореш (бонус лучшим): c--BFdYFiA8m
@@ -381,6 +381,20 @@ tables:
       K1D: c-vTjGV1Xzw8
       K1E: c-eZp4F76WeS
       ⏰  1: c-63gkgzrcXm
+      '⏰ # 2': c-ENx_LgBcTj
+      ⏰  2: c-QXMXUuUpqz
+      K2A: c-9ztWzS0p9p
+      K2B: c-ApPO4YW9Ix
+      K2C: c-SkkDu8YrTG
+      K2D: c-VzleykfZOc
+      K2E: c-pY-Ws0RVHc
+      ⏰ ∑: c-d3NfbxGTWR
+      дз1: c-3cKjHZdEeO
+      кр1: c--mPHM8Q8YS
+      дз2: c-_1qBhzsHHt
+      Column 9: c-xi57cEd8A5
+      github project: c-fAR8uWdDDl
+      дз3: c-MHNvrG8znZ
   Обозначения посещений:
     table_id: grid-FJLqonPvHw
     columns:
