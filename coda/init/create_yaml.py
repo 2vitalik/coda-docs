@@ -225,13 +225,19 @@ if __name__ == '__main__':
         #     'doc_id': 'Lkl_3M3nDb',
         #     'telegram_chat': -1001443393626,
         # },
-        {
-            'semester': '2022-2',
-            'doc_name': 'tt-21',
-            'doc_id': 'UWSxxPgVM_',
-            'telegram_chat': -603913534,
-        },
+        # {
+        #     'semester': '2022-2',
+        #     'doc_name': 'tt-21',
+        #     'doc_id': 'UWSxxPgVM_',
+        #     'telegram_chat': -603913534,
+        # },
         # ====================================================================
+        {
+            'semester': '2023-1',
+            'doc_name': 'timetable',
+            'doc_id': 'yXxNDhyt7r',
+            'telegram_chat': -1001443393626,
+        },
     ]
 
     for doc in docs:
