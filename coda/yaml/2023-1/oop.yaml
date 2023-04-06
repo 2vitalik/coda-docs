@@ -3,6 +3,11 @@ doc_id: 1GDyxjRqoL
 tables:
   Ваші ігрові елементи:
     table_id: grid-0hNJVvOoSd
+    title:
+    - Coda
+    - Назва
+    ignore:
+    - coins.json
     columns:
       Ваш опис: c-SdksKFCa0P
       🔲: c-yULiFkZuq3
@@ -39,6 +44,11 @@ tables:
       Column 3: c-03-8kb21Ks
   Поведінка ігрових елементів:
     table_id: grid-tFII21AugD
+    title:
+    - Название
+    ignore:
+    - used
+    - Add
     columns:
       Название: c-xjn2KHRKo9
       Описание: c-EUNds5KEm-
@@ -64,6 +74,8 @@ tables:
       Column 2: c-heZjtVsWwi
   Студенти (базова таблиця):
     table_id: grid-HASd73V9BJ
+    title:
+    - Студент
     columns:
       Фамилия: c-qG19S4KwIj
       п1: c-vxLig9dJdb
@@ -157,6 +169,12 @@ tables:
       м45?: c-o79NdME_3D
   Звіти щодо інтерфейсу:
     table_id: grid-ku2YscuhoT
+    title:
+    - Coda
+    - Задание
+    ignore:
+    - coins.json
+    - Особые требования к отчёту
     columns:
       Задание: c-SdksKFCa0P
       🔲: c-yULiFkZuq3
@@ -187,6 +205,11 @@ tables:
       Тип: c-iaIAbInAxh
   Завдання:
     table_id: grid-Pw_0b22iFe
+    title:
+    - Название
+    ignore:
+    - used
+    - Add
     columns:
       Название: c-2O0nZ4Tz-u
       Описание: c-89AK3f5_-w
@@ -212,6 +235,11 @@ tables:
       Task taken: c-DV-M3JwuLO
   Монеты:
     table_id: grid-zbdV_FObwW
+    title:
+    - value
+    - Назва
+    ignore:
+    - '# заданий'
     columns:
       value: c-gzVIBrLrxK
       Назва: c-PFCT18khPr
@@ -221,6 +249,12 @@ tables:
       Вид монеты: c-gvKFeyKAof
   Для відео-демок:
     table_id: grid-c70kR0iXei
+    title:
+    - Coda
+    - Задание
+    ignore:
+    - coins.json
+    - Особые требования к отчёту
     columns:
       Задание: c-HjAbTdWH-0
       Ваш отчёт по заданию: c-MWx7hBUE7e
@@ -241,11 +275,20 @@ tables:
       Тип: c-UvWePQl22Q
   Лаби для звітів:
     table_id: grid-SOnbsNfY4h
+    title:
+    - Ico
     columns:
       Ico: c-HUQjCw0Xox
       Опис: c-8Hw4hM9GIp
   Поведінки ваших ігрових елементів:
     table_id: grid-LPCI5LlK2K
+    title:
+    - Coda
+    - Функция
+    ignore:
+    - coins.json
+    - Использовано
+    - ok
     columns:
       Функция: c-zRccvPc_lh
       Тип: c-Cw8GgdxvkX
@@ -268,11 +311,16 @@ tables:
       git2: c-Oyp0PqlzOp
   Статусы проверки:
     table_id: grid-9rACKd9zqI
+    title:
+    - ico
     columns:
       ico: c-oCTtVpUGpF
       Описание статуса: c-cQBc49d4py
   Категории заданий:
     table_id: grid-EaNF0VbQCy
+    title:
+    - Тип
+    - Key
     columns:
       Тип: c-E6vsN8HZ_Y
       Опис (todo): c--hOmzGyYMJ
@@ -280,6 +328,9 @@ tables:
       order: c-KG_BrrBPXI
   Ваша готовность:
     table_id: grid-_LOw9EjbDx
+    title:
+    - Coda
+    - Лаба
     columns:
       Лаба: c-k9grsPdN7N
       Оцінка?: c-wXLqarLn2f
@@ -296,6 +347,9 @@ tables:
       Програма? modified: c-_R81yXLvP2
   Ваши замечания:
     table_id: grid-WFVmJ0sdoE
+    title:
+    - Coda
+    - Що саме
     columns:
       Що саме: c-hhXq1HTTru
       Зауваження від викладача: c-n6Z90uqlkh
@@ -311,6 +365,8 @@ tables:
       Оцінка?: c-2VrvsfrNJz
   Варианты игр:
     table_id: grid-atnkc4zP5f
+    title:
+    - Название
     columns:
       Краткое описание: c-N_XmB8MARX
       Внешние ссылки: c-eM7y9cFshs
@@ -325,6 +381,8 @@ tables:
       Title: c-gX2GBNvjNd
   Опис вимог щодо оцінки:
     table_id: grid-2HgjjGZ6qG
+    title:
+    - value
     columns:
       value: c-jfBIAznoaW
       Описание требований: c-Rd2ytFgaph
@@ -337,11 +395,15 @@ tables:
       Студент: c-FxWcAn5JlI
   Лаби для готовності:
     table_id: grid-mthhitBMzA
+    title:
+    - Ico
     columns:
       Ico: c-HUQjCw0Xox
       Опис: c-8Hw4hM9GIp
   Опис статусів готовності:
     table_id: grid-m_6FWTVwH1
+    title:
+    - Назва
     columns:
       Назва: c-csnZl8hnfL
       Опис статусу: c-noeeA8CxoH
@@ -392,6 +454,11 @@ tables:
       Пояснение: c-KWCbTiqC8w
   Примеры игровых элементов:
     table_id: grid-eXmtnpWurq
+    title:
+    - Варианты игр
+    - Название
+    ignore:
+    - Add
     columns:
       Название: c-kpxG-aOPRa
       Описание: c-JSsznURKkm
@@ -403,6 +470,8 @@ tables:
       Add: c-TbJpbEb6IF
   Идеи заданий:
     table_id: grid-N1enoUxkML
+    title:
+    - Название
     columns:
       Название: c-9G7y2paKcm
       Описание: c-V8Jp4aNUaH

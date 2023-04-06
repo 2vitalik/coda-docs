@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.42
+* Set titles and ignores for `2023-1/oop.yaml`
+
 ### v.0.6.41
 * Add new `2023-1/oop.yaml`
 
