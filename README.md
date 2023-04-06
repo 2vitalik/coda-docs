@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.41
+* Add new `2023-1/oop.yaml`
+
 ### v.0.6.40
 * Load latest from coda: `2023-1/timetable.yaml`
 

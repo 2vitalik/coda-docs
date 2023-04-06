@@ -1,0 +1,451 @@
+telegram_chat: '-436357091'
+doc_id: 1GDyxjRqoL
+tables:
+  Ваші ігрові елементи:
+    table_id: grid-0hNJVvOoSd
+    columns:
+      Ваш опис: c-SdksKFCa0P
+      🔲: c-yULiFkZuq3
+      🦋: c-MasoM6LfPx
+      Коли зʼявляється: c-TYgUfPJ46c
+      Як рухається: c-csV93UZdi5
+      Вид в 🔲: c-YeIJm2Cfym
+      Вид в 🦋: c-cZJYGAOr9I
+      🎓: c-bnFmhXqxLG
+      Взаємодія: c-VmwOCXGi7n
+      Особливості: c-TREX-3DyhO
+      git: c-MFLSjb97Zi
+      note: c-9UT7LWzRmB
+      Назва: c-Kjzcqo-eVK
+      Coda: c-bbYhPwxJ-E
+      Когда появляется ?: c-VT3Z1zraMa
+      🔲 !: c-XAO2Fylda2
+      🔲 ?: c-y5sasmw1Ah
+      🦋 ?: c-1yB7obkXC1
+      🦋 !: c-qyrrKMUAKP
+      🎓 ?: c-AWG52CWfqd
+      🎓 !: c-7koRfdMEIF
+      Видео-демка: c-NJaoON3YA0
+      coins: c-0Fu9hz13YG
+      coins.json: c-ILwccnjsXK
+      Как двигается ?: c-Gre_A_gmqO
+      Взаимодействие ?: c-0sVj3wsd1K
+      Особенности ?: c-tUpPlBNMs5
+  При уничтожении:
+    table_id: grid-Buyo0olohq
+    columns:
+      Column 1: c-PvpQ3OYgQe
+      Column 2: c-m7NkSZ5IPY
+      Column 3: c-03-8kb21Ks
+  Поведінка ігрових елементів:
+    table_id: grid-tFII21AugD
+    columns:
+      Название: c-xjn2KHRKo9
+      Описание: c-EUNds5KEm-
+      color: c-gcM9fBoP1K
+      Тип: c-q2OsKMheT3
+      Add: c-GAz7JdR0oT
+      coins: c-higUuiyzkD
+      used: c-NK4c9or88e
+      Идея взята из: c-NNxhTnozQk
+      Кто предложил: c-5R6QtqyruL
+      Created by: c-kr0UHYFSqm
+      approved: c-KWqJaZm545
+      when created: c-smUpEUKWnq
+      when approved: c-QcgIyUPUp2
+      approved by: c-q_9GyxsNUf
+      who added: c-wWME6Bvyvw
+      ✔️: c-BP34l7h9o7
+      Task taken: c-DvigSU47ak
+  Характеристики:
+    table_id: grid-4U4k_fNIc3
+    columns:
+      Column 1: c-o3fYJ_Ybxs
+      Column 2: c-heZjtVsWwi
+  Студенти (базова таблиця):
+    table_id: grid-HASd73V9BJ
+    columns:
+      Фамилия: c-qG19S4KwIj
+      п1: c-vxLig9dJdb
+      Отчество: c-00fpOEF5oT
+      Имя: c-6Gojzsuoql
+      status.ico: c-8NxEbok_PU
+      github: c-3VPwma8Z8o
+      Вариант игры: c-lyp-9A0N-C
+      Группа: c-34NB4uFXhk
+      Студент: c-qZbyMwboPH
+      coda (почта): c-QRceXRdau2
+      Coda: c-NUOHbLhYee
+      Telegram: c-puUQ7ivf5M
+      tg: c-fuz8K89Gp5
+      п2: c-BHjASkn_4P
+      п3: c-saJBqWpqmR
+      ico (required): c-iQZKqBjgkF
+      github URL: c--T5BKRm4xk
+      🔲 п: c-9bF_qcXtKB
+      п🔲.json: c-dMzES4y0sf
+      🦋 п: c-R54HEPBTOV
+      🎓п: c-0_aOlACT1D
+      п🦋.json: c-wQRpEqAsma
+      п🎓.json: c-79i7RP46IX
+      п4: c-4iU4GQHWC0
+      Start: c-OIhJxzZ-Ht
+      💰 1: c-5BEJLXkqNU
+      💯 1: c-gA4XPFCReZ
+      🔳1 🙏: c-uG1aa55_To
+      ready1: c-35mKmJfotl
+      ready2: c-KiqowJiCQO
+      ready3: c-LUwy8GizzA
+      readyK: c-weA3VYe8RR
+      🔲2 🙏: c-O5xSeSJrlX
+      🦋3 🙏: c-sR91EdXHxo
+      🎓k 🙏: c-J1OdXFDciR
+      🔲2 💯: c-l2C8iDy2ky
+      💰 1,2: c-f5OGLxfsuv
+      💯 1,2: c-vdgdIxiKk2
+      🔳1 💯: c-tDAo_5-bbT
+      🔳1?: c-lPj9LhPshW
+      🔲2?: c-42CK6gVcb3
+      status (sort): c-CLVAcm5jid
+      п8: c-M-trq7vLRt
+      🦋3 💯: c-DDuFgv7EkW
+      💰 3: c-j5EjqM7tdT
+      💰 K: c-MiAfIUw-nn
+      🎓k 💯: c-gO2QofIiZT
+      🦋3?: c-NhhRZZgKgi
+      🎓k?: c-vWvpPzfQ6-
+      💰 (total): c-49YblJ-cl-
+      п5: c-p0ddUH3K4X
+      п6: c-5tN4vq-11c
+      п7: c-HXHDXM1f_D
+      lb-avg: c-uGvwocKjrG
+      lb1: c-agubpDe64B
+      lb2: c-u_izrnJaOz
+      lb3: c-u3zclbbp5F
+      🥇1: c-r6D1o5uzuq
+      🥇3: c-hEXK_Ljkiu
+      🥇K: c-899QPOGpng
+      lb-avg2: c-1_YJ0dO9zF
+      +2 ?: c-JDlM4lThLy
+      оц-к: c-Hkfx4DA6y0
+      ->: c-DKNFSKCmEA
+      ФИ: c-eyp3V5kv0X
+      '#': c-F4O7w2PcBA
+      м1: c-X18Bfdn3zS
+      м2: c-d5o-ZYzsvN
+      м3: c-tjR09OqdiK
+      м1?: c-5b2l_58Cmq
+      mark?: c-T91V-q0HeI
+      votes2: c-O6lvcPvQlU
+      Zoom-імена: c-7S6UmOvgBx
+      📽 п1: c-jAyeOoL_X2
+      📽 п2: c-BpTIOCQ4n_
+      📽 п3: c-TCTvHGPBfl
+      📽 п4: c-8dEZnROFaV
+      📽 п5: c-usUcsALDd3
+      📽 п6: c-WwQCHpB6me
+      📽 п7: c-q_jdqg1mbn
+      📽 п8: c-zbbalmXWo9
+      🎁 tg (+0.5): c-7k1jgXkgFV
+      м4: c-AtzsMg-FUp
+      м5: c-vGW7BH03XC
+      🔲 м: c-MH_CgHK5Uo
+      Coda (пошта): c-7JGXBmfJ6M
+      м23?: c-9lkwDauC1p
+      🎁 coda (+0.5): c-uRvDmZXRF2
+      🎁 github: c-gPF8_A_wG0
+      м45?: c-o79NdME_3D
+  Звіти щодо інтерфейсу:
+    table_id: grid-ku2YscuhoT
+    columns:
+      Задание: c-SdksKFCa0P
+      🔲: c-yULiFkZuq3
+      🦋: c-MasoM6LfPx
+      OnDestroy: c-L3xgjuwgG_
+      Вид в 🔲: c-YeIJm2Cfym
+      Вид в 🦋: c-cZJYGAOr9I
+      🎓: c-bnFmhXqxLG
+      Характеристика: c-VS8zn9Mv1i
+      Особенности (удалить): c-Qqgt-x1Son
+      git: c-EpTtW_pQ4f
+      Ваше описание: c-LIAZ9OQQBs
+      note: c-_hwvDshV6x
+      Особые требования к отчёту: c-u7mU1vyepU
+      Coda: c-yQm2RONRsU
+      🔲 ?: c-eWjDTVpgu3
+      🦋 ?: c-4al8pC2XCY
+      🎓 ?: c-ngSr_5TeL4
+      🔲 !: c-WF1lJbC9RA
+      🦋 !: c-OS1OvEoZty
+      🎓 !: c-yntfLOwnAA
+      Demo Video: c-Zk-APpHeFm
+      coins: c-Y1BvWP3NBM
+      bronze: c-iamm5uI9hB
+      silver: c-uqeu2nlUu6
+      gold: c-l4GVll9i7K
+      coins.json: c-D65S1p-Y8o
+      Тип: c-iaIAbInAxh
+  Завдання:
+    table_id: grid-Pw_0b22iFe
+    columns:
+      Название: c-2O0nZ4Tz-u
+      Описание: c-89AK3f5_-w
+      coins: c-N_CwxOX5K6
+      Тип: c-uGgaPEBfMx
+      Кто предложил: c-92W1jJeVMI
+      Особые требования к отчёту: c-dclwfK_mzI
+      used in interface: c-kkp4Q72_cf
+      Add: c-j_FO1zQAFo
+      multi (можно использовать несколько раз): c-z6AMf62f0p
+      restriction (ограничение на консоль или GUI): c-moIum1pLMp
+      Created by: c-FMqh-Q3VQ7
+      who added: c-VZpQMSM_-_
+      used in maintenance: c-y8dw1WToXL
+      ✔️: c-cbz0eP8_u8
+      🧩: c-l9yiF1zhgz
+      approve: c-MraoGrAvEw
+      when approved: c-QlA1pl1Q3y
+      approved by: c-pf-ePHVJw-
+      when created: c-VGrtainJiS
+      Категорія: c-IwDMjuFdVA
+      Группа: c-LzdXaUecQz
+      Task taken: c-DV-M3JwuLO
+  Монеты:
+    table_id: grid-zbdV_FObwW
+    columns:
+      value: c-gzVIBrLrxK
+      Назва: c-PFCT18khPr
+      Опис завдання: c-8Heej_upIc
+      '# заданий': c-OuCnNoaIlU
+      coins: c-FeJvgCZIwB
+      Вид монеты: c-gvKFeyKAof
+  Для відео-демок:
+    table_id: grid-c70kR0iXei
+    columns:
+      Задание: c-HjAbTdWH-0
+      Ваш отчёт по заданию: c-MWx7hBUE7e
+      Куда?: c-QhKWT-Ip-w
+      Особые требования к отчёту: c-5YxgET9uPD
+      Coda: c-Jls-kXt87j
+      status: c--GJ21c-46m
+      status !: c-RPL90vOacu
+      note: c-IUpMq62G15
+      Short Name: c-SA6P3-XEMu
+      git: c-yVPnUOQvE2
+      Title: c-zYQ6VStyZo
+      coins: c-AF3OcE83dn
+      bronze: c-2Vgyus8z-1
+      silver: c-TVcuPkD7iP
+      gold: c-gXBJ8_VnzS
+      coins.json: c-3RgJzz7WSW
+      Тип: c-UvWePQl22Q
+  Лаби для звітів:
+    table_id: grid-SOnbsNfY4h
+    columns:
+      Ico: c-HUQjCw0Xox
+      Опис: c-8Hw4hM9GIp
+  Поведінки ваших ігрових елементів:
+    table_id: grid-LPCI5LlK2K
+    columns:
+      Функция: c-zRccvPc_lh
+      Тип: c-Cw8GgdxvkX
+      git: c-dwKlKAPHVs
+      note: c-DA5fp_UYwj
+      Ваше описание: c-R1T-Mix0GT
+      Coda: c-89tbN3qgue
+      Использовано: c-FWsjJNYswN
+      ok: c-sZDwHQO7Vv
+      Куда?: c-hc0D2T2Ggy
+      status: c-YHNqhXMGzy
+      status !: c-jZcvpo792E
+      Иллюстрация: c-89eve4n59m
+      Видео-демка: c-ojDIBbmiFg
+      coins: c-6siQ6gPB94
+      bronze: c-yo1ee8aWso
+      silver: c-r_vZF0bmRz
+      gold: c-nLnZb7d-1t
+      coins.json: c-0x1JLj5bOj
+      git2: c-Oyp0PqlzOp
+  Статусы проверки:
+    table_id: grid-9rACKd9zqI
+    columns:
+      ico: c-oCTtVpUGpF
+      Описание статуса: c-cQBc49d4py
+  Категории заданий:
+    table_id: grid-EaNF0VbQCy
+    columns:
+      Тип: c-E6vsN8HZ_Y
+      Опис (todo): c--hOmzGyYMJ
+      Категорія: c-LErtYgI5Al
+      order: c-KG_BrrBPXI
+  Ваша готовность:
+    table_id: grid-_LOw9EjbDx
+    columns:
+      Лаба: c-k9grsPdN7N
+      Оцінка?: c-wXLqarLn2f
+      Coda: c-d-KPrWJ1A5
+      Лаба ⚙️: c-5UWqR1M76k
+      Статус готовности: c--w4yskJxpe
+      Modified on: c-a41YG5MR0H
+      value: c-QdW-JyzQeJ
+      Coda-звіти?: c-v8UkSXs3SH
+      Git-репозиторій?: c-Y4zQFdMCqX
+      Захист?: c-LTMe5h4eQM
+      Відео-демки?: c-uFODJqTfFa
+      Програма?: c-GlEIsqgar1
+      Програма? modified: c-_R81yXLvP2
+  Ваши замечания:
+    table_id: grid-WFVmJ0sdoE
+    columns:
+      Що саме: c-hhXq1HTTru
+      Зауваження від викладача: c-n6Z90uqlkh
+      Coda: c-wm2p95v_OJ
+      Дата: c-8v0O_FBBek
+      Трив.: c-sKny_4QurE
+      Created on: c-9g02A6K7ID
+      Ваш звіт щодо ваших виправлень: c-XRo7ckhagi
+      when — Зауваження changed: c-MZ1uRF0bEN
+      who — Зауваження changed: c--xYoWSbZSK
+      when — Виправлення changed: c-N1olq8osK8
+      who — Виправлення changed: c-xHjyi5qQQL
+      Оцінка?: c-2VrvsfrNJz
+  Варианты игр:
+    table_id: grid-atnkc4zP5f
+    columns:
+      Краткое описание: c-N_XmB8MARX
+      Внешние ссылки: c-eM7y9cFshs
+      notion-link: c-CZnRewIQAd
+      Подробнее: c-6NliPCEEv8
+      hide: c-nDj4fUzt5v
+      Взято: c-lK8IJo02XZ
+      Кто предложил: c-T_ONPn1zql
+      ico: c-KKnkTVw1y7
+      '#': c-s3RvNQxItb
+      Название: c-2Tsf6GJBTd
+      Title: c-gX2GBNvjNd
+  Опис вимог щодо оцінки:
+    table_id: grid-2HgjjGZ6qG
+    columns:
+      value: c-jfBIAznoaW
+      Описание требований: c-Rd2ytFgaph
+      value-int: c-zptG7puTc0
+  Фильтрация отчётов:
+    table_id: grid-PQLIhDtiKK
+    columns:
+      Coda: c-Jw5volH4ko
+      Coda-Filter: c-tJaH3NHpL7
+      Студент: c-FxWcAn5JlI
+  Лаби для готовності:
+    table_id: grid-mthhitBMzA
+    columns:
+      Ico: c-HUQjCw0Xox
+      Опис: c-8Hw4hM9GIp
+  Опис статусів готовності:
+    table_id: grid-m_6FWTVwH1
+    columns:
+      Назва: c-csnZl8hnfL
+      Опис статусу: c-noeeA8CxoH
+      value: c-ZSEKDo8xJD
+      ico: c-cOB4OU0tod
+      Прога: c-59NKD2YDAE
+      Git: c-nrLP4tQ1Oc
+      Демки: c-jJWD3QSCTy
+      Звіти: c-zZChlyr0Q_
+      Захист: c-YuwKgoR3sx
+  Ваші монетки:
+    table_id: grid-B6lbgTxwZx
+    columns:
+      🔲 Монетки: c-ZI3_cfNqqu
+      🔲 💰  coins: c-OgTDko2da-
+      🦋 Монетки: c-hFfmMw6fCV
+      🎓 Монетки: c-MKOMGvMM6_
+      🦋💰   coins: c-leA4Mo3vXe
+      🎓💰  coins: c-7d55Oq3b9d
+      Тип: c-_HDL3UeJW6
+      Tasks 🔲: c-mrbcbxKibZ
+      Tasks 🦋: c-IyTvybhWJ1
+      Tasks 🎓: c-jW-9UrwfaP
+      🔲 🥉: c-KupZhx03Jm
+      🔲 🥈: c-QLvoZc1rSA
+      🔲 🥇: c-9CjLu9Zttb
+      ∑ Сумма: c-iJUYf5dwCM
+      🦋 🥇: c-xQ1TNbtB1q
+      🎓 🥇: c-bbP3-NtEIM
+      🦋 🥈: c-Mohd-4jALH
+      🦋 🥉: c-NERd7eZL_t
+      🎓 🥈: c-EZkgjJAmla
+      🎓 🥉: c-swTm2-DZqm
+      Категорія: c-jINAtHYDYr
+  Діапазони оцінок та монетки:
+    table_id: grid-N1ER_AeEyi
+    columns:
+      .: c-qHBhlSwhng
+      75-90: c-le4O7hGTsW
+      90-96: c-RdQSzXIeei
+      96-100: c-BjvFmN6b_Z
+      hidden: c-TaPd-qP4Jj
+  Конвертація монеток:
+    table_id: grid-NJAjQbg54Q
+    columns:
+      From: c-VAzdpIevZl
+      To: c-G8C2n_YmeW
+      Пояснение: c-KWCbTiqC8w
+  Примеры игровых элементов:
+    table_id: grid-eXmtnpWurq
+    columns:
+      Название: c-kpxG-aOPRa
+      Описание: c-JSsznURKkm
+      Варианты игр: c-L0VTyv4Jxn
+      Когда появляется: c-Xjx70n4Nhj
+      Как двигается: c--xQhPHvb-X
+      Взаимодействие: c-WagztYVzZo
+      Особенности: c-IS8bfUIw0Y
+      Add: c-TbJpbEb6IF
+  Идеи заданий:
+    table_id: grid-N1enoUxkML
+    columns:
+      Название: c-9G7y2paKcm
+      Описание: c-V8Jp4aNUaH
+      Кто предложил: c-6HPSbafeV4
+      Монеты: c-ddK1XzZhmE
+      Вид задания: c-OxICcKOFk6
+      tmp: c-WvA15nUtmp
+      prev: c-Fy37GQ5mhU
+  Ваши попередні ітоги:
+    table_id: grid-Bib7IEVq0B
+    columns:
+      Вид роботи: c-xnhRsJzY3y
+      💰 Монетки: c-f6EjrQ8WyB
+      💯 Оцінка: c-1ocJkLSaaZ
+      Лабы для готовности: c-Ce4webuLfJ
+      Готовность: c-qfGyT0EuWD
+      Хочу: c-bJEPULi1uc
+      Статус: c-BKSCNSFM7Q
+  Готовность (log):
+    table_id: grid-qQ7PfDnMh4
+    columns:
+      Name: c-hrCVisQ7id
+      Програма?: c-7m31juaXKC
+      Git-репозиторій?: c-DnXQw-s3jB
+      Modified on: c-xnA3Gn4DGt
+      Coda: c-6M4JdvDN2r
+      Лаба: c-XXfm5Ov0SQ
+      Оцінка?: c-fy4rBGV1_g
+      Відео-демки?: c-j7mgfMHRGq
+      Coda-звіти?: c-StyQ--kJYS
+      Захист?: c-Ry1Bf0MJtm
+  Календар дедлайнів:
+    table_id: grid-r-rAo5br49
+    columns:
+      Дата: c-diXN52dUuz
+      Лаби: c-vBD_SUUN1e
+      Примітки: c-jnGrcnN7PV
+      Монетки: c-MgvVDrIwxZ
+      ПЗ: c-NaDO-tX2mN
+  Практичні заняття:
+    table_id: grid-aBc_NCgq2v
+    columns:
+      Дата: c-diXN52dUuz
+      '#': c-vBD_SUUN1e
+      Що на ньому було?: c-jnGrcnN7PV
+      Хвилин: c-lJm-YY_K06
