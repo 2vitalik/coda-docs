@@ -34,12 +34,28 @@ tables:
   Группы:
     table_id: grid-E_SiIa5N8z
     columns:
-      Название: c-QsAsfmqISS
+      Группа: c-QsAsfmqISS
       Спец: c-fGFqAOpzlT
       Год: c-nB_fOuzhI1
       Номер: c-g9gApUjf9c
       Канал (id): c-FxoWDsSxcj
       potok_slug: c-zoE71ZT3MQ
+      Icons: c-TK7gv1_8Gy
+      В чате: c-GLcora3m0o
+      Опрос: c-Lve3xFlRqy
+      '% опрос': c-HPzj4zXJlw
+      Лидер: c-RcmddyvI8w
+      '% лидер': c-QpevgwQMO7
+      В боте: c-ES3Cs1dhVr
+      '% боте': c-SOv8aFSMWe
+      Опрос modified: c-QUFxQiU2S4
+      done: c-_PQ_bLvJmB
+      В опросе: c-Q3IhhLPNtJ
+      date2: c-HSP251DGU6
+      Column 14: c-P7SgIj0T51
+      Copy of % опрос: c-QpKyr9ATmX
+      Второй тур?: c-X_QqGk1hfG
+      fixed: c-HKdqipEhtV
   Предметы:
     table_id: grid-iseKe-hrQR
     columns:

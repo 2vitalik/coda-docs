@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.43
+* Load latest from coda: `oop` and `timetable`
+
 ### v.0.6.42
 * Set titles and ignores for `2023-1/oop.yaml`
 
