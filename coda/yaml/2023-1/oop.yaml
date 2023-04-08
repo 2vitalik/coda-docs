@@ -8,6 +8,12 @@ tables:
     - Назва
     ignore:
     - coins.json
+    - 🔲 !
+    - 🔲 ?
+    - 🦋 !
+    - 🦋 ?
+    - 🎓 !
+    - 🎓 ?
     columns:
       Ваш опис: c-SdksKFCa0P
       🔲: c-yULiFkZuq3
@@ -76,6 +82,10 @@ tables:
     table_id: grid-HASd73V9BJ
     title:
     - Студент
+    ignore:
+    - п🔲.json
+    - п🦋.json
+    - п🎓.json
     columns:
       Фамилия: c-qG19S4KwIj
       п1: c-vxLig9dJdb
@@ -175,6 +185,12 @@ tables:
     ignore:
     - coins.json
     - Особые требования к отчёту
+    - 🔲 !
+    - 🔲 ?
+    - 🦋 !
+    - 🦋 ?
+    - 🎓 !
+    - 🎓 ?
     columns:
       Задание: c-SdksKFCa0P
       🔲: c-yULiFkZuq3
@@ -210,6 +226,8 @@ tables:
     ignore:
     - used
     - Add
+    - used in interface
+    - used in maintenance
     columns:
       Название: c-2O0nZ4Tz-u
       Описание: c-89AK3f5_-w
@@ -255,6 +273,12 @@ tables:
     ignore:
     - coins.json
     - Особые требования к отчёту
+    - status
+    - status !
+    - coins
+    - bronze
+    - silver
+    - gold
     columns:
       Задание: c-HjAbTdWH-0
       Ваш отчёт по заданию: c-MWx7hBUE7e
@@ -289,6 +313,12 @@ tables:
     - coins.json
     - Использовано
     - ok
+    - status
+    - status !
+    - coins
+    - bronze
+    - silver
+    - gold
     columns:
       Функция: c-zRccvPc_lh
       Тип: c-Cw8GgdxvkX
@@ -492,6 +522,9 @@ tables:
       Статус: c-BKSCNSFM7Q
   Готовность (log):
     table_id: grid-qQ7PfDnMh4
+    title:
+      - Coda
+      - Лаба
     columns:
       Name: c-hrCVisQ7id
       Програма?: c-7m31juaXKC
