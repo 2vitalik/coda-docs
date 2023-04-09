@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.45
+* Minor changes in titles and ignores for `oop`
+
 ### v.0.6.44
 * Set more titles and ignores for `oop`
 
