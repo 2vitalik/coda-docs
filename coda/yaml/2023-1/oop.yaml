@@ -103,7 +103,7 @@ tables:
       tg: c-fuz8K89Gp5
       п2: c-BHjASkn_4P
       п3: c-saJBqWpqmR
-      ico (required): c-iQZKqBjgkF
+      ico no github: c-iQZKqBjgkF
       github URL: c--T5BKRm4xk
       🔲 п: c-9bF_qcXtKB
       п🔲.json: c-dMzES4y0sf
@@ -178,6 +178,17 @@ tables:
       🎁 coda (+0.5): c-uRvDmZXRF2
       🎁 github: c-gPF8_A_wG0
       м45?: c-o79NdME_3D
+      ⏰м1: c-rokPaW5G-M
+      ⏰м2: c-7cm4dvNfI_
+      ⏰м3: c-Zd4phdyVGV
+      github modified: c-R4QlPfMLiy
+      github not empty: c-Cwg2FKlCq8
+      пп ∑: c-vroDM-WDLm
+      ico no coda: c-OB4-TvDKIm
+      ico пз: c-zpZ7BtqEys
+      ico: c-wzNu0rmdy3
+      telegram_id: c-17avCuVzQ3
+      Registered in bot: c-lZbyFzL0vh
   Звіти щодо інтерфейсу:
     table_id: grid-ku2YscuhoT
     title:
@@ -193,7 +204,7 @@ tables:
     - 🎓 !
     - 🎓 ?
     columns:
-      Задание: c-SdksKFCa0P
+      Задание ⚙️: c-SdksKFCa0P
       🔲: c-yULiFkZuq3
       🦋: c-MasoM6LfPx
       OnDestroy: c-L3xgjuwgG_
@@ -220,6 +231,7 @@ tables:
       gold: c-l4GVll9i7K
       coins.json: c-D65S1p-Y8o
       Тип: c-iaIAbInAxh
+      Задание: c-mZ0dzbKL5u
   Завдання:
     table_id: grid-Pw_0b22iFe
     title:
@@ -281,7 +293,7 @@ tables:
     - silver
     - gold
     columns:
-      Задание: c-HjAbTdWH-0
+      Задание ⚙️: c-HjAbTdWH-0
       Ваш отчёт по заданию: c-MWx7hBUE7e
       Куда?: c-QhKWT-Ip-w
       Особые требования к отчёту: c-5YxgET9uPD
@@ -298,6 +310,7 @@ tables:
       gold: c-gXBJ8_VnzS
       coins.json: c-3RgJzz7WSW
       Тип: c-UvWePQl22Q
+      Задание: c-73pIzBfyET
   Лаби для звітів:
     table_id: grid-SOnbsNfY4h
     title:
@@ -472,7 +485,7 @@ tables:
     table_id: grid-N1ER_AeEyi
     columns:
       .: c-qHBhlSwhng
-      75-90: c-le4O7hGTsW
+      70-90: c-le4O7hGTsW
       90-96: c-RdQSzXIeei
       96-100: c-BjvFmN6b_Z
       hidden: c-TaPd-qP4Jj
@@ -523,8 +536,8 @@ tables:
   Готовность (log):
     table_id: grid-qQ7PfDnMh4
     title:
-      - Coda
-      - Лаба
+    - Coda
+    - Лаба
     columns:
       Name: c-hrCVisQ7id
       Програма?: c-7m31juaXKC
