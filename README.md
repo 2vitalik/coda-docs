@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.47
+* Removed some columns in `oop`
+
 ### v.0.6.46
 * Load latest from coda: `oop`
 
