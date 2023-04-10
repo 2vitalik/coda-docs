@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.49
+* Removed some columns in `oop`
+
 ### v.0.6.48
 * Several changes in `oop`
 
