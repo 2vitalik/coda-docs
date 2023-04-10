@@ -241,6 +241,11 @@ tables:
     - Add
     - used in interface
     - used in maintenance
+    - Created by
+    ignore_insert:
+    - approved by
+    - when approved
+    - who added
     columns:
       Название: c-2O0nZ4Tz-u
       Описание: c-89AK3f5_-w
@@ -260,7 +265,6 @@ tables:
       when approved: c-QlA1pl1Q3y
       approved by: c-pf-ePHVJw-
       when created: c-VGrtainJiS
-      Категорія: c-IwDMjuFdVA
       Группа: c-LzdXaUecQz
       Task taken: c-DV-M3JwuLO
   Монеты:
