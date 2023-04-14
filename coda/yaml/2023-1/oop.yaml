@@ -8,6 +8,7 @@ tables:
     - Назва
     ignore:
     - coins.json
+    - coins
     - 🔲 !
     - 🔲 ?
     - 🦋 !
@@ -194,6 +195,7 @@ tables:
     title:
     - Coda
     - Задание
+    - Тип
     ignore:
     - coins.json
     - Особые требования к отчёту
@@ -203,6 +205,11 @@ tables:
     - 🦋 ?
     - 🎓 !
     - 🎓 ?
+    - coins
+    - bronze
+    - silver
+    - gold
+    - Задание ⚙️
     columns:
       Задание ⚙️: c-SdksKFCa0P
       🔲: c-yULiFkZuq3
@@ -326,6 +333,7 @@ tables:
     title:
     - Coda
     - Функция
+    - Тип
     ignore:
     - coins.json
     - Использовано

@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.50
+* Set more titles and ignores for `oop`
+
 ### v.0.6.49
 * Removed some columns in `oop`
 
