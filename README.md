@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.51
+* Load latest from coda: `oop`
+
 ### v.0.6.50
 * Set more titles and ignores for `oop`
 

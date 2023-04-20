@@ -43,6 +43,8 @@ tables:
       Как двигается ?: c-Gre_A_gmqO
       Взаимодействие ?: c-0sVj3wsd1K
       Особенности ?: c-tUpPlBNMs5
+      Студент: c-cqL5mNJcIp
+      ok: c-AADPzgqEHi
   При уничтожении:
     table_id: grid-Buyo0olohq
     columns:
@@ -190,6 +192,23 @@ tables:
       ico: c-wzNu0rmdy3
       telegram_id: c-17avCuVzQ3
       Registered in bot: c-lZbyFzL0vh
+      м6: c-4K3bs8zOiH
+      м7: c-7XbyY_8A1a
+      лб1?: c-HLJc7zZSon
+      git? - очень долго не регили...: c-f2qn1uxI_k
+      +2 за 1 лабу?: c-5kLqc2VLX8
+      лб1 час!: c-mAyN8AGuk_
+      m?: c-BxFuo8wTwI
+      🎁 bot (+0.5): c-5NA8YuIHW9
+      м8: c-574L9jlxV3
+      '+2': c-BP70OGO2zm
+      m1?: c-1SbJKdwgVL
+      м1f: c-9-YXN_ek7e
+      м3f: c-T08TGZbzrh
+      coda-elem: c-0xNH4yQTSH
+      coda-interf: c-Aml3U_Khrs
+      coda-video: c-gQx1Z5pPjQ
+      coda-events: c-hfHXLzfI81
   Звіти щодо інтерфейсу:
     table_id: grid-ku2YscuhoT
     title:
@@ -221,7 +240,7 @@ tables:
       Характеристика: c-VS8zn9Mv1i
       Особенности (удалить): c-Qqgt-x1Son
       git: c-EpTtW_pQ4f
-      Ваше описание: c-LIAZ9OQQBs
+      Ваш опис: c-LIAZ9OQQBs
       note: c-_hwvDshV6x
       Особые требования к отчёту: c-u7mU1vyepU
       Coda: c-yQm2RONRsU
@@ -239,6 +258,8 @@ tables:
       coins.json: c-D65S1p-Y8o
       Тип: c-iaIAbInAxh
       Задание: c-mZ0dzbKL5u
+      Студент: c-bLhbEfXfIn
+      ok: c-ZYKaWkPJwF
   Завдання:
     table_id: grid-Pw_0b22iFe
     title:
@@ -306,7 +327,6 @@ tables:
       Задание ⚙️: c-HjAbTdWH-0
       Ваш отчёт по заданию: c-MWx7hBUE7e
       Куда?: c-QhKWT-Ip-w
-      Особые требования к отчёту: c-5YxgET9uPD
       Coda: c-Jls-kXt87j
       status: c--GJ21c-46m
       status !: c-RPL90vOacu
@@ -321,6 +341,10 @@ tables:
       coins.json: c-3RgJzz7WSW
       Тип: c-UvWePQl22Q
       Задание: c-73pIzBfyET
+      Додатковий опис: c-DO02ZCj31c
+      Студент: c-38CnFbRw8f
+      ok: c-EmzaU-seA1
+      Created on: c-dRr9bfDkoI
   Лаби для звітів:
     table_id: grid-SOnbsNfY4h
     title:
@@ -352,7 +376,7 @@ tables:
       Ваше описание: c-R1T-Mix0GT
       Coda: c-89tbN3qgue
       Использовано: c-FWsjJNYswN
-      ok: c-sZDwHQO7Vv
+      ok?: c-sZDwHQO7Vv
       Куда?: c-hc0D2T2Ggy
       status: c-YHNqhXMGzy
       status !: c-jZcvpo792E
@@ -364,6 +388,8 @@ tables:
       gold: c-nLnZb7d-1t
       coins.json: c-0x1JLj5bOj
       git2: c-Oyp0PqlzOp
+      Студент: c-pW5lslktEy
+      ok!: c-xzOznQ--So
   Статусы проверки:
     table_id: grid-9rACKd9zqI
     title:
@@ -399,6 +425,12 @@ tables:
       Відео-демки?: c-uFODJqTfFa
       Програма?: c-GlEIsqgar1
       Програма? modified: c-_R81yXLvP2
+      Прога: c-tnmULE1_pL
+      Прога 1: c-23vKd008hg
+      Git: c-Qt5qQ3Qr8H
+      Демки: c-4i0q13azHC
+      Звіти: c-uYzvV5ceP1
+      Захист: c-wlf9rohS91
   Ваши замечания:
     table_id: grid-WFVmJ0sdoE
     title:
@@ -438,7 +470,7 @@ tables:
     title:
     - value
     columns:
-      value: c-jfBIAznoaW
+      value (НЕ ЗМІНЮЙТЕ!): c-jfBIAznoaW
       Описание требований: c-Rd2ytFgaph
       value-int: c-zptG7puTc0
   Фильтрация отчётов:
@@ -459,7 +491,7 @@ tables:
     title:
     - Назва
     columns:
-      Назва: c-csnZl8hnfL
+      Назва (НЕ ЗМІНЮЙТЕ!): c-csnZl8hnfL
       Опис статусу: c-noeeA8CxoH
       value: c-ZSEKDo8xJD
       ico: c-cOB4OU0tod
@@ -543,6 +575,8 @@ tables:
       Готовность: c-qfGyT0EuWD
       Хочу: c-bJEPULi1uc
       Статус: c-BKSCNSFM7Q
+      ico: c-Rz2K3dlhoZ
+      Опис статусу: c-GLN2DHaC7e
   Готовность (log):
     table_id: grid-qQ7PfDnMh4
     title:
