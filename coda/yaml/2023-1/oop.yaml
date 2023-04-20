@@ -45,6 +45,8 @@ tables:
       Особенности ?: c-tUpPlBNMs5
       Студент: c-cqL5mNJcIp
       ok: c-AADPzgqEHi
+      date-ok: c-foaELAKnYr
+      Created on: c-bFPEdWS_RL
   При уничтожении:
     table_id: grid-Buyo0olohq
     columns:
@@ -181,9 +183,9 @@ tables:
       🎁 coda (+0.5): c-uRvDmZXRF2
       🎁 github: c-gPF8_A_wG0
       м45?: c-o79NdME_3D
-      ⏰м1: c-rokPaW5G-M
-      ⏰м2: c-7cm4dvNfI_
-      ⏰м3: c-Zd4phdyVGV
+      м1⏰: c-rokPaW5G-M
+      м2⏰: c-7cm4dvNfI_
+      м3⏰: c-Zd4phdyVGV
       github modified: c-R4QlPfMLiy
       github not empty: c-Cwg2FKlCq8
       пп ∑: c-vroDM-WDLm
@@ -209,6 +211,26 @@ tables:
       coda-interf: c-Aml3U_Khrs
       coda-video: c-gQx1Z5pPjQ
       coda-events: c-hfHXLzfI81
+      lb1-ok: c-tNWYO098cm
+      coda-interf (date-ok): c-2I7md1Hn__
+      coda-video (date-ok): c-IzRsb2Yeh9
+      coda-elem (date-ok): c-No0YHPNMQG
+      coda-events (date-ok): c-m17Sb10LN4
+      coda-interf (something): c-duYuYME5DU
+      coda-video (something): c-D97mYmZvzu
+      coda-elem (something): c-ztMJcKbb9B
+      coda-events (something): c-iCga2LuZUv
+      lb1-замечания: c-GK-32MXQhz
+      м4⏰: c-3uRPpR8tBF
+      м5⏰: c-E5xisPZ5-s
+      м6⏰: c-IUdGzq4kxW
+      м7⏰: c-qZzLjzOC-7
+      м8⏰: c-38_2YO6Gj_
+      ready1-git.ico: c-PDRfvUMh_j
+      ready1-coda.ico: c-sF3iwVv7au
+      ready1-defend.ico: c-cgCLZVnded
+      ready1-soft.ico: c-JO2LAsuP8i
+      ready1-video.ico: c-FHct-PlGpr
   Звіти щодо інтерфейсу:
     table_id: grid-ku2YscuhoT
     title:
@@ -260,6 +282,8 @@ tables:
       Задание: c-mZ0dzbKL5u
       Студент: c-bLhbEfXfIn
       ok: c-ZYKaWkPJwF
+      Created on: c-7NweX1t3aO
+      date-ok: c-hcD127nPkq
   Завдання:
     table_id: grid-Pw_0b22iFe
     title:
@@ -325,7 +349,7 @@ tables:
     - gold
     columns:
       Задание ⚙️: c-HjAbTdWH-0
-      Ваш отчёт по заданию: c-MWx7hBUE7e
+      Ваш опис (або демка): c-MWx7hBUE7e
       Куда?: c-QhKWT-Ip-w
       Coda: c-Jls-kXt87j
       status: c--GJ21c-46m
@@ -345,6 +369,7 @@ tables:
       Студент: c-38CnFbRw8f
       ok: c-EmzaU-seA1
       Created on: c-dRr9bfDkoI
+      date-ok: c-znpLicVIMN
   Лаби для звітів:
     table_id: grid-SOnbsNfY4h
     title:
@@ -390,6 +415,8 @@ tables:
       git2: c-Oyp0PqlzOp
       Студент: c-pW5lslktEy
       ok!: c-xzOznQ--So
+      date-ok: c-wQ1oTzHuZ0
+      Created on: c-ojdML2Ha9M
   Статусы проверки:
     table_id: grid-9rACKd9zqI
     title:
@@ -468,7 +495,7 @@ tables:
   Опис вимог щодо оцінки:
     table_id: grid-2HgjjGZ6qG
     title:
-    - value
+    - value (НЕ ЗМІНЮЙТЕ!)
     columns:
       value (НЕ ЗМІНЮЙТЕ!): c-jfBIAznoaW
       Описание требований: c-Rd2ytFgaph
@@ -489,7 +516,7 @@ tables:
   Опис статусів готовності:
     table_id: grid-m_6FWTVwH1
     title:
-    - Назва
+    - Назва (НЕ ЗМІНЮЙТЕ!)
     columns:
       Назва (НЕ ЗМІНЮЙТЕ!): c-csnZl8hnfL
       Опис статусу: c-noeeA8CxoH
