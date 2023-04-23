@@ -47,6 +47,8 @@ tables:
       ok: c-AADPzgqEHi
       date-ok: c-foaELAKnYr
       Created on: c-bFPEdWS_RL
+      date-no: c-w9Y5iRFPGs
+      Modified on: c-gy2CvjkwrO
   При уничтожении:
     table_id: grid-Buyo0olohq
     columns:
@@ -231,6 +233,13 @@ tables:
       ready1-defend.ico: c-cgCLZVnded
       ready1-soft.ico: c-JO2LAsuP8i
       ready1-video.ico: c-FHct-PlGpr
+      coda-elem (date-no): c-_Rc8tnkLcy
+      coda-events (date-no): c-DELo6uRgQb
+      coda-interf (date-no): c-EQ9AdzvTvr
+      coda-video (date-no): c-nzzBX8XefT
+      м8 +time: c-PEi_v3K192
+      'Apr-22: TG': c-NTFuHk1vEp
+      temp-check-bot: c-xz5RWQtpja
   Звіти щодо інтерфейсу:
     table_id: grid-ku2YscuhoT
     title:
@@ -284,6 +293,8 @@ tables:
       ok: c-ZYKaWkPJwF
       Created on: c-7NweX1t3aO
       date-ok: c-hcD127nPkq
+      date-no: c-e7FBm_k4Hy
+      Modified on: c-TG0YskbmXL
   Завдання:
     table_id: grid-Pw_0b22iFe
     title:
@@ -370,6 +381,8 @@ tables:
       ok: c-EmzaU-seA1
       Created on: c-dRr9bfDkoI
       date-ok: c-znpLicVIMN
+      date-no: c-8q0hS0mqY9
+      Modified on: c-azkbDh9svY
   Лаби для звітів:
     table_id: grid-SOnbsNfY4h
     title:
@@ -417,6 +430,8 @@ tables:
       ok!: c-xzOznQ--So
       date-ok: c-wQ1oTzHuZ0
       Created on: c-ojdML2Ha9M
+      date-no: c-8KW64hAFee
+      Modified on: c-VHLdGzHiYy
   Статусы проверки:
     table_id: grid-9rACKd9zqI
     title:
