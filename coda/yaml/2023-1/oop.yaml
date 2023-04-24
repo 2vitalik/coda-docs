@@ -177,38 +177,38 @@ tables:
       📽 п7: c-q_jdqg1mbn
       📽 п8: c-zbbalmXWo9
       🎁 tg (+0.5): c-7k1jgXkgFV
-      м4: c-AtzsMg-FUp
-      м5: c-vGW7BH03XC
+      м4 ✔️: c-AtzsMg-FUp
+      м5 ✔️: c-vGW7BH03XC
       🔲 м: c-MH_CgHK5Uo
       Coda (пошта): c-7JGXBmfJ6M
       м23?: c-9lkwDauC1p
       🎁 coda (+0.5): c-uRvDmZXRF2
       🎁 github: c-gPF8_A_wG0
-      м45?: c-o79NdME_3D
+      м45? 💬: c-o79NdME_3D
       м1⏰: c-rokPaW5G-M
       м2⏰: c-7cm4dvNfI_
       м3⏰: c-Zd4phdyVGV
       github modified: c-R4QlPfMLiy
-      github not empty: c-Cwg2FKlCq8
+      github not empty ✔️: c-Cwg2FKlCq8
       пп ∑: c-vroDM-WDLm
       ico no coda: c-OB4-TvDKIm
       ico пз: c-zpZ7BtqEys
       ico: c-wzNu0rmdy3
       telegram_id: c-17avCuVzQ3
       Registered in bot: c-lZbyFzL0vh
-      м6: c-4K3bs8zOiH
-      м7: c-7XbyY_8A1a
-      лб1?: c-HLJc7zZSon
+      м6 ✔️: c-4K3bs8zOiH
+      м7 ✔️: c-7XbyY_8A1a
+      лб1? 💬: c-HLJc7zZSon
       git? - очень долго не регили...: c-f2qn1uxI_k
-      +2 за 1 лабу?: c-5kLqc2VLX8
-      лб1 час!: c-mAyN8AGuk_
+      +2 за 1 лабу? 💬: c-5kLqc2VLX8
+      лб1 час! ⏱: c-mAyN8AGuk_
       m?: c-BxFuo8wTwI
       🎁 bot (+0.5): c-5NA8YuIHW9
-      м8: c-574L9jlxV3
+      м8 ✔️: c-574L9jlxV3
       '+2': c-BP70OGO2zm
-      m1?: c-1SbJKdwgVL
-      м1f: c-9-YXN_ek7e
-      м3f: c-T08TGZbzrh
+      m1? 💬: c-1SbJKdwgVL
+      м1f 🤖: c-9-YXN_ek7e
+      м3f 🤖: c-T08TGZbzrh
       coda-elem: c-0xNH4yQTSH
       coda-interf: c-Aml3U_Khrs
       coda-video: c-gQx1Z5pPjQ
@@ -223,16 +223,16 @@ tables:
       coda-elem (something): c-ztMJcKbb9B
       coda-events (something): c-iCga2LuZUv
       lb1-замечания: c-GK-32MXQhz
-      м4⏰: c-3uRPpR8tBF
-      м5⏰: c-E5xisPZ5-s
-      м6⏰: c-IUdGzq4kxW
-      м7⏰: c-qZzLjzOC-7
-      м8⏰: c-38_2YO6Gj_
-      ready1-git.ico: c-PDRfvUMh_j
-      ready1-coda.ico: c-sF3iwVv7au
+      м4 ⏰: c-3uRPpR8tBF
+      м5 ⏰: c-E5xisPZ5-s
+      м6 ⏰: c-IUdGzq4kxW
+      м7 ⏰: c-qZzLjzOC-7
+      м8 ⏰: c-38_2YO6Gj_
+      ready1-git.ico ✅: c-PDRfvUMh_j
+      ready1-coda.ico ✅: c-sF3iwVv7au
       ready1-defend.ico: c-cgCLZVnded
-      ready1-soft.ico: c-JO2LAsuP8i
-      ready1-video.ico: c-FHct-PlGpr
+      ready1-soft.ico ✅: c-JO2LAsuP8i
+      ready1-video.ico ✅: c-FHct-PlGpr
       coda-elem (date-no): c-_Rc8tnkLcy
       coda-events (date-no): c-DELo6uRgQb
       coda-interf (date-no): c-EQ9AdzvTvr
@@ -240,6 +240,9 @@ tables:
       м8 +time: c-PEi_v3K192
       'Apr-22: TG': c-NTFuHk1vEp
       temp-check-bot: c-xz5RWQtpja
+      м 1-7 💬: c-6DdWCqJiOT
+      'лб #1 status 💬': c-Ts2PDrIIl7
+      м8 💬: c--LLsG7Ne-I
   Звіти щодо інтерфейсу:
     table_id: grid-ku2YscuhoT
     title:
@@ -407,19 +410,19 @@ tables:
     - silver
     - gold
     columns:
-      Функция: c-zRccvPc_lh
+      Функція: c-zRccvPc_lh
       Тип: c-Cw8GgdxvkX
       git: c-dwKlKAPHVs
       note: c-DA5fp_UYwj
-      Ваше описание: c-R1T-Mix0GT
+      Ваш опис: c-R1T-Mix0GT
       Coda: c-89tbN3qgue
       Использовано: c-FWsjJNYswN
       ok?: c-sZDwHQO7Vv
-      Куда?: c-hc0D2T2Ggy
+      Куди?: c-hc0D2T2Ggy
       status: c-YHNqhXMGzy
       status !: c-jZcvpo792E
-      Иллюстрация: c-89eve4n59m
-      Видео-демка: c-ojDIBbmiFg
+      Ілюстрація: c-89eve4n59m
+      Відео-демка: c-ojDIBbmiFg
       coins: c-6siQ6gPB94
       bronze: c-yo1ee8aWso
       silver: c-r_vZF0bmRz

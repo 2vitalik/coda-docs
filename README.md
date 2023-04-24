@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.54
+* Load latest from coda: `oop`
+
 ### v.0.6.53
 * Load latest from coda: `oop`
 
