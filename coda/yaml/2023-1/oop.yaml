@@ -397,7 +397,7 @@ tables:
     table_id: grid-LPCI5LlK2K
     title:
     - Coda
-    - Функция
+    - Функція
     - Тип
     ignore:
     - coins.json
