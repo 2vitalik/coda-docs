@@ -120,9 +120,9 @@ tables:
       п🎓.json: c-79i7RP46IX
       п4: c-4iU4GQHWC0
       Start: c-OIhJxzZ-Ht
-      💰 1: c-5BEJLXkqNU
-      💯 1: c-gA4XPFCReZ
-      🔳1 🙏: c-uG1aa55_To
+      coins 1 💰: c-5BEJLXkqNU
+      mark 1 💯: c-gA4XPFCReZ
+      🔳1 🥹: c-uG1aa55_To
       ready1: c-35mKmJfotl
       ready2: c-KiqowJiCQO
       ready3: c-LUwy8GizzA
@@ -131,8 +131,8 @@ tables:
       🦋3 🙏: c-sR91EdXHxo
       🎓k 🙏: c-J1OdXFDciR
       🔲2 💯: c-l2C8iDy2ky
-      💰 1,2: c-f5OGLxfsuv
-      💯 1,2: c-vdgdIxiKk2
+      coin 1/2 💰: c-f5OGLxfsuv
+      mark 1/2 💯: c-vdgdIxiKk2
       🔳1 💯: c-tDAo_5-bbT
       🔳1?: c-lPj9LhPshW
       🔲2?: c-42CK6gVcb3
@@ -230,7 +230,7 @@ tables:
       м8 ⏰: c-38_2YO6Gj_
       ready1-git.ico ✅: c-PDRfvUMh_j
       ready1-coda.ico ✅: c-sF3iwVv7au
-      ready1-defend.ico: c-cgCLZVnded
+      ready1-defend.ico ✅: c-cgCLZVnded
       ready1-soft.ico ✅: c-JO2LAsuP8i
       ready1-video.ico ✅: c-FHct-PlGpr
       coda-elem (date-no): c-_Rc8tnkLcy
@@ -238,11 +238,19 @@ tables:
       coda-interf (date-no): c-EQ9AdzvTvr
       coda-video (date-no): c-nzzBX8XefT
       м8 +time: c-PEi_v3K192
-      'Apr-22: TG': c-NTFuHk1vEp
       temp-check-bot: c-xz5RWQtpja
       м 1-7 💬: c-6DdWCqJiOT
       'лб #1 status 💬': c-Ts2PDrIIl7
       м8 💬: c--LLsG7Ne-I
+      github URLs (other): c-ywf11GLhW9
+      mark1.1: c-2pbBar_hhb
+      mark1.2: c-dJ_ji8JGlL
+      mark2: c-wfYQnJJsNJ
+      use-half: c-BWoGhw1vI3
+      ___1: c-39nn-wDcqe
+      Copy of ___1: c-e1oAPh4hdH
+      Copy of Copy of ___1: c-bdMXGlHRTO
+      first-ok: c-fxHuBFhXYb
   Звіти щодо інтерфейсу:
     table_id: grid-ku2YscuhoT
     title:

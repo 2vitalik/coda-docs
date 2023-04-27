@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.56
+* Load latest from coda: `oop`
+
 ### v.0.6.55
 * Minor changes in titles for `oop`
 
