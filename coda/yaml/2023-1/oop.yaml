@@ -127,9 +127,9 @@ tables:
       ready2: c-KiqowJiCQO
       ready3: c-LUwy8GizzA
       readyK: c-weA3VYe8RR
-      🔲2 🙏: c-O5xSeSJrlX
-      🦋3 🙏: c-sR91EdXHxo
-      🎓k 🙏: c-J1OdXFDciR
+      🔲2 🥹: c-O5xSeSJrlX
+      🦋3 🥹: c-sR91EdXHxo
+      🎓k 🥹: c-J1OdXFDciR
       🔲2 💯: c-l2C8iDy2ky
       coin 1/2 💰: c-f5OGLxfsuv
       mark 1/2 💯: c-vdgdIxiKk2
@@ -240,17 +240,31 @@ tables:
       м8 +time: c-PEi_v3K192
       temp-check-bot: c-xz5RWQtpja
       м 1-7 💬: c-6DdWCqJiOT
-      'лб #1 status 💬': c-Ts2PDrIIl7
+      'лб #1 💬': c-Ts2PDrIIl7
       м8 💬: c--LLsG7Ne-I
       github URLs (other): c-ywf11GLhW9
       mark1.1: c-2pbBar_hhb
       mark1.2: c-dJ_ji8JGlL
       mark2: c-wfYQnJJsNJ
       use-half: c-BWoGhw1vI3
-      ___1: c-39nn-wDcqe
-      Copy of ___1: c-e1oAPh4hdH
-      Copy of Copy of ___1: c-bdMXGlHRTO
+      _____1: c-39nn-wDcqe
+      _____2: c-e1oAPh4hdH
+      _____3: c-bdMXGlHRTO
       first-ok: c-fxHuBFhXYb
+      м🔲.json: c-UjA63WyB8r
+      🎁 ∑: c-DanN8hfq_z
+      🎁.json: c-wgRWxXTX2y
+      'лб #2 💬': c-7qyL9RN3cV
+      +2 за 1 лабу? 💬 (old): c-AM1sDDq0z0
+      'лб #2 ✔️': c-NibKB_CLie
+      'лб #1 ✔️': c-TlREL3Kc_y
+      ready2-git.ico ✅: c-bqizDA0Oev
+      ready2-soft.ico ✅: c-zarwvafQRz
+      ready2-video.ico ✅: c-hhsoX7zTuz
+      ready2-coda.ico ✅: c-TgqjZkcdu_
+      ready2-defend.ico ✅: c-gV_ie5276h
+      м8 ✔️ 3: c-0P6NL3r0O8
+      м 1-7 ✔️: c-bSNY9kU5Ce
   Звіти щодо інтерфейсу:
     table_id: grid-ku2YscuhoT
     title:
@@ -659,5 +673,5 @@ tables:
     columns:
       Дата: c-diXN52dUuz
       '#': c-vBD_SUUN1e
-      Що на ньому було?: c-jnGrcnN7PV
+      Відео у Telegram: c-jnGrcnN7PV
       Хвилин: c-lJm-YY_K06
