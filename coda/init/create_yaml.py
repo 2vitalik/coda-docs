@@ -238,18 +238,18 @@ if __name__ == '__main__':
             'doc_id': 'RS6X6cg3mC',
             'telegram_chat': -603913534,
         },
-        {
-            'semester': '2023-1',
-            'doc_name': 'timetable',
-            'doc_id': 'yXxNDhyt7r',
-            'telegram_chat': -1001443393626,
-        },
-        {
-            'semester': '2023-1',
-            'doc_name': 'oop',
-            'doc_id': '1GDyxjRqoL',
-            'telegram_chat': -436357091,
-        },
+        # {
+        #     'semester': '2023-1',
+        #     'doc_name': 'timetable',
+        #     'doc_id': 'yXxNDhyt7r',
+        #     'telegram_chat': -1001443393626,
+        # },
+        # {
+        #     'semester': '2023-1',
+        #     'doc_name': 'oop',
+        #     'doc_id': '1GDyxjRqoL',
+        #     'telegram_chat': -436357091,
+        # },
     ]
 
     for doc in docs:
