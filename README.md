@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.6.60
+* Bug-fix in `tt`
+
 ### v.0.6.59
 * Bug-fix in `tt`
 
