@@ -232,12 +232,12 @@ if __name__ == '__main__':
         #     'telegram_chat': -603913534,
         # },
         # ====================================================================
-        {
-            'semester': '2023-1',
-            'doc_name': 'tt-21',
-            'doc_id': 'RS6X6cg3mC',
-            'telegram_chat': -603913534,
-        },
+        # {
+        #     'semester': '2023-1',
+        #     'doc_name': 'tt-21',
+        #     'doc_id': 'RS6X6cg3mC',
+        #     'telegram_chat': -603913534,
+        # },
         # {
         #     'semester': '2023-1',
         #     'doc_name': 'timetable',
@@ -250,6 +250,13 @@ if __name__ == '__main__':
         #     'doc_id': '1GDyxjRqoL',
         #     'telegram_chat': -436357091,
         # },
+        # ====================================================================
+        {
+            'semester': '2023-2',
+            'doc_name': 'timetable',
+            'doc_id': 'sYR0tZEp3F',
+            'telegram_chat': -1001443393626,
+        },
     ]
 
     for doc in docs:

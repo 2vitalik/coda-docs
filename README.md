@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.7.0
+* Add new `2023-2/timetable.yaml`
+
 ### v.0.6.60
 * Bug-fix in `tt`
 

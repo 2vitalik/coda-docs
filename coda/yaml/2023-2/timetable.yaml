@@ -1,0 +1,77 @@
+telegram_chat: '-1001443393626'
+doc_id: sYR0tZEp3F
+tables:
+  Расписание:
+    table_id: grid-LM2Kc5vbZh
+    columns:
+      Title (todo): c-I6Zkte0YMu
+      Предмет: c-ueNqnTMQ80
+      Вид: c-cHTcPHD83w
+      Ауд: c-PsDgVN7slK
+      Комментарий: c-ciEFouJEbs
+      Дата: c-nemBUeeEzr
+      Время: c-EYnTRER1Ta
+      Группа: c-OELcp-EWR_
+      sys: c-SgcEUksTtE
+      👁 Скрыть: c-qTLvStPsxs
+      👁 Показать: c-RvUTVnAOud
+      visible: c-99gjmtF93k
+      W: c-9S_7w_6lkD
+      sent: c-3hRm2qlX2a
+      '#': c-QpBvpopvf8
+      Created on: c-rxIjgjfjGJ
+      potok_slug: c-TwH2AaBGsa
+      muted: c-qtg_oTcH2w
+      Конец: c-A5NDqImh-7
+      Calendar From: c-KdPfVVK5no
+      Calendar To: c-DPLnmVRBdb
+      removed: c-mCuCkxdjHE
+      ✏️ конец: c-B4okq8QYw9
+      Преподаватель: c-9xOsZNcISe
+      Старт: c-EgIg5BFKgW
+      '✏️ #': c-HBVSKh2q0C
+      ✏️ преподаватель: c-LKughZCX2y
+  Группы:
+    table_id: grid-E_SiIa5N8z
+    columns:
+      Группа: c-QsAsfmqISS
+      Спец: c-fGFqAOpzlT
+      Год: c-nB_fOuzhI1
+      Номер: c-g9gApUjf9c
+      Канал (id): c-FxoWDsSxcj
+      potok_slug: c-zoE71ZT3MQ
+      Icons: c-TK7gv1_8Gy
+      В чате: c-GLcora3m0o
+      Опрос: c-Lve3xFlRqy
+      '% опрос': c-HPzj4zXJlw
+      Лидер: c-RcmddyvI8w
+      '% лидер': c-QpevgwQMO7
+      В боте: c-ES3Cs1dhVr
+      '% боте': c-SOv8aFSMWe
+      Опрос modified: c-QUFxQiU2S4
+      done: c-_PQ_bLvJmB
+      В опросе: c-Q3IhhLPNtJ
+      date2: c-HSP251DGU6
+      Column 14: c-P7SgIj0T51
+      Copy of % опрос: c-QpKyr9ATmX
+      Второй тур?: c-X_QqGk1hfG
+      fixed: c-HKdqipEhtV
+  Предметы:
+    table_id: grid-iseKe-hrQR
+    columns:
+      Сокращение: c-oWwmvn51Ue
+      Полное название: c-k40aLzXD1u
+      potok_slug: c-1AWBkQ1mhI
+      Иконка (todo): c-Ek3NbI_rm1
+      Common: c-jBiyZnj4SF
+      Alternative: c-UZTBA9mgru
+      Created on: c-C052Db1z-d
+      link: c-y2e2M9DQ3v
+      Meet-посилання: c-1As_JEKikn
+      Column 10: c-W7YJDn5Zfy
+  Виды занятий:
+    table_id: grid-eBewopbgUo
+    columns:
+      Сокр.: c-SPACkhkGu2
+      Иконка: c-RzBz3E2_tj
+      Описание: c-10crgyaTT5
