@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.7.1
+* Add new `2023-2/tt-22.yaml`
+
 ### v.0.7.0
 * Add new `2023-2/timetable.yaml`
 
