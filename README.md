@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.7.2
+* Change slugs in classes (tt)
+
 ### v.0.7.1
 * Add new `2023-2/tt-22.yaml`
 

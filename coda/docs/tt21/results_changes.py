@@ -3,7 +3,7 @@ from coda.lib import Coda
 
 class ResultsChanges:
     def __init__(self, semester, coda_token):
-        self.coda = Coda('tt-21', semester, coda_token)
+        self.coda = Coda('tt-22', semester, coda_token)
         self.table = self.coda.table('История изменения итогов')
         self.data = self.table.rows_dict()
 
