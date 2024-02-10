@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.7.3
+* Add new `2024-1/timetable.yaml`
+
 ### v.0.7.2
 * Change slugs in classes (tt)
 

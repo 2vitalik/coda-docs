@@ -263,6 +263,13 @@ if __name__ == '__main__':
             'doc_id': 'EkMPD-98lz',
             'telegram_chat': -603913534,
         },
+        # ====================================================================
+        {
+            'semester': '2024-1',
+            'doc_name': 'timetable',
+            'doc_id': 'F7M3c032cb',
+            'telegram_chat': -1001443393626,
+        },
     ]
 
     for doc in docs:
