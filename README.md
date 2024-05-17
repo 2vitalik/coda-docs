@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.7.5
+* Add new `2024-1/tt-22.yaml`
+
 ### v.0.7.4
 * Add new `2024-1/timetable.yaml` (bug-fix)
 
