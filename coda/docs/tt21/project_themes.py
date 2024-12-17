@@ -4,7 +4,7 @@ from coda.lib import Coda
 
 class ProjectThemes(IndexerMixin):
     def __init__(self, semester, coda_token):
-        self.coda = Coda('tt-22', semester, coda_token)
+        self.coda = Coda('tt-23', semester, coda_token)
         self.table = self.coda.table('Темы проектов')
         self.data = self.table.rows_dict()
         self.indexes = {}

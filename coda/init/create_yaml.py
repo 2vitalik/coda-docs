@@ -283,12 +283,12 @@ if __name__ == '__main__':
             'doc_id': 'hTosFjkfFg',
             'telegram_chat': -1001443393626,
         },
-        # {
-        #     'semester': '2024-2',
-        #     'doc_name': 'tt-23',
-        #     'doc_id': 'todo',
-        #     'telegram_chat': -603913534,
-        # },
+        {
+            'semester': '2024-2',
+            'doc_name': 'tt-23',
+            'doc_id': '21u5mAJaa_',
+            'telegram_chat': -603913534,
+        },
     ]
 
     for doc in docs:
