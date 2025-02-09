@@ -2,6 +2,9 @@
 
 ## Changes History
 
+### v.0.7.10
+* Bug-fix in `2025-1/timetable.yaml`
+
 ### v.0.7.9
 * Add new `2025-1/timetable.yaml`
 * Add new `2025-1/tt-23.yaml`
