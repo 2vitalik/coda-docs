@@ -290,17 +290,24 @@ if __name__ == '__main__':
         #     'telegram_chat': -603913534,
         # },
         # ====================================================================
+        # {
+        #     'semester': '2025-1',
+        #     'doc_name': 'timetable',
+        #     'doc_id': 'huz_lGXO4n',
+        #     'telegram_chat': -1001443393626,
+        # },
+        # {
+        #     'semester': '2025-1',
+        #     'doc_name': 'tt-23',
+        #     'doc_id': '_f6glF7PMi',
+        #     'telegram_chat': -603913534,
+        # },
+        # ====================================================================
         {
-            'semester': '2025-1',
+            'semester': '2025-2',
             'doc_name': 'timetable',
-            'doc_id': 'huz_lGXO4n',
+            'doc_id': '-XHBrn3SbD',
             'telegram_chat': -1001443393626,
-        },
-        {
-            'semester': '2025-1',
-            'doc_name': 'tt-23',
-            'doc_id': '_f6glF7PMi',
-            'telegram_chat': -603913534,
         },
     ]
 
