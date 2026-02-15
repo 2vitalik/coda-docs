@@ -303,10 +303,16 @@ if __name__ == '__main__':
         #     'telegram_chat': -603913534,
         # },
         # ====================================================================
+        # {
+        #     'semester': '2025-2',
+        #     'doc_name': 'timetable',
+        #     'doc_id': '-XHBrn3SbD',
+        #     'telegram_chat': -1001443393626,
+        # },
         {
-            'semester': '2025-2',
+            'semester': '2026-1',
             'doc_name': 'timetable',
-            'doc_id': '-XHBrn3SbD',
+            'doc_id': '2rmU3cGqEs',
             'telegram_chat': -1001443393626,
         },
     ]
